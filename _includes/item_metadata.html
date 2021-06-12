@@ -1,0 +1,49 @@
+<dl class='metadata-block'>
+  {% for item in include.meta %}
+    {% if item.value contains 'page.' %}
+      {% assign key = item.value | remove: 'page.' %}
+      {% assign value = page[key] %}
+    {% else %}
+      {% assign value = item.value %}
+    {% endif %}
+
+    {% comment %}
+    Only display non-empty values
+    {% endcomment %}
+    {% if value | strip != '' %}
+      {% if item.type == 'link' %}
+        {% if key == 'manifest' %}
+          {%- capture value -%}
+            <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">{{ value | absolute_url }}</a>
+          {%- endcapture -%}
+        {% else %}
+          {%- capture value -%}
+            <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">
+              {{ value | absolute_url | remove: 'https://' | remove: 'http://' | split: "/" | first }}
+            </a>
+          {%- endcapture -%}
+        {% endif %}
+      {% endif %}
+ 
+	 
+	  {% if key == 'tags' %}
+	  <dt>{{ item.label }}</dt>
+	  <dd>
+	  {% for tag in page.tags %}
+	  <a href="/tags/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+	  {% endfor %}
+	  </dd>
+	  {% endif %}
+	  
+        <dt>{{ item.label }}</dt>
+        <dd>{{ value | strip }}</dd>
+    {% endif %}
+  {% endfor %}
+	<dt>Genre</dt>
+	<dd><a href="/genres/{{ page.genre | slugify: 'pretty' }}/">{{page.genre}}</a></dd>
+<dt>Tags</dt>
+<dd>
+{% for tag in page.tags %}
+<a href="/tags/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+{% endfor %}
+</dd>

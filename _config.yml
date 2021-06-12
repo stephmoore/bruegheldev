@@ -1,0 +1,193 @@
+# ==============================================================
+# WAX CONFIGURATION
+# ==============================================================
+# Jekyll configuration files are written in YAML format.
+# Colons, tabs/spacing, and quotes are meaningful in YAML.
+# It is recommended you look at the following guide to avoid
+# syntax errors in this file:
+# ~> https://learnxinyminutes.com/docs/yaml/
+#
+#
+# Questions ?
+# ~> https://minicomp.github.io/wiki/#/
+# ~> https://gitter.im/minicomp/wax/
+#
+# ---------------------------------------------------------------
+# MAIN SETTINGS
+# ---------------------------------------------------------------
+# Feel free to change these! For more info, refer to:
+# ~> https://jekyllrb.com/docs/configuration/options/
+
+title:            'Jan Brueghel Catalogue Raisonné'
+description:      ''
+url:              'http://localhost:4000'
+baseurl:          ''
+copyright:        '2020'
+logo:             '/img/logo.png'
+
+# ---------------------------------------------------------------
+# BUILD SETTINGS
+# ---------------------------------------------------------------
+# Best not to mess with these unless you know what you're doing!
+
+permalink: 'pretty'
+sass:
+  style: compressed
+exclude:
+  - Gemfile*
+  - Rakefile
+  - vendor
+  - spec
+  - README.md
+webrick:
+  headers:
+    'Access-Control-Allow-Origin': '*'
+kramdown:
+ auto_ids:       true
+ footnote_nr:    1
+ entity_output:  as_char
+ footnote_backlink: "&#x21a9;&#xfe0e;"
+ toc_levels:     1..6
+ smart_quotes:   lsquo,rsquo,ldquo,rdquo
+ enable_coderay: false
+
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: true
+  brueghel: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'brueghel_item' # the layout for the pages to use
+    metadata:
+      source: 'brueghel.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/brueghel' # path to the directory of images within `_data`
+  pieterbrueghel: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'pieterbrueghel_item' # the layout for the pages to use
+    metadata:
+      source: 'pieterbrueghel.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/brueghel' # path to the directory of images within `_data`
+  biographies:
+    output: true
+    layout: 'biography_item'
+    metadata:
+      source: 'biographies.csv'
+    images:
+      source: 'raw_images/biographies'
+  tags:
+    output: true
+    layout: 'tagpage'
+  genres:
+    output: true
+    layout: 'genrepage'
+
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      brueghel:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - object_type
+          - genre
+          - tags
+          - realdate
+          - support
+          - signature
+          - support_mark
+          - collaborators
+          - collaborator_notes
+          - collectors_patrons
+          - print_type
+          - print_notes
+          - printmaker
+          - publisher
+          - states
+          - our_attribution
+          - other_attribution_authorities
+          - ertz_1979
+          - ertz_2008
+          - bailey_walker
+          - hollstein_no
+          - collection_type
+          - location_country
+          - location_city
+          - location_collection
+          - location_or_most_recent_sale_notes
+          - provenance
+          - bibliography
+          - exhibition_history
+          - copies_and_variants
+          - biblio
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: 'About'
+    sub:
+      - label: 'About the Project'
+        link: '/about/'
+      - label: 'About Jan Brueghel'
+        link: '/brueghel/'
+      - label: 'Credits'
+        link: '/credits/'
+  - label: 'Browse'
+    sub:
+      - label: 'By object type'
+        link: '/browse-objects/'
+      - label: 'By genre'
+        link: '/browse-genres/'
+      - label: 'By location'
+        link: '/browse-locations/'
+  - label: 'Search'
+    link: '/search/'
+
+# --------------------------------------------------------------
+# SITE FOOTER SETTINGS
+# --------------------------------------------------------------
+#
+
+footer:
+  links:
+    - label: 'GitHub'
+      link: 'https://github.com/minicomp/wax'
+    - label: 'Credits'
+      link: '/credits'
+    - label: 'Contact'
+      link: 'https://gitter.im/minicomp/wax/'
+  logos:
+    - img: '/img/logo.png'
+
+plugins:
+- jekyll/tagging
+
+scholar:
+  source: _bibliography
+  bibliography: 'references.bib'
+  style: modern-language-association

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jan Brueghel the Elder Complete Catalog</title>
+
+  <link rel="canonical" href="/"/>
+  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="stylesheet" href="assets/styles.css"/>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap" rel="stylesheet"> 
+
+  <script type="text/javascript" src="assets/jquery-3.2.1.min.js"></script>
+  <noscript><p>Please enable JavaScript in your browser.</p></noscript>
+
+  <style>
+
+    #brueghel-main {
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+
+    #brueghel-header.mb-2 {
+      margin-bottom: 0 !important;
+    }
+
+    .object-type-container {
+      position: relative;
+      width: 200px;
+      height: 50px;
+      overflow: hidden;
+    }
+
+    .object-type-image, .object-type-overlay, .object-type-text {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+
+    .object-type-image {
+      z-index: 0;
+    }
+
+    .object-type-overlay {
+      z-index: 1;
+      opacity: 0.7;
+      transition: .5s ease;
+      background-color: #9f484e ;
+    }
+
+    .object-type-container:hover .object-type-overlay {
+      opacity: 0.2;
+    }
+
+    .object-type-text {
+      z-index: 5;
+      color: white;
+      text-align: center;
+      font-size: 24px;
+      font-family: 'EB Garamond', serif;
+      font-style: italic;
+      font-weight: 300;
+    }
+
+    .object-type-image img {
+      width: 200px;
+      height: 150px;
+    }
+
+    .browsing-menu-header {
+      font-size: 24px;
+      color: #fff;
+    }
+
+    .browsing-menu-list {
+      list-style: none;
+    }
+
+    .main-content-row {
+      margin-top: 30px;
+    }
+
+    a {
+      color: #a8b2e1;
+      text-decoration: none;
+    }
+
+    a:hover, a:active {
+      color: #fff;
+      text-decoration: none;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  
+  <!--HEADER-->
+  <div id="brueghel-header" class="container-fluid p-0 m-0 mb-2">
+
+    <nav class="navbar navbar-expand-lg navbar-light pt-0 pb-0">
+
+      <!-- Logo -->
+      <a href="">
+        <div class="col d-inline-flex">
+          <div><img src="img/jan_icon.png" id="jan-logo" alt=""></div>
+          <div class="p-2">
+            <h1 id="jan-title" class="text-nowrap">Jan Brueghel the Elder</h1>
+            <h2 id="jan-subtitle" class="text-nowrap">Complete Catalog</h2>
+          </div>
+        </div>
+      </a>
+      <!-- End Logo -->
+
+      <!-- Menu Toggle Button -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+      </button>
+      <!-- End Menu Toggle Button -->
+
+      <!-- Menu -->
+      <div class="container" style="max-width:none;">
+
+        <!-- Row 1 -->
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav flex-column">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Browse by</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown01">
+                <a class="dropdown-item" href="#">Object Type</a>
+                <a class="dropdown-item" href="#">Genre</a>
+                <a class="dropdown-item" href="#">Tag</a>
+                <a class="dropdown-item" href="#">Date</a>
+                <a class="dropdown-item" href="#">Cat. No.</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown02">
+                <a class="dropdown-item" href="#">Jan Brueghel</a>
+                <a class="dropdown-item" href="#">The Site</a>
+                <a class="dropdown-item" href="#">Team</a>
+              </div>
+            </li>
+
+            <li class="nav-item">
+              <a href="" class="nav-link">Search</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Row 2 -->
+        <div class="collapse navbar-collapse flex-row notextwrap-all" id="navbarCollapseBottom">
+          <ul class="navbar-nav flex-column">
+            
+            <li class="nav-item">
+              <a href="" class="nav-link">Bibliography</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="" class="nav-link">Biographies</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="" class="nav-link">Scale Gallery</a>
+            </li>
+
+          </ul>
+        </div>
+
+      </div>
+      <!-- End Menu -->
+
+      <!--Pieter Link-->
+      <a href="" class="d-none d-lg-flex">
+        <div class="col-3 d-inline-flex">
+          <div><img src="img/pieter_icon.png" id="pieter-logo" alt=""></div>
+          <div><h2 id="pieter-link-text" class="text-wrap p-2">Pieter Bruegel Catalog</h2>
+          </div>
+        </div>
+      </a>
+
+    </nav>
+  </div>
+    
+  <!--Parallax Image-->   
+  <div class="wax-parallax full-width top-banner">
+    <div class="parallax-image" style="background-image: url('img/allegory_of_sight.jpg'); background-position: 0% 25%; height: 500px !important;">
+    </div>
+  </div>
+    
+  <!--Main Content-->
+  <div id="brueghel-main" class="container">
+
+    <!--Object Type Icons-->
+    <div class="row">
+      <div class="col">
+        <a href="#">
+          <div class="object-type-container">
+            <div class="object-type-text">Paintings</div>
+            <div class="object-type-image"><img src="img/jan_paintings.jpg"/></div>
+            <div class="object-type-overlay"></div>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <div class="">
+          <a href="#">
+            <div class="object-type-container">
+              <div class="object-type-text">Drawings</div>
+              <div class="object-type-image"><img src="img/jan_drawings.jpg"/></div>
+              <div class="object-type-overlay"></div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col">
+        <div class="">
+          <a href="#">
+            <div class="object-type-container">
+              <div class="object-type-text">Prints</div>
+              <div class="object-type-image"><img src="img/jan_prints.jpg"/></div>
+              <div class="object-type-overlay"></div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col">
+        <div class="">
+          <a href="#">
+            <div class="object-type-container">
+              <div class="object-type-text">Oil Sketches</div>
+              <div class="object-type-image"><img src="img/jan_oil_sketches.jpg"/></div>
+              <div class="object-type-overlay"></div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row main-content-row">
+      <!--About Text-->
+      <div id="brueghel-content" class="col">
+        <p>Jan Brueghel (1568-1625) was a painter of immense diversity. His work includes biblical, mythological, and classical histories, battle scenes, hellscapes, seascapes, floral garlands and still lifes, portraits and genre scenes, as well as many sorts of landscape: woodland hunts, mountain prospects, country roads and rivers, and villages. While his surviving oeuvre consists of about 350-400 autograph paintings (including collaborative works), hundreds more are, to varying degrees, associated with his hand or his conception. <a href="/brueghel/">Read more about Jan Brueghel</a></p>
+      </div>
+
+      <!--Menus-->
+      <div class="col">
+        <!--Browse by genre-->
+        <div class="browsing-menu">
+          <h6 class="browsing-menu-header">Browse by genre</h6>
+          <ul class="browsing-menu-list">
+            <li class="browsing-menu-list-item"><a HREF="">Staffage in landscape</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Religious</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Allegory</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Flower Still Life/Nature Study</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Garland</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">More...</a></li>
+          </ul>
+        </div>
+
+        <!--Or browse by-->
+        <div class="browsing-menu">
+          <h6 class="browsing-menu-header">Or browse by</h6>
+          <ul class="browsing-menu-list">
+            <li class="browsing-menu-list-item"><a HREF="">Tag</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Location</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Date</a></li>
+            <li class="browsing-menu-list-item"><a HREF="">Cat. No.</a></li>
+        </div>
+
+      </div>
+      
+    </div>
+
+  </div>
+
+
+  <!--Footer-->
+  <footer id="brueghel-footer" class="page-footer">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <p class="footer-title">Jan Brueghel Catalogue Raisonné</p>
+          <p class="footer-description"></p>
+          <p class="footer-copyright">
+            &copy; Built with <a href="https://github.com/minicomp/wax/">Minicomp/Wax</a>
+          </p>
+        </div>
+        <div class="col">
+          <p class="footer-title">Links</p>
+          <p class="footer-links">
+              <a href="https://github.com/minicomp/wax">
+                GitHub
+              </a>
+            / 
+              <a href="/credits">
+                Credits
+              </a>
+            /
+              <a href="https://gitter.im/minicomp/wax/">
+                Contact
+              </a>
+          </p>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+<!--Scripts-->
+<script type="text/javascript" async defer src="assets/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" async defer src="assets/popper.min.js"></script>
+
+</html>

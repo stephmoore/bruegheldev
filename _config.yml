@@ -22,8 +22,8 @@ title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
 url:              ''
 baseurl:          ''
-copyright:        '2020'
-logo:             '/img/logo.png'
+copyright:        ''
+logo:             ''
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS

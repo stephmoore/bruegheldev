@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
-url:              'https://stephmoore.github.io/bruegheldev/_site/index.html'
-baseurl:          'https://stephmoore.github.io/bruegheldev/'
+url:              'https://stephmoore.github.io'
+baseurl:          '/bruegheldev'
 copyright:        ''
 logo:             ''
 

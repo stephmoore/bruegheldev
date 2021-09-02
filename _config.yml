@@ -21,7 +21,11 @@
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
 <<<<<<< HEAD
+<<<<<<< HEAD
 url:              'https://stephmoore.github.io/'
+=======
+url:              'https://stephmoore.github.io'
+>>>>>>> parent of 1d335984 (Update _config.yml)
 baseurl:          'bruegheldev'
 copyright:        ''
 logo:             ''

@@ -21,7 +21,7 @@
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
 url:              'https://stephmoore.github.io'
-baseurl:          '/bruegheldev'
+baseurl:          'bruegheldev'
 copyright:        ''
 logo:             ''
 

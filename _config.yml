@@ -65,12 +65,17 @@ url:              '/'
 url:              ''
 >>>>>>> parent of dc72aa7f (config)
 baseurl:          ''
+<<<<<<< HEAD
 >>>>>>> parent of c687d63d (Update _config.yml)
 copyright:        ''
 logo:             ''
 =======
 url:              ''
 baseurl:          ''
+copyright:        '2020'
+logo:             '/img/logo.png'
+>>>>>>> parent of 43e06c4f (test)
+=======
 copyright:        '2020'
 logo:             '/img/logo.png'
 >>>>>>> parent of 43e06c4f (test)

@@ -24,6 +24,7 @@ description:      ''
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 url:              'https://stephmoore.github.io/'
 =======
 url:              'https://stephmoore.github.io'
@@ -45,6 +46,10 @@ baseurl:          'https://github.com/stephmoore/bruegheldev/'
 =======
 baseurl:          'https://github.com/stephmoore/bruegheldev'
 >>>>>>> parent of 2aa79131 (Update _config.yml)
+=======
+url:              'bruegheldev/'
+baseurl:          ''
+>>>>>>> parent of c687d63d (Update _config.yml)
 copyright:        ''
 logo:             ''
 =======

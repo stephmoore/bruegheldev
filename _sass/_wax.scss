@@ -6,72 +6,11 @@ main body & containers
 
 */
 
-      .hovereffect {
-        width: 100%;
-        height: 100%;
-        float: left;
-        overflow: hidden;
-        position: relative;
-        text-align: center;
-        vertical-align: center;
-        cursor: default;
-
-        &:hover {
-          .overlay {
-            opacity: .3;
-            cursor: pointer;
-            .info {
-              /*opacity: 1;
-              filter: alpha(opacity=100);
-              -webkit-transform: scale(1);
-              -ms-transform: scale(1);
-              transform: scale(1);
-              display: none; */
-            }
-          }
-        }
-
-        .info {
-          text-decoration: none;
-          font-family: $title-font !important;
-          font-style: italic !important;
-          color: #ffffff !important;
-          background-color: transparent;
-          opacity: 1;
-          /*
-          filter: alpha(opacity=1);
-          -webkit-transform: scale(0);
-          -ms-transform: scale(0);
-          transform: scale(0);*/
-          font-weight: normal;
-          font-size: 1.5em;
-          line-height: 1rem;
-          overflow: hidden;
-          display: table-cell;
-          padding: .4rem;
-        }        
-
-        .overlay {
-          width: 100%;
-          position: absolute;
-          overflow: hidden;
-          top: 0;
-          left: 0;
-          background-color: $title-color;
-          opacity: .7;
-          -webkit-transition:opacity 0.5s ease-in-out;
-          transition: opacity 0.5s ease-in-out;
-          display: table;
-          height: 200px;
-        }
-      }
-
 html, body {
   margin: 0;
   padding: 0;
   background-color: $bg-color;
   font-family: $body-font;
-  font-weight: 300;
   font-display: auto;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -79,14 +18,14 @@ html, body {
 }
 
 a {
-  color: $link-color;
+  color: $accent-light;
   font-weight: 700;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: $link-color;
+  color: $accent-dark;
 }
 
 p {
@@ -102,88 +41,52 @@ p {
 }
 
 /*
-div {
- border: 1px solid red;
- }
-*/
-
-/*
 
 header & nav bar
 
 */
 
-#brueghel-header {
-  background-color: $head-bg-color;
-  border-bottom: 1px solid $head-bg-color;
+#wax-header {
+  background-color: $bg-color;
+  border-bottom: 1px solid $text-color;
+  font-family: $heading-font;
+  color: $text-color;
   z-index: 100000;
   padding: $margin;
   letter-spacing: 0.075rem;
 
-  #pieter-logo {
-    width: 50px;
-  }
-      
-  #jan-logo {
-    width: 100px;
-  }
-      
-  #jan-title {
-    font-size: 2em;
-    color: $title-color;
-    font-family: 'EB Garamond', serif;
-    font-variant: small-caps;
-  }
-      
-  #jan-subtitle {
-    font-size: 1.5em;
-    color: $title-color;
-    font-family: 'EB Garamond', serif;
-    font-style: italic;
-  }
-      
-  #pieter-link-text {
-    font-size: .75em;
-  }
-  
-  #pieter-link-text {
-    color: $title-color;;
-    font-family: 'EB Garamond', serif;
-    font-variant: small-caps;
-  }
-
   .navbar-brand {
     font-weight: 700;
-    color: $head-bg-color;
+    color: $accent-light;
     font-size: 2rem;
     white-space: normal;
   }
 
   .navbar-brand:hover {
-    color: $head-bg-color;
+    color: $accent-dark;
   }
 
   .navbar-toggler {
-    background-color: $head-bg-color;
+    background-color: $bg-color;
   }
 
   .navbar-nav {
     .nav-item {
       z-index: 1000000;
+      background-color: $bg-color;
     }
     .nav-link {
-      color: $menu-link-color;
-      font-size: 0.75em;
+      color: $text-color;
     }
     .nav-link:hover {
-      color: $menu-link-color;
+      color: $accent-dark;
     }
     .nav-link:active {
-
+      background-color: $bg-color;
     }
     .dropdown-menu {
-      background-color: $head-bg-color;
-      border-color: $bg-color;
+      background-color: $bg-color;
+      border-color: $neutral;
       .dropdown-item:focus {
         background-color: transparent;
       }
@@ -196,8 +99,7 @@ header & nav bar
 content section
 
 */
-
-#brueghel-main {
+#wax-main {
   background-color: $bg-color;
   width: 100vw;
   max-width: 100%;
@@ -253,11 +155,31 @@ content section
     max-width: 100%;
   }
 
-  #brueghel-content {
+  #wax-content {
     min-height: 70vh;
 
+    .exhibit-meta {
+      margin-bottom: $super-margin;
+
+      .exhibit-author {
+        margin-top: $more-margin;
+        margin-bottom: 1em;
+        padding-bottom: 0;
+      }
+      .exhibit-title {
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 0;
+      }
+      .exhibit-date {
+        margin: 0;
+        padding: 0;
+        font-weight: 400;
+      }
+    }
+
     .inline-image-reference {
-      background-color: $bg-color;
+      background-color: $neutral;
       margin-top: $more-margin;
       margin-bottom: $more-margin;
       display: inline-block;
@@ -275,11 +197,11 @@ content section
   }
 }
 
-#brueghel-footer {
+#wax-footer {
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
-  background-color: $bg-color;
+  background-color: $neutral;
   col {
     flex-basis: 0;
     flex-shrink: 0;
@@ -346,10 +268,14 @@ content section
   margin-top: $more-margin;
 }
 
+.wax-parallax.top-banner {
+
+}
+
 .wax-parallax {
 
   .parallax-image {
-    background-color: $bg-color;
+    background-color: $neutral;
     width: 100vw;
     height: $parallax-height;
     max-height: 55vh;
@@ -360,17 +286,17 @@ content section
   .parallax-caption {
     margin: 0 auto;
     width: 100vw;
-    background-color: $bg-color;
+    background-color: $neutral;
     padding: $less-margin 0;
     a {
-      color: $link-color;
+      color: $accent-light;
       font-weight: 700;
       text-decoration: none;
     }
 
     a:hover {
       text-decoration: underline;
-      color: $link-color;
+      color: $accent-dark;
     }
   }
 }
@@ -393,9 +319,9 @@ item pages (iiif + metadata)
     text-align: center;
     height:   $viewer-height;
     max-height: 80vh;
-    background-color: $bg-color;
+    background-color: $neutral;
     width:    100%;
-    border:   1px solid $bg-color;
+    border:   1px solid $neutral;
     margin:   $more-margin 0 $more-margin 0;
 
     a {
@@ -425,7 +351,7 @@ item pages (iiif + metadata)
       background-color: $bg-color;
       margin: 0;
       &:hover{
-        color: $title-color !important;
+        color: $accent-dark !important;
       }
     }
   }
@@ -441,7 +367,7 @@ item pages (iiif + metadata)
 .metadata-block {
   font-family: $body-font;
   max-width: 100%;
-  border: $bg-color 1px solid;
+  border: $neutral 1px solid;
   border-radius: 3px;
   padding: $less-margin;
 }
@@ -461,7 +387,7 @@ search box
     margin-bottom: $more-margin;
     &:focus {
         box-shadow: none ;
-        border-color: $bg-color;
+        border-color: $neutral;
     }
   }
   #results {
@@ -483,16 +409,18 @@ search box
           margin: 0 !important;
           padding: 0;
           .title{
-            color: $link-color;
+            color: $accent-light;
           }
         }
       }
       &:hover {
-        background-color: $bg-color;
+        background-color: $neutral
       }
     }
   }
 }
+
+
 
 .wax-gallery-container {
   .facet-buttons {
@@ -530,7 +458,7 @@ search box
         width: 100%;
         height: 100%;
       }
-/*
+
       .hovereffect {
         width: 100%;
         height: 100%;
@@ -597,7 +525,7 @@ search box
           overflow: hidden;
           top: 0;
           left: 0;
-          background-color: $head-bg-color;
+          background-color: $accent-light;
           opacity: 0;
           -webkit-transition:opacity 0.5s ease-in-out;
           transition: opacity 0.5s ease-in-out;
@@ -605,10 +533,10 @@ search box
           height: 200px;
         }
       }
-*/
     }
   }
 }
+
 
 .dataTables_wrapper {
   width: 100% !important;

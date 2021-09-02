@@ -20,10 +20,17 @@
 
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
+<<<<<<< HEAD
 url:              'https://stephmoore.github.io/'
 baseurl:          'bruegheldev'
 copyright:        ''
 logo:             ''
+=======
+url:              ''
+baseurl:          ''
+copyright:        '2020'
+logo:             '/img/logo.png'
+>>>>>>> parent of 43e06c4f (test)
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS

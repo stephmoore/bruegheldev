@@ -39,8 +39,12 @@ baseurl:          'https://stephmoore.github.io/bruegheldev/'
 >>>>>>> parent of bb141983 (Update _config.yml)
 =======
 url:              'https://github.com/stephmoore/bruegheldev/_site/index.html'
+<<<<<<< HEAD
 baseurl:          'https://github.com/stephmoore/bruegheldev/'
 >>>>>>> parent of b751979a (Update _config.yml)
+=======
+baseurl:          'https://github.com/stephmoore/bruegheldev'
+>>>>>>> parent of 2aa79131 (Update _config.yml)
 copyright:        ''
 logo:             ''
 =======

@@ -20,65 +20,10 @@
 
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-url:              'https://stephmoore.github.io/'
-=======
-url:              'https://stephmoore.github.io'
-<<<<<<< HEAD
->>>>>>> parent of 1d335984 (Update _config.yml)
-baseurl:          'bruegheldev'
-=======
-baseurl:          '/bruegheldev'
->>>>>>> parent of 153907b1 (Update _config.yml)
-=======
-url:              'https://stephmoore.github.io/bruegheldev/_site/index.html'
-baseurl:          'https://stephmoore.github.io/bruegheldev/'
->>>>>>> parent of bb141983 (Update _config.yml)
-=======
-url:              'https://github.com/stephmoore/bruegheldev/_site/index.html'
-<<<<<<< HEAD
-baseurl:          'https://github.com/stephmoore/bruegheldev/'
->>>>>>> parent of b751979a (Update _config.yml)
-=======
-baseurl:          'https://github.com/stephmoore/bruegheldev'
->>>>>>> parent of 2aa79131 (Update _config.yml)
-=======
-url:              'bruegheldev/'
-=======
-url:              'bruegheldev'
->>>>>>> parent of f61aebdf (Update _config.yml)
-=======
-url:              '/bruegheldev'
->>>>>>> parent of f4ee632e (Update _config.yml)
-=======
-url:              '/'
->>>>>>> parent of 59f2deca (Update _config.yml)
-=======
 url:              ''
->>>>>>> parent of dc72aa7f (config)
 baseurl:          ''
-<<<<<<< HEAD
->>>>>>> parent of c687d63d (Update _config.yml)
 copyright:        ''
-logo:             ''
-=======
-url:              ''
-baseurl:          ''
-copyright:        '2020'
-logo:             '/img/logo.png'
->>>>>>> parent of 43e06c4f (test)
-=======
-copyright:        '2020'
-logo:             '/img/logo.png'
->>>>>>> parent of 43e06c4f (test)
+logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS

@@ -1,95 +1,124 @@
 <!DOCTYPE html>
 <html lang='en-us'>
   <head>
-  <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>
+  <title>    
     Jan Brueghel Catalogue Raisonné | Peter Paul Rubens
   </title>
 
-  <link rel='canonical' href='/biographies/bio51/'/>
-  <link rel='icon' type='image/png' href="/img/logo.png">
-  <link rel='stylesheet' href="/assets/styles.css"/>
+  <link rel="canonical" href="/biographies/bio51/"/>
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="stylesheet" href="/assets/styles.css"/>
 
-  <script type='text/javascript' src="/assets/jquery-3.2.1.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <script type="text/javascript" src="/assets/jquery-3.2.1.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
-
   <body>
-    <time datetime='2021-06-12 18:00'></time>
-    
-  
+    <time datetime='2021-09-11 22:41'></time>
+    <!--HEADER-->
+<div id="brueghel-header" class="container-fluid pt-1 pb-2 pl-auto">
+  <nav class="navbar navbar-expand-md navbar-light p-0 d-inline-flex w-100 justify-content-between">
 
+    <!-- Logo -->
+      <div class="d-inline-flex mr-0 mr-lg-auto">
+        <a href="/" title="Home">
+        <div class="d-none d-sm-block"><img src="/img/janbrueghel_icon.png" id="main-logo" alt="Jan Brueghel the Elder Home"></div>
+        </a>
+        <a href="/" title="Home">
+        <div class="pl-2">
+          <h1 id="jan-title" class="text-nowrap m-0">Jan Brueghel <br class="d-sm-none" />the Elder</h1>
+          <h2 id="jan-subtitle" class="text-nowrap m-0">Complete Catalog</h2>
+        </div>
+      </a>
+      </div>
 
-
-
-
-
-
-<nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
- <div class='wax-inline-container'>
-    <a class='navbar-brand' href="/" title='Home'>
-      Jan Brueghel Catalogue Raisonné
-    </a>
-
-    <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
-      <span class='navbar-toggler-icon'></span>
+    <!-- Menu Toggle Button -->
+    <button class="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class='collapse navbar-collapse' id="wax-header-navbar">
-      <ul class='nav navbar-nav ml-auto justify-content-end'>
-        
-          
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-About-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                About
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-About-dropdown'>
-                
-                  <a class='dropdown-item' href='/about/'>About the Project</a>
-                
-                  <a class='dropdown-item' href='/brueghel/'>About Jan Brueghel</a>
-                
-                  <a class='dropdown-item' href='/credits/'>Credits</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-Browse-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Browse
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-Browse-dropdown'>
-                
-                  <a class='dropdown-item' href='/browse-objects/'>By object type</a>
-                
-                  <a class='dropdown-item' href='/browse-genres/'>By genre</a>
-                
-                  <a class='dropdown-item' href='/browse-locations/'>By location</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li class='nav-item'>
-              <a class='nav-link' href='/search/'>Search</a>
-            </li>
-          
-        
-      </ul>
-    </div>
-  </div>
- </nav>
+    <!-- Menu -->
+    <div id="navmenu-container" class="container d-inline-flex p-0">
 
+      <!-- Column 1 -->
+      <div class="collapse navbar-collapse menu-column" id="navbarCollapse">
+        <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Browse by</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="/browse-objects">Object Type</a>
+              <a class="dropdown-item" href="/browse-genres">Genre</a>
+              <a class="dropdown-item" href="/tags">Tag</a>
+              <a class="dropdown-item" href="/browse-location">Location</a>
+              <a class="dropdown-item" href="/">Date</a>
+              <a class="dropdown-item" href="/">Cat. No.</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown02">
+              <a class="dropdown-item" href="/brueghel">Jan Brueghel</a>
+              <a class="dropdown-item" href="/about">The Site</a>
+              <a class="dropdown-item" href="/credits">Team</a>
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a href="/search" class="nav-link">Search</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Column 2 -->
+      <div class="collapse navbar-collapse menu-column" id="navbarCollapseBottom">
+        <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          
+          <li class="nav-item">
+            <a href="/bibliograpy" class="nav-link">Bibliography</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/biographies" class="nav-link">Biographies</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/" class="nav-link">Scale Gallery</a>
+          </li>
+
+          <li class="nav-item pieter-menu-link d-md-none">
+            <a href="/" class="nav-link">Pieter Bruegel Catalog</a>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+    <!--Pieter Link-->
+
+      <div id="pieter-link" class="d-none d-md-flex align-items-center">
+        <a href="/">
+        <div><img src="/img/pieterbruegel_icon.png" id="link-logo" alt="Pieter Bruegel Catalog"></div>
+        </a>
+        <a href="/">
+        <div><h2 id="pieter-link-text" class="p-2 m-0">Pieter<br />Bruegel<br />Catalog</h2>
+        </div>
+        </a>
+      </div>
+  </nav>
+</div>
 
     
 
-    <div id='wax-main'>
-      <div id='wax-content' class='wax-inline-container'>
+    <div id="brueghel-main" class="container-fluid mx-0 mx-lg-auto">
+
+      
         
 
 <h3 alt="Peter Paul Rubens" class='item-label'>Peter Paul Rubens</h3>
@@ -117,31 +146,55 @@
 
 
   <dl class='metadata-block'>
+
+  
+
+  
+
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Name</dt>
-        <dd>Peter Paul Rubens</dd>
+
+      
+
+      
+
+      
+
+      <dt>Name</dt>
+      <dd>Peter Paul Rubens</dd>
+
     
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Biography</dt>
-        <dd>Peter Paul Rubens was born in Siegen, Germany in 1577 to Jan Rubens, a Protestant lawyer and alderman, and Maria Pijpelinckx. In 1568 while serving as her secretary, Jan had an adulterous affair with Anna of Saxony, Princess of Orange. The family was exiled from Antwerp to Westphalia where Peter Paul was born roughly a decade later. At the age of twelve, after the death of his father, Rubens and his family moved the family back to Antwerp, the city that would foster his enormous individual fame and his success as a collaborator of Jan Brueghel.
+
+      
+
+      
+
+      
+
+      <dt>Biography</dt>
+      <dd>Peter Paul Rubens was born in Siegen, Germany in 1577 to Jan Rubens, a Protestant lawyer and alderman, and Maria Pijpelinckx. In 1568 while serving as her secretary, Jan had an adulterous affair with Anna of Saxony, Princess of Orange. The family was exiled from Antwerp to Westphalia where Peter Paul was born roughly a decade later. At the age of twelve, after the death of his father, Rubens and his family moved the family back to Antwerp, the city that would foster his enormous individual fame and his success as a collaborator of Jan Brueghel.
 Once in Antwerp, Rubens was enrolled in the prestigious Latin school of Rombout Verdonck and by age thirteen became the court page in the household of Countess Marguerite de Lalaing d’Arenburg. Both Classics and court society would become recurring motifs throughout his life; in his adulthood Rubens was fluent in six languages, collected ancient gems and other objects, and had Classical texts read aloud to him as he worked. His early introduction to Classical education and the social nuances of the elite class afforded him flexibility and freedom in his relationships with patrons who entrusted him with artistic and diplomatic commissions alike. 
 Young Rubens quickly grew bored with the court routine and began an apprenticeship with the landscape painter Tobias Verhaecht. In 1594, after a further apprenticeship with history painter Adam van Noort, he went to work under Otto van Veen, a distinguished artist and intellectual who directed a large studio in Antwerp. Rubens may have worked with Van Veen until his departure for Italy. All the while, the voracious young Rubens pursued his own artistic self- training; he copied the early prints of German masters, attempting to broaden his visual lexicon. He became a master in the Guild of Saint Luke in 1598 just one year after Jan Brueghel was admitted into the Guild as a “master’s son.” This artists’ society was likely the initial point of contact for Rubens and Brueghel who completed their first collaboration, The Battle of the Amazons, in 1599 (Potsdam). 
 Shortly after the completion of this inaugural collaboration, in 1600, Rubens left for Italy. His first stop was Venice, where he studied the works of Titian, Veronese and Tintoretto; then he came to Mantua, his most settled home during his eight year Italian sojourn. In Mantua he worked at both painting and duplicating portraits for Duke Vincenzo I Gonzaga. During this time Rubens was given access to the duke’s private collection—an assemblage of fine art from both the Classical and Renaissance periods which he studied assiduously. From Brussels, Archduke Albert, the regent of the Spanish Netherlands, had kept himself aware of Rubens’ progress abroad, and in 1602 he commissioned the artist to paint an altarpiece for Santa Croce in Gerusalemme, Albert’s former titular church in Rome. While in Rome Rubens absorbed the lessons of both the High Renaissance (especially Michelangelo) and antiquity, including the Belvedere Torso and the Lacoön among other great works. He became enamored of the sculptural quality of human anatomy, an interest that would later become his speciality in collaborations with Jan Brueghel.     
@@ -152,68 +205,104 @@ The reciprocity of this sentiment between Rubens and Brueghel, coupled with the 
 Though Rubens occupied a more illustrious position within the court, it was usually Brueghel, nine years Rubens’s senior, who acted as the lead for their joint compositions. Only one collaboration, The Garden of Eden with the Fall of Man (The Hague, Mauritshuis), bears the signatures of both artists, and a few more are marked with Brueghel’s alone. Clear in each work is that the two artists understood the collaborative process as one which provides the opportunity for study and improvement; at times they borrowed motifs from each other. They used the latest innovations, and likely the two artists usually worked on their collaborations without the assistance of their workshops. Their most well known shared works  include The Return from War: Mars Disarmed by Venus, The Garden of Eden with the Fall of Man, The Five Senses Series, and several versions of the same theme of The Madonna and Child with Flower Garland. 
 The two artists continued to collaborate until Brueghel’s death in 1625, the first of two deaths in the mid-1620s that would momentarily disrupt Rubens’s artistic career; the following year he lost his wife, Isabella Brant, to the plague. For eighteen months he turned to diplomacy as a distraction from his grief. During this time he was given the responsibility for traveling between England and Spain to negotiate peace for the Spanish Netherlands and was knighted twice, by the kings of each respective country. This diplomatic interlude gave him the opportunity to resume the study of art in a manner similar to that of his early career. While in Madrid he returned to his study of Titian’s works, made copies of his paintings (a revival of the duplication work from his time in the Gonzaga court), and befriended painter Diego Velasquez. Though he traveled to various European countries to make diplomatic negotiations he was able to complete with his workshop many impressive pieces. In the mid-1620s he returned to Antwerp briefly to paint The Assumption of the Virgin Mary for the Cathedral of Antwerp. Later, in 1629, while in London he painted the Allegory of Peace and War (London, National Gallery) which was given to Charles I as a gift.
 As many times before in his life, he grew tired of the diplomatic profession and returned to Antwerp. In 1630 he remarried; he spent much of the ensuing decade with his new bride, the 16-year old Helen Fourment, and his young family. In the early 1630s he conducted two of his final commissions intended for public display: the Saint Ildefonso Altarpiece in memory of Archduke Albert and the triumphal entry into Antwerp for Archduke Ferdinand. After their completions he bought a country home, Chateau de Steen. There he spent his time painting landscapes–subject matter humble in comparison to that of the major public commissions that marked his career–and leading an increasingly private life until his death in May 1640.</dd>
+
     
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Born/Died</dt>
-        <dd>1577–1632</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Biography Author</dt>
-        <dd>Cecily Manson</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Role</dt>
-        <dd>collaborator</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Status or Profession</dt>
-        <dd>scholar, diplomat, painter</dd>
+
+      <dt>Born/Died</dt>
+      <dd>1577–1632</dd>
+
     
   
-	<dt>Genre</dt>
-	<dd><a href="/genres//"></a></dd>
-<dt>Tags</dt>
-<dd>
+    
 
-</dd>
+    
 
-      </div>
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Biography Author</dt>
+      <dd>Cecily Manson</dd>
+
+    
+  
+    
+
+    
+
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Role</dt>
+      <dd>collaborator</dd>
+
+    
+  
+    
+
+    
+
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Status or Profession</dt>
+      <dd>scholar, diplomat, painter</dd>
+
+    
+  
+
+
+
     </div>
 
     <footer id='wax-footer' class='page-footer container-fluid'>
@@ -223,7 +312,7 @@ As many times before in his life, he grew tired of the diplomatic profession and
         <p class='footer-title'>Jan Brueghel Catalogue Raisonné</p>
         <p class='footer-description'></p>
         <p class='footer-copyright'>
-          &copy; 2020<br>
+          &copy; <br>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
         </p>
       </div>
@@ -245,14 +334,6 @@ As many times before in his life, he grew tired of the diplomatic profession and
               Contact
             </a>
           
-          
-        </p>
-        <p class='footer-logos'>
-          
-          
-          <a href="/" aria-label="Logo link to resource">
-            <img src='/img/logo.png' alt="logo"/>
-          </a>
           
         </p>
       </div>

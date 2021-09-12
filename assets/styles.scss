@@ -6,12 +6,14 @@ variable declaration
 */
 
 /* branding */
-$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+$logo: url("{{ '/img/favicon.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'Open Sans', 'sans-serif';
-$heading-font:    'Open Sans', 'sans-serif';
+$body-font:       'Source Sans Pro', 'sans-serif';
+$menu-font:		    'Barlow Condensed', 'sans-serif';
+$title-font:      'EB Garamond', 'serif';
+$heading-font:    'Poppins', 'sans-serif';
 
 
 /* Image Size */
@@ -21,15 +23,18 @@ $thumbnail-width: 140px;
 
 /* colors */
 
-$text-color:      #100c01;
-$bg-color:        #ffffff;
-$neutral:         #eae7de;
-$accent-light:    #966d09;
-$accent-dark:     #644906;
+$text-color:      #d8d8dc;
+$bg-color:	  	  #60667c;
+$head-bg-color:   #bbbac0;
+$footer-color:    #bbbac0;
+$title-color:	    #9f484e;
+$link-color:	    #ffe3a9;
+$menu-link-color: #60667c;
+$accent-color:    #9f484e;
 
 /* viewport sizes */
 
-$max-width:       800px;
+$max-width:       940px;
 
 /* margins */
 
@@ -40,12 +45,12 @@ $super-margin:    3.0rem;
 
 
 $viewer-height:   550px;
-$parallax-height: 350px;
+$parallax-height: 500px;
 $footer-height:   250px;
 
 /*
 font & asset import
 */
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
-@import 'wax';
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import 'brueghel-wax';

@@ -1,95 +1,124 @@
 <!DOCTYPE html>
 <html lang='en-us'>
   <head>
-  <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>
+  <title>    
     Jan Brueghel Catalogue Raisonné | Hans Rottenhammer
   </title>
 
-  <link rel='canonical' href='/biographies/bio53/'/>
-  <link rel='icon' type='image/png' href="/img/logo.png">
-  <link rel='stylesheet' href="/assets/styles.css"/>
+  <link rel="canonical" href="/biographies/bio53/"/>
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="stylesheet" href="/assets/styles.css"/>
 
-  <script type='text/javascript' src="/assets/jquery-3.2.1.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <script type="text/javascript" src="/assets/jquery-3.2.1.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
-
   <body>
-    <time datetime='2021-06-12 18:00'></time>
-    
-  
+    <time datetime='2021-09-11 22:41'></time>
+    <!--HEADER-->
+<div id="brueghel-header" class="container-fluid pt-1 pb-2 pl-auto">
+  <nav class="navbar navbar-expand-md navbar-light p-0 d-inline-flex w-100 justify-content-between">
 
+    <!-- Logo -->
+      <div class="d-inline-flex mr-0 mr-lg-auto">
+        <a href="/" title="Home">
+        <div class="d-none d-sm-block"><img src="/img/janbrueghel_icon.png" id="main-logo" alt="Jan Brueghel the Elder Home"></div>
+        </a>
+        <a href="/" title="Home">
+        <div class="pl-2">
+          <h1 id="jan-title" class="text-nowrap m-0">Jan Brueghel <br class="d-sm-none" />the Elder</h1>
+          <h2 id="jan-subtitle" class="text-nowrap m-0">Complete Catalog</h2>
+        </div>
+      </a>
+      </div>
 
-
-
-
-
-
-<nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
- <div class='wax-inline-container'>
-    <a class='navbar-brand' href="/" title='Home'>
-      Jan Brueghel Catalogue Raisonné
-    </a>
-
-    <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
-      <span class='navbar-toggler-icon'></span>
+    <!-- Menu Toggle Button -->
+    <button class="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class='collapse navbar-collapse' id="wax-header-navbar">
-      <ul class='nav navbar-nav ml-auto justify-content-end'>
-        
-          
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-About-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                About
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-About-dropdown'>
-                
-                  <a class='dropdown-item' href='/about/'>About the Project</a>
-                
-                  <a class='dropdown-item' href='/brueghel/'>About Jan Brueghel</a>
-                
-                  <a class='dropdown-item' href='/credits/'>Credits</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-Browse-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Browse
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-Browse-dropdown'>
-                
-                  <a class='dropdown-item' href='/browse-objects/'>By object type</a>
-                
-                  <a class='dropdown-item' href='/browse-genres/'>By genre</a>
-                
-                  <a class='dropdown-item' href='/browse-locations/'>By location</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li class='nav-item'>
-              <a class='nav-link' href='/search/'>Search</a>
-            </li>
-          
-        
-      </ul>
-    </div>
-  </div>
- </nav>
+    <!-- Menu -->
+    <div id="navmenu-container" class="container d-inline-flex p-0">
 
+      <!-- Column 1 -->
+      <div class="collapse navbar-collapse menu-column" id="navbarCollapse">
+        <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Browse by</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="/browse-objects">Object Type</a>
+              <a class="dropdown-item" href="/browse-genres">Genre</a>
+              <a class="dropdown-item" href="/tags">Tag</a>
+              <a class="dropdown-item" href="/browse-location">Location</a>
+              <a class="dropdown-item" href="/">Date</a>
+              <a class="dropdown-item" href="/">Cat. No.</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown02">
+              <a class="dropdown-item" href="/brueghel">Jan Brueghel</a>
+              <a class="dropdown-item" href="/about">The Site</a>
+              <a class="dropdown-item" href="/credits">Team</a>
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a href="/search" class="nav-link">Search</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Column 2 -->
+      <div class="collapse navbar-collapse menu-column" id="navbarCollapseBottom">
+        <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          
+          <li class="nav-item">
+            <a href="/bibliograpy" class="nav-link">Bibliography</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/biographies" class="nav-link">Biographies</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/" class="nav-link">Scale Gallery</a>
+          </li>
+
+          <li class="nav-item pieter-menu-link d-md-none">
+            <a href="/" class="nav-link">Pieter Bruegel Catalog</a>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+    <!--Pieter Link-->
+
+      <div id="pieter-link" class="d-none d-md-flex align-items-center">
+        <a href="/">
+        <div><img src="/img/pieterbruegel_icon.png" id="link-logo" alt="Pieter Bruegel Catalog"></div>
+        </a>
+        <a href="/">
+        <div><h2 id="pieter-link-text" class="p-2 m-0">Pieter<br />Bruegel<br />Catalog</h2>
+        </div>
+        </a>
+      </div>
+  </nav>
+</div>
 
     
 
-    <div id='wax-main'>
-      <div id='wax-content' class='wax-inline-container'>
+    <div id="brueghel-main" class="container-fluid mx-0 mx-lg-auto">
+
+      
         
 
 <h3 alt="Hans Rottenhammer" class='item-label'>Hans Rottenhammer</h3>
@@ -117,87 +146,142 @@
 
 
   <dl class='metadata-block'>
+
+  
+
+  
+
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Name</dt>
-        <dd>Hans Rottenhammer</dd>
+
+      
+
+      
+
+      
+
+      <dt>Name</dt>
+      <dd>Hans Rottenhammer</dd>
+
     
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Biography</dt>
-        <dd>Hans Rottenhammer was born in 1564 in Munich, where he was also raised and received his initial artistic training. His father was an attendant at the Munich royal court, and the young Rottenhammer was apprenticed to court painter Hans Donauer in 1582. Rottenhammer studied with Donauer for six years, and during this time he was exposed to the court style popular in northern Europe. After completing his apprenticeship, Rottenhammer traveled to Italy. After a brief detour in Venice, he settled in Rome. Here, he established himself as an independent artist and mingled with other prominent painters and draughtsmen. Among these were a number of fellow northern Europeans, including Paul Bril and Jan Brueghel. He also made frequent trips to Venice before eventually moving back there in 1595. Rottenhammer spent nearly a decade in Venice and his art bears the influence of Venetian masters like Tintoretto and Veronese. Rottenhammer established a studio in the city and accumulated patrons and collectors, as well as students and followers. In the early 1600s, he joined the Venetian artists’ guild. He also married Elisabetta d’Fabris, and the couple had two sons, both artists. In 1606, Rottenhammer relocated to Augsburg, Bavaria, where he spent the rest of his life. Though he was a renowned painter, Rottenhammer spent the latter half of his life fighting off the many debts he had accumulated. He died, acclaimed yet penniless, in 1625.
+
+      
+
+      
+
+      
+
+      <dt>Biography</dt>
+      <dd>Hans Rottenhammer was born in 1564 in Munich, where he was also raised and received his initial artistic training. His father was an attendant at the Munich royal court, and the young Rottenhammer was apprenticed to court painter Hans Donauer in 1582. Rottenhammer studied with Donauer for six years, and during this time he was exposed to the court style popular in northern Europe. After completing his apprenticeship, Rottenhammer traveled to Italy. After a brief detour in Venice, he settled in Rome. Here, he established himself as an independent artist and mingled with other prominent painters and draughtsmen. Among these were a number of fellow northern Europeans, including Paul Bril and Jan Brueghel. He also made frequent trips to Venice before eventually moving back there in 1595. Rottenhammer spent nearly a decade in Venice and his art bears the influence of Venetian masters like Tintoretto and Veronese. Rottenhammer established a studio in the city and accumulated patrons and collectors, as well as students and followers. In the early 1600s, he joined the Venetian artists’ guild. He also married Elisabetta d’Fabris, and the couple had two sons, both artists. In 1606, Rottenhammer relocated to Augsburg, Bavaria, where he spent the rest of his life. Though he was a renowned painter, Rottenhammer spent the latter half of his life fighting off the many debts he had accumulated. He died, acclaimed yet penniless, in 1625.
 Like many northern European artists who spent time abroad, Rottenhammer’s style was a combination of traditional German techniques with Italian influences. In particular, Rottenhammer employed Northern landscape elements and the compositional and figural means of the Italian masters. His most commercially successful works were done during his time in Venice, whereRottenhammer became famous for his cabinet paintings. These were small works done on copper and usually featured religious or mythological themes popular at the time. Rottenhammer shifted his focus after he returned to Augsburg in 1606, where he mostly painted altarpieces and took on large palace commissions.He was also in contact with many prominent patrons, including Cardinal Federico Borromeo, Caspar Kechel, and Emperor Rudolph II of Austria. 
 Rottenhammer first encountered Jan Brueghel during his years in Rome. He, Paul Bril, and Brueghel were frequent collaborators. Brueghel introduced Rottenhammer to Cardinal Borromeo, who would go on to become one of Rottenhammer’s most frequent patrons. The two painters worked on Borromeo’s commissions together, with Rottenhammer providing the figures for Brueghel’s landscapes.The artists stayed in contact for many years after both left Rome, and even continued to produce collaborations by sending one another the copper plates on which they had worked.</dd>
+
     
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Born/Died</dt>
-        <dd>1564–1625</dd>
-    
-  
-    
 
-    
-    
-  
-    
-
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Role</dt>
-        <dd>collaborator</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Status or Profession</dt>
-        <dd>painter</dd>
+
+      
+
+      <dt>Born/Died</dt>
+      <dd>1564–1625</dd>
+
     
   
-	<dt>Genre</dt>
-	<dd><a href="/genres//"></a></dd>
-<dt>Tags</dt>
-<dd>
+    
 
-</dd>
+    
 
-      </div>
+    
+
+    
+
+    
+  
+    
+
+    
+
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Role</dt>
+      <dd>collaborator</dd>
+
+    
+  
+    
+
+    
+
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Status or Profession</dt>
+      <dd>painter</dd>
+
+    
+  
+
+
+
     </div>
 
     <footer id='wax-footer' class='page-footer container-fluid'>
@@ -207,7 +291,7 @@ Rottenhammer first encountered Jan Brueghel during his years in Rome. He, Paul B
         <p class='footer-title'>Jan Brueghel Catalogue Raisonné</p>
         <p class='footer-description'></p>
         <p class='footer-copyright'>
-          &copy; 2020<br>
+          &copy; <br>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
         </p>
       </div>
@@ -229,14 +313,6 @@ Rottenhammer first encountered Jan Brueghel during his years in Rome. He, Paul B
               Contact
             </a>
           
-          
-        </p>
-        <p class='footer-logos'>
-          
-          
-          <a href="/" aria-label="Logo link to resource">
-            <img src='/img/logo.png' alt="logo"/>
-          </a>
           
         </p>
       </div>

@@ -23,7 +23,7 @@ description:      ''
 url:              ''
 baseurl:          ''
 copyright:        ''
-logo:             '/assets/logo.png'
+logo:             '/img/favicon.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -63,21 +63,21 @@ kramdown:
 
 collections:
   exhibits:
-    output: true
-  brueghel: # name of collection
+    output: false
+  janbrueghel: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'brueghel_item' # the layout for the pages to use
+    layout: 'janbrueghel_item' # the layout for the pages to use
     metadata:
-      source: 'brueghel.csv' # path to the metadata file within `_data`
+      source: 'janbrueghel.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/brueghel' # path to the directory of images within `_data`
-  pieterbrueghel: # name of collection
+      source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
+  pieterbruegel: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'pieterbrueghel_item' # the layout for the pages to use
+    layout: 'pieterbruegel_item' # the layout for the pages to use
     metadata:
-      source: 'pieterbrueghel.csv' # path to the metadata file within `_data`
+      source: 'pieterbruegel.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/brueghel' # path to the directory of images within `_data`
+      source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
   biographies:
     output: true
     layout: 'biography_item'
@@ -91,6 +91,10 @@ collections:
   genres:
     output: true
     layout: 'genrepage'
+  provenance:
+    output: true # makes sure pages are output as html files
+    metadata:
+      source: 'provenance.csv'
 
 
 # --------------------------------------------------------------
@@ -105,7 +109,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      brueghel:
+      janbrueghel:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
@@ -154,7 +158,7 @@ menu:
       - label: 'About the Project'
         link: '/about/'
       - label: 'About Jan Brueghel'
-        link: '/brueghel/'
+        link: '/janbrueghel/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Browse'

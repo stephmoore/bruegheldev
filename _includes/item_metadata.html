@@ -1,4 +1,31 @@
 <dl class='metadata-block'>
+
+  {% comment %}
+    Populate variables for the concatenated fields
+  {% endcomment %}
+
+  {% if page.width_cm %}
+    {% if page.height_cm %}
+      {%- capture dimensions -%} 
+        {{ page.width_cm }} x {{ page.height_cm }} cm
+      {%- endcapture -%} 
+    {% endif %}
+  {% endif %}
+
+  {%- capture location_info -%}   
+      {% if page.location_city %} {{ page.location_city }}, {% endif %}
+      {% if page.location_country %} {{ page.location_country }} {% endif %}
+  {%- endcapture -%}
+
+  {%- capture collection_info -%}
+    {% if page.location_collection %} {{ page.location_collection }}, {% endif %}
+      {% if page.location_or_most_recent_sale_notes %} {{ page.location_or_most_recent_sale_notes }} {% endif %}
+  {%- endcapture -%}
+
+  {% comment %}
+    Loop through the metadata object
+  {% endcomment %}
+
   {% for item in include.meta %}
     {% if item.value contains 'page.' %}
       {% assign key = item.value | remove: 'page.' %}
@@ -8,9 +35,30 @@
     {% endif %}
 
     {% comment %}
-    Only display non-empty values
+      Set non-displaying fields to nil
     {% endcomment %}
+
+    {% case key %}
+      {% when "width_cm", "height_cm", "bibliography", "exhibition_history", "copies_and_variants", "provenance", "related_works", "curatorial_files" %}
+        {% assign value = nil %}
+      {% when "dimensions" %}
+        {% assign value = dimensions %}
+      {% when "location_info" %}
+        {% if location_info | strip != "" %}
+          {% assign value = location_info | strip %}
+        {% endif %}
+      {% when "collection_info" %}
+        {% if collection_info | strip != "" %}
+          {% assign value = collection_info | strip %}
+        {% endif %}
+    {% endcase %}
+
+    {% comment %}
+      Only display non-empty values
+    {% endcomment %}
+
     {% if value | strip != '' %}
+
       {% if item.type == 'link' %}
         {% if key == 'manifest' %}
           {%- capture value -%}
@@ -24,26 +72,34 @@
           {%- endcapture -%}
         {% endif %}
       {% endif %}
- 
-	 
-	  {% if key == 'tags' %}
-	  <dt>{{ item.label }}</dt>
-	  <dd>
-	  {% for tag in page.tags %}
-	  <a href="/tags/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-	  {% endfor %}
-	  </dd>
-	  {% endif %}
-	  
-        <dt>{{ item.label }}</dt>
-        <dd>{{ value | strip }}</dd>
+
+      {% if key == 'tags' %}
+        {% assign taglist_html = "" %}
+          {% for tag in page.tags %}
+            {%- capture tag_html -%}
+              <a href="/tags/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>
+              {% unless forloop.last %}, {% endunless %}
+            {%- endcapture -%}
+            {% assign taglist_html = taglist_html | append: tag_html %}
+          {% endfor %}
+        {% assign value = taglist_html %}
+      {% endif %}
+
+      {% if key == 'genre' %}
+        {%- capture genre -%}
+          <a href="/genres/{{ page.genre | slugify: 'pretty' }}/">{{page.genre}}</a>
+        {%- endcapture -%}
+        {% assign value = genre %}
+      {% endif %}
+
+      {% if key == 'diameter_cm' %}
+        {% assign value = value | append: " cm" %}
+      {% endif %}
+
+      <dt>{{ item.label }}</dt>
+      <dd>{{ value | strip }}</dd>
+
     {% endif %}
   {% endfor %}
-	<dt>Genre</dt>
-	<dd><a href="/genres/{{ page.genre | slugify: 'pretty' }}/">{{page.genre}}</a></dd>
-<dt>Tags</dt>
-<dd>
-{% for tag in page.tags %}
-<a href="/tags/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-{% endfor %}
-</dd>
+
+  {% include_relative /provenance/4440/ %}

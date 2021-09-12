@@ -1,95 +1,124 @@
 <!DOCTYPE html>
 <html lang='en-us'>
   <head>
-  <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>
+  <title>    
     Jan Brueghel Catalogue Raisonné | Paul Bril
   </title>
 
-  <link rel='canonical' href='/biographies/bio36/'/>
-  <link rel='icon' type='image/png' href="/img/logo.png">
-  <link rel='stylesheet' href="/assets/styles.css"/>
+  <link rel="canonical" href="/biographies/bio36/"/>
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="stylesheet" href="/assets/styles.css"/>
 
-  <script type='text/javascript' src="/assets/jquery-3.2.1.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <script type="text/javascript" src="/assets/jquery-3.2.1.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
-
   <body>
-    <time datetime='2021-06-12 18:00'></time>
-    
-  
+    <time datetime='2021-09-11 22:41'></time>
+    <!--HEADER-->
+<div id="brueghel-header" class="container-fluid pt-1 pb-2 pl-auto">
+  <nav class="navbar navbar-expand-md navbar-light p-0 d-inline-flex w-100 justify-content-between">
 
+    <!-- Logo -->
+      <div class="d-inline-flex mr-0 mr-lg-auto">
+        <a href="/" title="Home">
+        <div class="d-none d-sm-block"><img src="/img/janbrueghel_icon.png" id="main-logo" alt="Jan Brueghel the Elder Home"></div>
+        </a>
+        <a href="/" title="Home">
+        <div class="pl-2">
+          <h1 id="jan-title" class="text-nowrap m-0">Jan Brueghel <br class="d-sm-none" />the Elder</h1>
+          <h2 id="jan-subtitle" class="text-nowrap m-0">Complete Catalog</h2>
+        </div>
+      </a>
+      </div>
 
-
-
-
-
-
-<nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
- <div class='wax-inline-container'>
-    <a class='navbar-brand' href="/" title='Home'>
-      Jan Brueghel Catalogue Raisonné
-    </a>
-
-    <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
-      <span class='navbar-toggler-icon'></span>
+    <!-- Menu Toggle Button -->
+    <button class="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class='collapse navbar-collapse' id="wax-header-navbar">
-      <ul class='nav navbar-nav ml-auto justify-content-end'>
-        
-          
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-About-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                About
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-About-dropdown'>
-                
-                  <a class='dropdown-item' href='/about/'>About the Project</a>
-                
-                  <a class='dropdown-item' href='/brueghel/'>About Jan Brueghel</a>
-                
-                  <a class='dropdown-item' href='/credits/'>Credits</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-Browse-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Browse
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-Browse-dropdown'>
-                
-                  <a class='dropdown-item' href='/browse-objects/'>By object type</a>
-                
-                  <a class='dropdown-item' href='/browse-genres/'>By genre</a>
-                
-                  <a class='dropdown-item' href='/browse-locations/'>By location</a>
-                
-              </div>
-            </li>
-          
-        
-          
-            <li class='nav-item'>
-              <a class='nav-link' href='/search/'>Search</a>
-            </li>
-          
-        
-      </ul>
-    </div>
-  </div>
- </nav>
+    <!-- Menu -->
+    <div id="navmenu-container" class="container d-inline-flex p-0">
 
+      <!-- Column 1 -->
+      <div class="collapse navbar-collapse menu-column" id="navbarCollapse">
+        <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Browse by</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="/browse-objects">Object Type</a>
+              <a class="dropdown-item" href="/browse-genres">Genre</a>
+              <a class="dropdown-item" href="/tags">Tag</a>
+              <a class="dropdown-item" href="/browse-location">Location</a>
+              <a class="dropdown-item" href="/">Date</a>
+              <a class="dropdown-item" href="/">Cat. No.</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown02">
+              <a class="dropdown-item" href="/brueghel">Jan Brueghel</a>
+              <a class="dropdown-item" href="/about">The Site</a>
+              <a class="dropdown-item" href="/credits">Team</a>
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a href="/search" class="nav-link">Search</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Column 2 -->
+      <div class="collapse navbar-collapse menu-column" id="navbarCollapseBottom">
+        <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          
+          <li class="nav-item">
+            <a href="/bibliograpy" class="nav-link">Bibliography</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/biographies" class="nav-link">Biographies</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/" class="nav-link">Scale Gallery</a>
+          </li>
+
+          <li class="nav-item pieter-menu-link d-md-none">
+            <a href="/" class="nav-link">Pieter Bruegel Catalog</a>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+    <!--Pieter Link-->
+
+      <div id="pieter-link" class="d-none d-md-flex align-items-center">
+        <a href="/">
+        <div><img src="/img/pieterbruegel_icon.png" id="link-logo" alt="Pieter Bruegel Catalog"></div>
+        </a>
+        <a href="/">
+        <div><h2 id="pieter-link-text" class="p-2 m-0">Pieter<br />Bruegel<br />Catalog</h2>
+        </div>
+        </a>
+      </div>
+  </nav>
+</div>
 
     
 
-    <div id='wax-main'>
-      <div id='wax-content' class='wax-inline-container'>
+    <div id="brueghel-main" class="container-fluid mx-0 mx-lg-auto">
+
+      
         
 
 <h3 alt="Paul Bril" class='item-label'>Paul Bril</h3>
@@ -117,95 +146,155 @@
 
 
   <dl class='metadata-block'>
+
+  
+
+  
+
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Name</dt>
-        <dd>Paul Bril</dd>
+
+      
+
+      
+
+      
+
+      <dt>Name</dt>
+      <dd>Paul Bril</dd>
+
     
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Biography</dt>
-        <dd>Paul Bril was a sixteenth-century Netherlandish artist who is today most famous for his influence on Italian landscape art. Bril was born in 1553, in either Breda or Antwerp. His father was the painter Matthijs Bril and his brothers were Matthijs and Peter Bril. At age fourteen, Bril was apprenticed under Damiaen Ortelmans, with whom he worked mostly as a background painter. In 1574, Bril left Antwerp and traveled throughout the Netherlands and France. He eventually reunited with his artist-brother Matthijs in Rome around 1582. Despite Matthijs’ unexpected death in 1583, Bril made the city his home until his own death about four decades later. It was here that Bril was able to establish what would grow to be a prolific and successful career as a painter. In 1592, he married Ottavia Sbarra and the pair had eight children, three of whom survived into adulthood. Bril accumulated honors, wealthy patrons, and prestigious commissions. As one of the few Netherlandish artists who resided permanently in Rome, he also had a lasting impact on Italian art. He died on October 7, 1626 at 72 and was buried in the Santa Maria dell'Anima alongside his brother.
+
+      
+
+      
+
+      
+
+      <dt>Biography</dt>
+      <dd>Paul Bril was a sixteenth-century Netherlandish artist who is today most famous for his influence on Italian landscape art. Bril was born in 1553, in either Breda or Antwerp. His father was the painter Matthijs Bril and his brothers were Matthijs and Peter Bril. At age fourteen, Bril was apprenticed under Damiaen Ortelmans, with whom he worked mostly as a background painter. In 1574, Bril left Antwerp and traveled throughout the Netherlands and France. He eventually reunited with his artist-brother Matthijs in Rome around 1582. Despite Matthijs’ unexpected death in 1583, Bril made the city his home until his own death about four decades later. It was here that Bril was able to establish what would grow to be a prolific and successful career as a painter. In 1592, he married Ottavia Sbarra and the pair had eight children, three of whom survived into adulthood. Bril accumulated honors, wealthy patrons, and prestigious commissions. As one of the few Netherlandish artists who resided permanently in Rome, he also had a lasting impact on Italian art. He died on October 7, 1626 at 72 and was buried in the Santa Maria dell'Anima alongside his brother.
 Bril developed his style during a crucial time for landscape art. Among critics, the genre was regarded as one of the lower art forms and did not receive much attention or acclaim. In the art market, however, it was increasingly popular. Bril was inspired by the generation of Netherlandish artists that had come before him, including Matthijs Cock, Cornelis Massys, Hieronymus Cock, and especially Pieter Bruegel the Elder. But Bril also developed an elegant individual style that distinguished him from his contemporaries. His works are notable for their thin lines, subtle use of color, and deft handling of light. He was almost exclusively a landscape artist and his some of his favorite themes were rivers, seacoasts, and the forest interiors also favored by Jan Brueghel. Bril’s technique can also be seen as a response to his brother Matthijs’ style. 
 Bril was highly acclaimed during his lifetime and was commercially successful. He received a number of high-profile church commissions and was a ranking member in the Academia di S. Luca, the brotherhood of Sta. Maria in Campo Santo, and the Pontifical Academy of Fine Arts and Letters of the Virtuosi al Pantheon. He worked with many of the notable artists of his generation, including Hans Rottenhammer, Adam Elsheimer, and Jan Brueghel the Elder. His relationship with Brueghel was especially significant to the development of his art and it was through their friendship that Bril was exposed firsthand to Pieter Brueghel’s work. Bril was fourteen years older than Brueghel and he introduced the young artist to a number of techniques that would go on to define his style. The pair remained in contact throughout their lives.</dd>
+
     
   
     
 
     
+
     
+
+    
+
+    
+
       
- 
-	 
-	  
-	  
-        <dt>Born/Died</dt>
-        <dd>1554–1626</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Biography Author</dt>
-        <dd>Ximena Valdarrago</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Role</dt>
-        <dd>collaborator</dd>
-    
-  
-    
 
-    
-    
       
- 
-	 
-	  
-	  
-        <dt>Status or Profession</dt>
-        <dd>painter</dd>
+
+      <dt>Born/Died</dt>
+      <dd>1554–1626</dd>
+
     
   
-	<dt>Genre</dt>
-	<dd><a href="/genres//"></a></dd>
-<dt>Tags</dt>
-<dd>
+    
 
-</dd>
+    
 
-      </div>
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Biography Author</dt>
+      <dd>Ximena Valdarrago</dd>
+
+    
+  
+    
+
+    
+
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Role</dt>
+      <dd>collaborator</dd>
+
+    
+  
+    
+
+    
+
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+      
+
+      <dt>Status or Profession</dt>
+      <dd>painter</dd>
+
+    
+  
+
+
+
     </div>
 
     <footer id='wax-footer' class='page-footer container-fluid'>
@@ -215,7 +304,7 @@ Bril was highly acclaimed during his lifetime and was commercially successful. H
         <p class='footer-title'>Jan Brueghel Catalogue Raisonné</p>
         <p class='footer-description'></p>
         <p class='footer-copyright'>
-          &copy; 2020<br>
+          &copy; <br>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
         </p>
       </div>
@@ -237,14 +326,6 @@ Bril was highly acclaimed during his lifetime and was commercially successful. H
               Contact
             </a>
           
-          
-        </p>
-        <p class='footer-logos'>
-          
-          
-          <a href="/" aria-label="Logo link to resource">
-            <img src='/img/logo.png' alt="logo"/>
-          </a>
           
         </p>
       </div>

@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
-url:              ''https://bruegheldev.github.io''
-baseurl:          '/'
+url:              'http://127.0.0.1:4000'
+baseurl:          ''
 copyright:        '2020'
 logo:             '/assets/logo.png'
 

@@ -3,7 +3,7 @@
   <!--add if statements to check if fields are empty, add rest of fields-->
 
   {% for item in curatorial_files %}
-    {% assign file = site.curatorial_files | find: "pid", item %}  
+    {% assign file = site.curatorial_files | where: "pid", item %}  
       <div class="item-image-container">
         <a href="#">Image file to come<!--<img class="" src="/{{ file.thumbnail }}">--></a>
       </div>

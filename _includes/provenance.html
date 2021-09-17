@@ -4,7 +4,7 @@
   <tbody>
 
   {% for item in prov_items %}
-    {% assign prov_item = site.provenance | find: "pid", item %}
+    {% assign prov_item = site.provenance | where: "pid", item %}
     <tr>
       <td>{{ prov_item.provenance_date }}</td>
       <td>{{ prov_item.provenance_location }}</td>

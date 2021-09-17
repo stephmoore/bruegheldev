@@ -4,7 +4,7 @@
 <!--could use same include for curatorial files-->
 
 {% for item in copies_and_variants %}
-  {% assign copy = site.copies_and_variants | find: "pid", item %}  
+  {% assign copy = site.copies_and_variants | where: "pid", item %}  
     <div class="item-image-container">
       <a href="#">Image file to come<!--<img class="" src="/{{ copy.thumbnail }}">--></a>
     </div>

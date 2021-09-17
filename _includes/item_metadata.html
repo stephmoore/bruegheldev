@@ -1,4 +1,5 @@
-<dl class='metadata-block'>
+<table class="metadata-block">
+  <tbody>
 
   {% comment %}
     Populate variables for the concatenated fields
@@ -7,20 +8,24 @@
   {% if page.width_cm %}
     {% if page.height_cm %}
       {%- capture dimensions -%} 
-        {{ page.width_cm }} x {{ page.height_cm }} cm
+        {{ page.width_cm }} cm x {{ page.height_cm }} cm
       {%- endcapture -%} 
     {% endif %}
   {% endif %}
 
-  {%- capture location_info -%}   
-      {% if page.location_city %} {{ page.location_city }}, {% endif %}
-      {% if page.location_country %} {{ page.location_country }} {% endif %}
-  {%- endcapture -%}
+  {% if page.location_city or page.location_country %}
+    {%- capture location_info -%}   
+        {% if page.location_city %}{{ page.location_city }}, {% endif %}
+        {% if page.location_country %}<a href="/locations/{{ page.location_country | slugify }}">{{ page.location_country }}</a>{% endif %}
+    {%- endcapture -%}
+  {% endif %}
 
-  {%- capture collection_info -%}
-    {% if page.location_collection %} {{ page.location_collection }}, {% endif %}
-      {% if page.location_or_most_recent_sale_notes %} {{ page.location_or_most_recent_sale_notes }} {% endif %}
-  {%- endcapture -%}
+  {% if page.location_collection or page.location_or_most_recent_sale_notes %}
+    {%- capture collection_info -%}
+      {% if page.location_collection %}{{ page.location_collection }}, {% endif %}
+        {% if page.location_or_most_recent_sale_notes %}{{ page.location_or_most_recent_sale_notes }}{% endif %}
+    {%- endcapture -%}
+  {% endif %}
 
   {% comment %}
     Loop through the metadata object
@@ -33,6 +38,10 @@
     {% else %}
       {% assign value = item.value %}
     {% endif %}
+
+    {% comment %}
+      Populate the tabbed metadata array
+    {% endcomment %}
 
     {% comment %}
       Set non-displaying fields to nil
@@ -73,33 +82,56 @@
         {% endif %}
       {% endif %}
 
-      {% if key == 'tags' %}
-        {% assign taglist_html = "" %}
-          {% for tag in page.tags %}
-            {%- capture tag_html -%}
-              <a href="/tags/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>
+      {% if key == 'worktags' %}
+        {% assign parsed_worktags = value | split: "|" }
+        {% assign worktaglist_html = "" %}
+          {% for worktag in parsed_worktags %}
+            {%- capture worktag_html -%}
+              <a href="/worktags/{{ worktag | slugify }}/">{{ worktag | replace: "_", " " }}</a>
               {% unless forloop.last %}, {% endunless %}
             {%- endcapture -%}
-            {% assign taglist_html = taglist_html | append: tag_html %}
+            {% assign worktaglist_html = worktaglist_html | append: worktag_html %}
           {% endfor %}
-        {% assign value = taglist_html %}
+        {% assign value = worktaglist_html %}
       {% endif %}
 
       {% if key == 'genre' %}
         {%- capture genre -%}
-          <a href="/genres/{{ page.genre | slugify: 'pretty' }}/">{{page.genre}}</a>
+          <a href="/genres/{{ page.genre | slugify }}/">{{ page.genre }}</a>
         {%- endcapture -%}
         {% assign value = genre %}
+      {% endif %}
+
+      {% if key == 'object_type' %}
+        {%- capture object_type -%}
+          <a href="/object-types/{{ page.object_type | slugify }}/">{{ page.object_type }}</a>
+        {%- endcapture -%}
+        {% assign value = object_type %}
       {% endif %}
 
       {% if key == 'diameter_cm' %}
         {% assign value = value | append: " cm" %}
       {% endif %}
 
-      <dt>{{ item.label }}</dt>
-      <dd>{{ value | strip }}</dd>
-
+      {% if key == 'collaborators' or key == 'collectors_patrons' %}
+        {% assign personArray = value | split: "|" %}
+        {% assign bioString = "" %}
+          {% for person in personArray %}
+            {% assign stripped = person | strip %}
+            {% assign bio = site.biographies | find: "label", stripped %}
+            {%- capture biolink -%}
+              <a href="/biographies/{{ bio.pid }}">{{ bio.label }}</a>
+              {% unless forloop.last %}, {% endunless %}
+            {%- endcapture -%}
+            {% assign bioString = bioString | append: biolink %}
+          {% endfor %}
+          {% assign value = bioString %}
+      {% endif %}
+      <tr>
+        <td class="label">{{ item.label }}</td>
+        <td class="value">{{ value | strip }}</td>
+      </tr>
     {% endif %}
   {% endfor %}
-
-  {% include_relative /provenance/4440/ %}
+  </tbody>
+</table>

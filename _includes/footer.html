@@ -1,23 +1,16 @@
-<footer id='wax-footer' class='page-footer container-fluid'>
-  <div class='wax-inline-container'>
-    <div class='row'>
-      <div class='col'>
-        <p class='footer-title'>{{ site.title }}</p>
-        <p class='footer-description'>{{ site.description }}</p>
-        <p class='footer-copyright'>
-          &copy; {{ site.copyright }}<br>
-          Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
-        </p>
+<footer id="brueghel-footer" class="page-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <p class="footer-links"><a href="/about-the-site">About the Site</a></p>
+        <p class="footer-links"><a href="/credits">Credits</a></p>
+        <p class="footer-links"><a href="#">Contact</a></p>
+        <p class="footer-copyright">&copy; Elizabeth Honig 2021</p>
       </div>
-      <div class='col'>
-        <p class='footer-title'>Links</p>
-        <p class='footer-links'>
-          {% for item in site.footer.links %}
-            <a href='{{ item.link | absolute_url }}'>
-              {{ item.label }}
-            </a>
-          {% unless forloop.last %} / {% endunless %}
-          {% endfor %}
+      <div class="col">
+        <p class="footer-links"><a href="https://arthistory.umd.edu/">University of Maryland Art History</a></p>
+        <p class="footer-links">
+            Site built with <a href="https://github.com/minicomp/wax">Minicomp/Wax</a>
         </p>
       </div>
     </div>

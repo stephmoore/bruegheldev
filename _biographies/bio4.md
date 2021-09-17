@@ -6,9 +6,9 @@ bio_text:
 bio_author:
 role:
 status_profession:
-order: '03'
+order: '3'
 layout: biography_item
 collection: biographies
-thumbnail: img/derivatives/simple/bio4/thumbnail.jpg
-full: img/derivatives/simple/bio4/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/bio4/thumbnail.jpg"
+full: "/img/derivatives/simple/bio4/fullwidth.jpg"
 ---

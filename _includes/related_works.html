@@ -1,0 +1,19 @@
+{% assign related = include.fieldvalue | split: "|" %} 
+
+
+<div class="d-flex flex-wrap">
+
+{% for item in related %}
+  {% assign work = site.janbrueghel | find: "pid", item %} 
+  <div class="related-works-item d-flex flex-nowrap pr-3"> 
+    <div class="related-works-item-image-container">
+      <a href="{{ work.url }}"><img class="" src="/{{ work.thumbnail }}" alt="{{ work.label }}"></a>
+    </div>
+    <div class="related-works-item-info"><a href="{{ work.url }}">{{ work.label }}</a><br />{{ work.realdate }}<br />{{ work.location_city }}</div>
+  </div>
+{% endfor %}
+
+</div>
+
+
+

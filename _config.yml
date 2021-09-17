@@ -20,10 +20,10 @@
 
 title:            'Jan Brueghel Catalogue Raisonné'
 description:      ''
-url:              ''
+url:              'http://127.0.0.1:4000'
 baseurl:          ''
-copyright:        ''
-logo:             '/img/favicon.png'
+copyright:        '2020'
+logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -66,18 +66,30 @@ collections:
     output: false
   janbrueghel: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'janbrueghel_item' # the layout for the pages to use
+    layout: 'brueghel_item' # the layout for the pages to use
     metadata:
       source: 'janbrueghel.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
-  pieterbruegel: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'pieterbruegel_item' # the layout for the pages to use
+  pieterbruegel:
+    output: true
+    layout: 'brueghel_item'
     metadata:
-      source: 'pieterbruegel.csv' # path to the metadata file within `_data`
+      source: 'pieterbruegel.csv'
     images:
-      source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
+      source: 'raw_images/janbrueghel'
+  provenance:
+    output: true
+    metadata:
+      source: 'provenance.csv'
+  curatorial_files:
+    output: true
+    metadata:
+      source: 'curatorial-files.csv'
+  copies_and_variants:
+    output: true
+    metadata:
+      source: 'copies-and-variants.csv'
   biographies:
     output: true
     layout: 'biography_item'
@@ -85,17 +97,18 @@ collections:
       source: 'biographies.csv'
     images:
       source: 'raw_images/biographies'
-  tags:
+  object-types:
+    output: true
+    layout: 'objectpage'
+  worktags:
     output: true
     layout: 'tagpage'
   genres:
     output: true
     layout: 'genrepage'
-  provenance:
-    output: true # makes sure pages are output as html files
-    metadata:
-      source: 'provenance.csv'
-
+  locations:
+    output: true
+    layout: 'locationpage'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -115,7 +128,7 @@ search:
           - label
           - object_type
           - genre
-          - tags
+          - worktags
           - realdate
           - support
           - signature
@@ -158,7 +171,7 @@ menu:
       - label: 'About the Project'
         link: '/about/'
       - label: 'About Jan Brueghel'
-        link: '/janbrueghel/'
+        link: '/brueghel/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Browse'
@@ -188,8 +201,8 @@ footer:
   logos:
     - img: '/img/logo.png'
 
-plugins:
-- jekyll/tagging
+# plugins:
+# - jekyll/tagging
 
 scholar:
   source: _bibliography

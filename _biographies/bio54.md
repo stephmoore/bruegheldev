@@ -9,6 +9,6 @@ status_profession:
 order: '53'
 layout: biography_item
 collection: biographies
-thumbnail: img/derivatives/simple/bio54/thumbnail.jpg
-full: img/derivatives/simple/bio54/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/bio54/thumbnail.jpg"
+full: "/img/derivatives/simple/bio54/fullwidth.jpg"
 ---

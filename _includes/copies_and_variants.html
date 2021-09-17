@@ -1,0 +1,14 @@
+{% assign copies_and_variants = include.fieldvalue | split: "|" %} 
+
+<!--add if statements to check if fields are empty, add rest of fields-->
+<!--could use same include for curatorial files-->
+
+{% for item in copies_and_variants %}
+  {% assign copy = site.copies_and_variants | find: "pid", item %}  
+    <div class="item-image-container">
+      <a href="#">Image file to come<!--<img class="" src="/{{ copy.thumbnail }}">--></a>
+    </div>
+    <div class="item-info">
+      <p>{{ copy.copy_variant_image_file }}<br />{{ copy.copy_variant_description }}<br />{{ copy.file_description }}></p>
+    </div>
+{% endfor %}

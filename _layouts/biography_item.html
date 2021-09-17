@@ -1,18 +1,46 @@
 ---
-layout: generic_collection_item
-image_viewer: 'simple'
-pagination: false
+layout: default
+image_viewer: simple
 meta:
-  - label: 'Name'
-    value: page.label
-  - label: 'Biography'
-    value: page.bio_text
-  - label: 'Born/Died'
+  - label: "Born/Died"
     value: page.birth_death
-  - label: 'Biography Author'
-    value: page.bio_author
-  - label: 'Role'
-    value: page.role
-  - label: 'Status or Profession'
+  - label: "Status or Profession"
     value: page.status_profession
+  - label: "Role"
+    value: page.role
+  - label: "Biography Author"
+    value: page.bio_author
 ---
+
+<h3 alt="{{ page.label }}" class="page-title">{{ page.label }}</h3>
+<h4>{{ page.birth_death }}</h4>
+<div class="biography-fields">
+  {% if page.role.size %}
+    {{ page.role | capitalize | replace: "-", " "}}<br />
+  {% endif %}
+  {% if page.status_profession.size %}
+    {{ page.status_profession | capitalize | replace: "-", " "}}
+  {% endif %}
+</div>
+
+{% if page.image_viewer %}
+  {% assign viewer = page.image_viewer %}
+{% elsif layout.image_viewer %}
+  {% assign viewer = layout.image_viewer %}
+{% endif %}
+
+<div class="item-view d-flex flex-row flex-wrap align-items-start"> 
+
+  <div class="biography-text col-7">
+    {% if page.bio_text.size %}
+      {{ page.bio_text }}
+    {% endif %}
+    {% if page.bio_author.size %}
+      <p><i>By {{ page.bio_author }}</i></p>
+    {% endif %}
+  </div>
+
+  <div class="col-4">
+    {% include simple_image_viewer.html full_image=page.full %}
+  </div>
+</div>

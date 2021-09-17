@@ -2,7 +2,7 @@
 pid: bio18
 label: Nicolaes Jongelinck
 birth_death:
-bio_text: Nicolaes Jongelinck was a prominent Antwerp merchant and patron of both
+bio_text: "<p>Nicolaes Jongelinck was a prominent Antwerp merchant and patron of both
   Pieter Bruegel and Frans Floris. A member of an affluent Antwerp family with many
   ties to the Mint, it is possible that Jongelinck could have known another Bruegel
   patron and officed Mint member, Jan Noirot. Like many wealthy figures of the early
@@ -20,13 +20,13 @@ bio_text: Nicolaes Jongelinck was a prominent Antwerp merchant and patron of bot
   death in 1570, Jongelinck’s Bruegel collection was sold, resurfacing in 1593 in
   the hands of Archduke Ernst, then governor of Netherlands. An inventory of the Archduke’s
   paintings indicates that at this juncture there were six paintings in the Twelve
-  Month series, of which only five are known to remain.
+  Month series, of which only five are known to remain.</p>"
 bio_author: Cecily Manson
 role: patron
 status_profession: merchant/professional
 order: '17'
 layout: biography_item
 collection: biographies
-thumbnail: img/derivatives/simple/bio18/thumbnail.jpg
-full: img/derivatives/simple/bio18/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/bio18/thumbnail.jpg"
+full: "/img/derivatives/simple/bio18/fullwidth.jpg"
 ---

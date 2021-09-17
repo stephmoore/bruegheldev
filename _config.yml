@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Jan Brueghel Catalogue Raisonne'
-description:      ''
+description:      'Jan Brueghel Catalogue Raisonne'
 url:              'https://stephmoore.github.io'
 baseurl:          '/bruegheldev'
 copyright:        '2020'

@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Jan Brueghel Catalogue Raisonné'
+title:            'Jan Brueghel Catalogue Raisonne'
 description:      ''
 url:              'https://stephmoore.github.io'
 baseurl:          '/bruegheldev'

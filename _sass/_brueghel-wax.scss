@@ -17,6 +17,7 @@ html, body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   word-wrap: break-word;
+  min-height: 100vh;
 }
 
 a {
@@ -331,7 +332,7 @@ item pages (iiif + metadata)
 
   .image-viewer {
     position: relative;
-    text-align: center;
+    text-align: left;
     /* Height:   $viewer-height; */
     background-color: $bg-color;
     width:    100%;

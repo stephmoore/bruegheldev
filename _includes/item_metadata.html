@@ -14,10 +14,11 @@
   {% endif %}
 
   {% if page.location_city or page.location_country %}
-    {%- capture location_info -%}   
-        {% if page.location_city %}{{ page.location_city }}, {% endif %}
-        {% if page.location_country %}<a href="/locations/{{ page.location_country | slugify }}">{{ page.location_country }}</a>{% endif %}
-    {%- endcapture -%}
+    {% assign location_url = "/locations/" | append: page.location_country | slugify }} %}
+      {%- capture location_info -%}   
+          {% if page.location_city %}{{ page.location_city }}, {% endif %}
+          {% if page.location_country %}<a href="{{ location_url | absolute_url }}/">{{ page.location_country }}</a>{% endif %}
+      {%- endcapture -%}
   {% endif %}
 
   {% if page.location_collection or page.location_or_most_recent_sale_notes %}
@@ -86,25 +87,28 @@
         {% assign parsed_worktags = value | split: "|" }
         {% assign worktaglist_html = "" %}
           {% for worktag in parsed_worktags %}
-            {%- capture worktag_html -%}
-              <a href="/worktags/{{ worktag | slugify }}/">{{ worktag | replace: "_", " " }}</a>
-              {% unless forloop.last %}, {% endunless %}
-            {%- endcapture -%}
+            {% assign worktag_url = "/worktags/" | append: page.worktag | slugify %}
+              {%- capture worktag_html -%}
+                <a href="{{ worktag_url | absolute_url }}/">{{ worktag | replace: "_", " " }}</a>
+                {% unless forloop.last %}, {% endunless %}
+              {%- endcapture -%}
             {% assign worktaglist_html = worktaglist_html | append: worktag_html %}
           {% endfor %}
         {% assign value = worktaglist_html %}
       {% endif %}
 
       {% if key == 'genre' %}
-        {%- capture genre -%}
-          <a href="/genres/{{ page.genre | slugify }}/">{{ page.genre }}</a>
-        {%- endcapture -%}
+        {% assign genre_url = "/genres/" | append: page.genre | slugify %}
+          {%- capture genre -%}
+            <a href="{{ genre_url | absolute_url }}/">{{ page.genre }}</a>
+          {%- endcapture -%}
         {% assign value = genre %}
       {% endif %}
 
       {% if key == 'object_type' %}
+        {% assign object_url = "/object-types/" | append: page.object_type | slugify %}
         {%- capture object_type -%}
-          <a href="/object-types/{{ page.object_type | slugify }}/">{{ page.object_type }}</a>
+          <a href="{{ object_url | absolute_url }}/">{{ page.object_type }}</a>
         {%- endcapture -%}
         {% assign value = object_type %}
       {% endif %}
@@ -119,8 +123,9 @@
           {% for person in personArray %}
             {% assign stripped = person | strip %}
             {% assign bio = site.biographies | find: "label", stripped %}
+            {% assign bio_url = "/biographies/" | append: bio.pid %}
             {%- capture biolink -%}
-              <a href="/biographies/{{ bio.pid }}">{{ bio.label }}</a>
+              <a href="{{ bio_url | absolute_url }}">{{ bio.label }}</a>
               {% unless forloop.last %}, {% endunless %}
             {%- endcapture -%}
             {% assign bioString = bioString | append: biolink %}

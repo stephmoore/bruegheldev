@@ -123,9 +123,9 @@
           {% for person in personArray %}
             {% assign stripped = person | strip %}
             {% assign bio = site.biographies | where: "label", stripped %}
-            {% assign bio_url = "/biographies/" | append: bio.pid %}
+            {% assign bio_url = "/biographies/" | append: bio[0].pid %}
             {%- capture biolink -%}
-              <a href="{{ bio_url | absolute_url }}">{{ bio.label }}</a>
+              <a href="{{ bio_url | absolute_url }}">{{ bio[0].label }}</a>
               {% unless forloop.last %}, {% endunless %}
             {%- endcapture -%}
             {% assign bioString = bioString | append: biolink %}

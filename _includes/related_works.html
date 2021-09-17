@@ -7,7 +7,7 @@
   {% assign work = site.janbrueghel | find: "pid", item %} 
   <div class="related-works-item d-flex flex-nowrap pr-3"> 
     <div class="related-works-item-image-container">
-      <a href="{{ work[0].url | absolute_url }}"><img src="/{{ work[0].thumbnail | absolute_url }}" alt="{{ work[0].label }}"></a>
+      <a href="{{ work[0].url | absolute_url }}"><img src="{{ work[0].thumbnail | absolute_url }}" alt="{{ work[0].label }}"></a>
     </div>
     <div class="related-works-item-info"><a href="{{ work[0].url | absolute_url }}">{{ work[0].label }}</a><br />{{ work[0].realdate }}<br />{{ work[0].location_country }}</div>
   </div>

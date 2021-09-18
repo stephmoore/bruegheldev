@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Catalogue Raisonne'
 description:      'Jan Brueghel Catalogue Raisonne'
-url:              'http://127.0.0.1:4000'
-baseurl:          ''
+url:              'https://stephmoore.github.io'
+baseurl:          '/bruegheldev'
 copyright:        '2020'
 logo:             '/img/favicon.png'
 

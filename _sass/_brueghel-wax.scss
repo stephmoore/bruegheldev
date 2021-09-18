@@ -17,7 +17,6 @@ html, body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   word-wrap: break-word;
-  min-height: 100vh;
 }
 
 a {
@@ -36,7 +35,7 @@ p {
   margin-bottom: $less-margin;
   letter-spacing: .02rem;
   font-weight: 300;
-  font-size: .8rem;
+  font-size: 1rem;
   line-height: 1.75rem;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -200,12 +199,12 @@ Landing Page Stuff
 
 .browsing-menu {
   h4 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin-top: 0;
   }
   .browsing-menu-list {
     .browsing-menu-list-item {
-      font-size: 0.8rem;
+      font-size: 1rem;
     }
   }
 }
@@ -297,12 +296,12 @@ Footer
   .footer-description {
     font-family: $heading-font;
     margin: 0;
-    font-size: .9em;
+    font-size: 1em;
     line-height: 1.2;
   }
   .footer-copyright {
     margin: $margin 0 $margin 0;
-    font-size: .9em;
+    font-size: 1em;
     padding-bottom: 1em;
     line-height: 1.2;
   }
@@ -310,7 +309,7 @@ Footer
     font-family: $heading-font;
     margin: 0;
     padding-bottom: 1em;
-    font-size: .9em;
+    font-size: 1em;
     line-height: 1.2;
     a {
       color: $accent-color;
@@ -362,7 +361,7 @@ item pages (iiif + metadata)
 
 .metadata-block {
   font-family: $body-font;
-  font-size: .8rem;
+  font-size: 1rem;
   max-width: 100%;
   padding: $less-margin;
   td {
@@ -389,7 +388,7 @@ item pages (iiif + metadata)
     .btn-link, .btn-linkhover, .btn-linkactive, .btn-link:visited {
       color: $text-color;
       text-decoration: none;
-      font-size: .8rem;
+      font-size: 1rem;
       font-weight: 500;
     }
   }
@@ -399,7 +398,7 @@ item pages (iiif + metadata)
     background-color: $bg-color;
     border-bottom: 0;
     font-family: $body-font;
-    font-size: .8rem;
+    font-size: 1rem;
   }
 
 /* .tabbed-metadata-heading, .tabbed-metadata-heading:hover, .tabbed-metadata-heading:active {
@@ -474,7 +473,7 @@ search box
     border-color: transparent;
     margin: 0;
     padding: 3px;
-    font-size: .8rem;
+    font-size: 1rem;
     font-family: 'Poppins', 'sans-serif';
     text-align: left;
     .active {
@@ -490,7 +489,7 @@ search box
   margin: 0 0 1rem 0;
   height: 100%;
   min-width: 300px;
-  font-size: .8rem;
+  font-size: 1rem;
 }
 
 .item-image-container {
@@ -505,7 +504,7 @@ search box
 }
 
 .item-info {
-  font-size: .8rem;
+  font-size: 1rem;
   padding-left: .7rem;
   line-height: unset;
 }
@@ -529,7 +528,7 @@ search box
 }
 
 .related-works-item-info {
-  font-size: .8rem;
+  font-size: 1rem;
   padding-left: .7rem;
   line-height: unset;
 }

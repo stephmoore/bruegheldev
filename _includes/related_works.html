@@ -2,12 +2,13 @@
 <div class="d-flex flex-wrap">
 
 {% for item in related %}
+  {% assign item = item | strip %}
   {% assign work = site.janbrueghel | where: "pid", item %} 
   <div class="related-works-item d-flex flex-nowrap pr-3"> 
     <div class="related-works-item-image-container">
       <a href="{{ work[0].url | absolute_url }}"><img src="{{ work[0].thumbnail | absolute_url }}" alt="{{ work[0].label }}"></a>
     </div>
-    <div class="related-works-item-info"><a href="{{ work[0].url | absolute_url }}">{{ work[0].label }}</a><br />{{ work[0].realdate }}<br />{{ work[0].location_country }}</div>
+    <div class="related-works-item-info"><a href="{{ work[0].url | absolute_url }}">{{ work[0].label }}</a>{% if work[0].realdate %}<br />{{ work[0].realdate }}{% endif %}{% if work[0].location_country %}<br />{{ work[0].location_country }}{% endif %}</div>
   </div>
 {% endfor %}
 

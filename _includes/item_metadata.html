@@ -87,7 +87,7 @@
         {% assign parsed_worktags = value | split: "|" }
         {% assign worktaglist_html = "" %}
           {% for worktag in parsed_worktags %}
-            {% assign worktag_url = worktag | slugify | prepend: "/worktags/" %}
+            {% assign worktag_url = worktag | slugify: 'raw' | prepend: "/worktags/" %}
               {%- capture worktag_html -%}
                 <a href="{{ worktag_url | absolute_url }}/">{{ worktag | replace: "_", " " }}</a>
                 {% unless forloop.last %}, {% endunless %}
@@ -98,7 +98,7 @@
       {% endif %}
 
       {% if key == 'genre' %}
-        {% assign genre_url = page.genre | slugify | prepend: "/genres/" %}
+        {% assign genre_url = page.genre | slugify: 'raw' | prepend: "/genres/" %}
           {%- capture genre -%}
             <a href="{{ genre_url | absolute_url }}/">{{ page.genre }}</a>
           {%- endcapture -%}
@@ -106,7 +106,7 @@
       {% endif %}
 
       {% if key == 'object_type' %}
-        {% assign object_url = page.object_type | slugify | prepend: "/object-types/" %}
+        {% assign object_url = page.object_type | slugify: 'raw' | prepend: "/object-types/" %}
         {%- capture object_type -%}
           <a href="{{ object_url | absolute_url }}/">{{ page.object_type }}</a>
         {%- endcapture -%}

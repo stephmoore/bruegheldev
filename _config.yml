@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Catalogue Raisonne'
 description:      'Jan Brueghel Catalogue Raisonne'
-url:              'https://stephmoore.github.io'
-baseurl:          '/bruegheldev'
+url:              'https://stephmoore.github.io/bruegheldev'
+baseurl:          '/'
 copyright:        '2021'
 logo:             '/img/favicon.png'
 
@@ -62,8 +62,6 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exhibits:
-    output: false
   janbrueghel: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'brueghel_item' # the layout for the pages to use
@@ -71,13 +69,6 @@ collections:
       source: 'janbrueghel.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
-  pieterbruegel:
-    output: true
-    layout: 'brueghel_item'
-    metadata:
-      source: 'pieterbruegel.csv'
-    images:
-      source: 'raw_images/janbrueghel'
   provenance:
     output: true
     metadata:
@@ -97,7 +88,7 @@ collections:
       source: 'biographies.csv'
     images:
       source: 'raw_images/biographies'
-  object-types:
+  object_types:
     output: true
     layout: 'objectpage'
   worktags:

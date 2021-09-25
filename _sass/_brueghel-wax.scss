@@ -183,9 +183,6 @@ Landing Page Stuff
 #janbrueghel-banner {
   background-image: url("https://stephmoore.github.io/bruegheldev/img/janbrueghel_banner.jpg");
 }
-#pieterbruegel-banner {
-  background-image: url("https://stephmoore.github.io/bruegheldev/img/pieterbruegel_banner.jpg");
-}
 
 .banner {
   width: 100vw;
@@ -413,6 +410,7 @@ table.provenance {
   tr td {
     padding-right: 20px;
     border-bottom: 0.5px solid $text-color;
+    border-top: 0.5px solid $text-color;
   }
 }
 

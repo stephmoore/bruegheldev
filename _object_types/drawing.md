@@ -2,5 +2,5 @@
 layout: objectpage
 title: Drawings
 object_type: Drawing
-permalink: /object-types/drawing
+permalink: /object-types/drawing/
 ---

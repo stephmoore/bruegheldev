@@ -2,5 +2,5 @@
 layout: objectpage
 title: Prints
 object_type: Print
-permalink: /object-types/print
+permalink: /object-types/print/
 ---

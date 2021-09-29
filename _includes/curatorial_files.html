@@ -5,7 +5,7 @@
   {% for item in curatorial_files %}
     {% assign file = site.curatorial_files | where: "pid", item %}  
       <div class="item-image-container">
-        <a href="#">Image file to come<!--<img class="" src="/{{ file.thumbnail }}">--></a>
+        <a href="{{ file[0].thumbnail | absolute_url }}"><img class="" src="/{{ file[0].thumbnail }}"></a>
       </div>
       <div class="item-info">
         <p>{{ file[0].file_name }}<br />{{ file[0].file_type }}<br />{{ file[0].file_description }}></p>

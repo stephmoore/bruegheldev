@@ -5,10 +5,10 @@
   {% for item in curatorial_files %}
     {% assign file = site.curatorial_files | where: "pid", item %}  
       <div class="item-image-container">
-        <a href="{{ file[0].thumbnail | absolute_url }}"><img class="" src="/{{ file[0].thumbnail }}"></a>
+        <a href="{{ file[0].fullwidth | absolute_url }}" target="_blank"><img class="" src="/{{ file[0].thumbnail }}"></a>
       </div>
       <div class="item-info">
-        <p>{{ file[0].file_name }}<br />{{ file[0].file_type }}<br />{{ file[0].file_description }}></p>
+        <p>{{ file[0].file_name }}<br />{{ file[0].file_type }}<br />{{ file[0].file_description }}</p>
       </div>
   {% endfor %}
 

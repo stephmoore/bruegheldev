@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Browse by Genre
+collection: pieterbruegel
 permalink: /pieterbruegel/browse-genres/
 ---
 

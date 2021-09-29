@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Catalogue Raisonne'
 description:      'Jan Brueghel Catalogue Raisonne'
-url:              'https://stephmoore.github.io'
-baseurl:          '/bruegheldev'
+url:              'http://127.0.0.1:4000'
+baseurl:          '/'
 copyright:        '2021'
 logo:             '/img/favicon.png'
 
@@ -69,18 +69,33 @@ collections:
       source: 'janbrueghel.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
+  pieterbruegel: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'brueghel_item' # the layout for the pages to use
+    metadata:
+      source: 'pieterbruegel.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/pieterbruegel' # path to the directory of images within `_data`
   provenance:
     output: true
     metadata:
       source: 'provenance.csv'
+  discussion:
+    output: true
+    metadata:
+      source: 'discussion.csv'
   curatorial_files:
     output: true
     metadata:
       source: 'curatorial-files.csv'
+    images:
+      source: 'raw_images/curatorial_files'
   copies_and_variants:
     output: true
     metadata:
       source: 'copies-and-variants.csv'
+    images:
+      source: 'raw_images/copies_and_variants'
   biographies:
     output: true
     layout: 'biography_item'
@@ -88,18 +103,42 @@ collections:
       source: 'biographies.csv'
     images:
       source: 'raw_images/biographies'
-  object_types:
+  object_types_janbrueghel:
     output: true
-    layout: 'objectpage'
-  worktags:
+    layout: 'objectpage_janbrueghel'
+  object_types_pieterbruegel:
     output: true
-    layout: 'tagpage'
-  genres:
+    layout: 'objectpage_pieterbruegel'
+  worktags_janbrueghel:
     output: true
-    layout: 'genrepage'
-  locations:
+    layout: 'tagpage_janbrueghel'
+    metadata:
+      source: 'worktags_janbrueghel.csv'
+  worktags_pieterbruegel:
     output: true
-    layout: 'locationpage'
+    layout: 'tagpage_pieterbruegel'
+    metadata:
+      source: 'worktags_pieterbruegel.csv'
+  genres_janbrueghel:
+    output: true
+    layout: 'genrepage_janbrueghel'
+    metadata:
+      source: 'genres_janbrueghel.csv'
+  genres_pieterbruegel:
+    output: true
+    layout: 'genrepage_pieterbruegel'
+    metadata:
+      source: 'genres_pieterbruegel.csv'
+  locations_janbrueghel:
+    output: true
+    layout: 'locationpage_janbrueghel'
+    metadata:
+      source: 'locations_janbrueghel.csv'
+  locations_pieterbruegel:
+    output: true
+    layout: 'locationpage_pieterbruegel'
+    metadata:
+      source: 'locations_pieterbruegel.csv'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

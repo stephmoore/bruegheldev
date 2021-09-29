@@ -14,11 +14,12 @@
   {% endif %}
 
   {% if page.location_city or page.location_country %}
-    {% assign location_url = page.location_country | slugify | prepend: "/locations/" %}
-      {%- capture location_info -%}   
-          {% if page.location_city %}{{ page.location_city }}, {% endif %}
-          {% if page.location_country %}<a href="{{ location_url | absolute_url }}/">{{ page.location_country }}</a>{% endif %}
-      {%- endcapture -%}
+    {%- capture location_url -%}
+      /{{ page.collection }}/locations/{{ page.location_city | slugify }}
+    {%- endcapture -%}
+    {%- capture location_info -%}   
+        {% if page.location_city %}<a href="{{ location_url | absolute_url }}/"></a>{{ page.location_city }}{% endif %}{% if page.location_country %}, {{ page.location_country }}</a>{% endif %}
+    {%- endcapture -%}
   {% endif %}
 
   {% if page.location_collection or page.location_or_most_recent_sale_notes %}
@@ -87,10 +88,12 @@
         {% assign parsed_worktags = value | split: "|" }
         {% assign worktaglist_html = "" %}
           {% for worktag in parsed_worktags %}
-            {% assign worktag_url = worktag | slugify: 'raw' | prepend: "/worktags/" %}
-              {%- capture worktag_html -%}
-                <a href="{{ worktag_url | absolute_url }}/">{{ worktag | replace: "_", " " }}</a>
-                {% unless forloop.last %}, {% endunless %}
+            {%- capture worktag_url -%}
+              /{{ page.collection }}/tags/{{ worktag | slugify }}
+            {%- endcapture -%}
+            {%- capture worktag_html -%}
+              <a href="{{ worktag_url | absolute_url }}/">{{ worktag }}</a>
+              {% unless forloop.last %}, {% endunless %}
               {%- endcapture -%}
             {% assign worktaglist_html = worktaglist_html | append: worktag_html %}
           {% endfor %}
@@ -98,19 +101,21 @@
       {% endif %}
 
       {% if key == 'genre' %}
-        {% assign genre_url = page.genre | slugify: 'raw' | prepend: "/genres/" %}
-          {%- capture genre -%}
-            <a href="{{ genre_url | absolute_url }}/">{{ page.genre }}</a>
-          {%- endcapture -%}
-        {% assign value = genre %}
+        {%- capture genre_url -%}  
+          /{{ page.collection }}/genres/{{ page.genre | slugify }}
+        {%- endcapture -%}
+        {%- capture value -%}
+          <a href="{{ genre_url | absolute_url }}/">{{ page.genre }}</a>
+        {%- endcapture -%}
       {% endif %}
 
       {% if key == 'object_type' %}
-        {% assign object_url = page.object_type | slugify: 'raw' | prepend: "/object-types/" %}
-        {%- capture object_type -%}
+        {%- capture object_url -%}
+          /{{ page.collection }}/object-types/{{ page.object_type | slugify }}
+        {%- endcapture -%}
+        {%- capture value -%}
           <a href="{{ object_url | absolute_url }}/">{{ page.object_type }}</a>
         {%- endcapture -%}
-        {% assign value = object_type %}
       {% endif %}
 
       {% if key == 'diameter_cm' %}

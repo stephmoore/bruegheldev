@@ -1,0 +1,14 @@
+---
+layout: page
+---
+{% assign collection = site.pieterbruegel %}
+
+<div class="container-fluid d-flex flex-column flex-md-row align-items-start">
+  <div id="wax-gallery-genre" class="col-12 d-flex flex-wrap">
+    {% for item in collection %}
+      {% if item.genre == page.genre %}
+        {% include gallery_item.html value=page.genre item=item %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

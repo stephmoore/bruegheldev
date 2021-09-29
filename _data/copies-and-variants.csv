@@ -1,11 +1,11 @@
-"pid","object_id","copy_variant_image_file","copy_variant_description","collection","order"
-"703","2968","/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_1.jpg","Copy after original design by Jan Brueghel the Elder, Oil on panel, 52 x 65 cm, 17th c.","copies_and_variants",
-"704","2968","/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_2.jpg","Copy after original design by Jan Brueghel the Elder, Oil on panel, 48.4 x 64 cm","copies_and_variants",
-"705","2968","/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_3.jpg","Copy after original design by Jan Brueghel the Elder, Oil on panel, 48.5 x 64.5 cm, signed and dated 1615","copies_and_variants",
-"706","2968","/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_4.jpg","Copy after original design by Jan Brueghel the Elder, 46.4 x 61.6 cm","copies_and_variants",
-"737","3169","/JBII_Variation_of_Flowers_in_a_Chalice_%28New_York%29.jpg","A variation by Jan Brueghel the Younger in the Norton Simon Museum","copies_and_variants",
-"738","3347","/Lot_and_His_Daughters_before_Sodom_%28Munich%29_related_1.jpg"," Related collaboration between Brueghel and Rottenhammer. Sold, Cologne, Lempertz, 24 Nov 1971 ","copies_and_variants",
-"6529","9566","/Path_over_a_Valley_Colored.jpg","Copy in the British Museum","copies_and_variants",
-"6528","9571","/Rocky_Landscape_with_St_Jerome_Copy.jpg",,"copies_and_variants",
-"6526","9572","/Stigmatisation_of_St_Francis_Copy.jpg",,"copies_and_variants",
-"6527","9578","/Landscape_with_the_Good_Samaritan_Copy.jpg",,"copies_and_variants",
+pid,object_id,copy_variant_image_file,copy_variant_description,collection,order,fullwidth,thumbnail,full
+703,2968,/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_1.jpg,"Copy after original design by Jan Brueghel the Elder, Oil on panel, 52 x 65 cm, 17th c.",copies_and_variants,00,img/derivatives/simple/703/fullwidth.jpg,img/derivatives/simple/703/thumbnail.jpg,img/derivatives/simple/703/fullwidth.jpg
+704,2968,/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_2.jpg,"Copy after original design by Jan Brueghel the Elder, Oil on panel, 48.4 x 64 cm",copies_and_variants,01,img/derivatives/simple/704/fullwidth.jpg,img/derivatives/simple/704/thumbnail.jpg,img/derivatives/simple/704/fullwidth.jpg
+705,2968,/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_3.jpg,"Copy after original design by Jan Brueghel the Elder, Oil on panel, 48.5 x 64.5 cm, signed and dated 1615",copies_and_variants,02,img/derivatives/simple/705/fullwidth.jpg,img/derivatives/simple/705/thumbnail.jpg,img/derivatives/simple/705/fullwidth.jpg
+706,2968,/Basket_and_Glass_Vase_of_Flowers_%28Washington%29_copy_4.jpg,"Copy after original design by Jan Brueghel the Elder, 46.4 x 61.6 cm",copies_and_variants,03,img/derivatives/simple/706/fullwidth.jpg,img/derivatives/simple/706/thumbnail.jpg,img/derivatives/simple/706/fullwidth.jpg
+737,3169,/JBII_Variation_of_Flowers_in_a_Chalice_%28New_York%29.jpg,A variation by Jan Brueghel the Younger in the Norton Simon Museum,copies_and_variants,04,img/derivatives/simple/737/fullwidth.jpg,img/derivatives/simple/737/thumbnail.jpg,img/derivatives/simple/737/fullwidth.jpg
+738,3347,/Lot_and_His_Daughters_before_Sodom_%28Munich%29_related_1.jpg," Related collaboration between Brueghel and Rottenhammer. Sold, Cologne, Lempertz, 24 Nov 1971 ",copies_and_variants,05,img/derivatives/simple/738/fullwidth.jpg,img/derivatives/simple/738/thumbnail.jpg,img/derivatives/simple/738/fullwidth.jpg
+6529,9566,/Path_over_a_Valley_Colored.jpg,Copy in the British Museum,copies_and_variants,06,img/derivatives/simple/6529/fullwidth.jpg,img/derivatives/simple/6529/thumbnail.jpg,img/derivatives/simple/6529/fullwidth.jpg
+6528,9571,/Rocky_Landscape_with_St_Jerome_Copy.jpg,,copies_and_variants,07,img/derivatives/simple/6528/fullwidth.jpg,img/derivatives/simple/6528/thumbnail.jpg,img/derivatives/simple/6528/fullwidth.jpg
+6526,9572,/Stigmatisation_of_St_Francis_Copy.jpg,,copies_and_variants,08,img/derivatives/simple/6526/fullwidth.jpg,img/derivatives/simple/6526/thumbnail.jpg,img/derivatives/simple/6526/fullwidth.jpg
+6527,9578,/Landscape_with_the_Good_Samaritan_Copy.jpg,,copies_and_variants,09,img/derivatives/simple/6527/fullwidth.jpg,img/derivatives/simple/6527/thumbnail.jpg,img/derivatives/simple/6527/fullwidth.jpg

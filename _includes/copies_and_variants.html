@@ -5,7 +5,7 @@
 
 {% for item in copies_and_variants %}
   {% assign copy = site.copies_and_variants | where: "pid", item %}  
-    <div class="item-image-container">
+    <div class="related-works-item-image-container">
       <a href="/{{ copy[0].fullwidth | absolute_url }}" target="_blank"><img class="" src="/{{ copy[0].thumbnail }}"></a>
     </div>
     <div class="item-info">

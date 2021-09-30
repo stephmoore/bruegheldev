@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-{% assign collection = site.pieterbruegel %}
+{% assign collection = site.pieterbruegel | sort: "label" %}
 
 <div class="container-fluid d-flex flex-column flex-md-row align-items-start">
   <div id="wax-gallery-object-type" class="col-12 d-flex flex-wrap">

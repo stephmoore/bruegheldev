@@ -70,20 +70,6 @@
 
     {% if value | strip != '' %}
 
-      {% if item.type == 'link' %}
-        {% if key == 'manifest' %}
-          {%- capture value -%}
-            <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">{{ value | absolute_url }}</a>
-          {%- endcapture -%}
-        {% else %}
-          {%- capture value -%}
-            <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">
-              {{ value | absolute_url | remove: 'https://' | remove: 'http://' | split: "/" | first }}
-            </a>
-          {%- endcapture -%}
-        {% endif %}
-      {% endif %}
-
       {% if key == 'worktags' %}
         {% assign parsed_worktags = value | split: "|" }
         {% assign worktaglist_html = "" %}
@@ -145,6 +131,15 @@
 
         {% if key == 'medium' or key == 'further_inscription' or key == 'other_attribution_authorities' or key == 'support_marks' %}
           {% assign value = value | replace: '|', '<br />' %}
+        {% endif %}
+
+        {% if key == 'external_resources_title' %}
+          {% if page.external_resources_url != '' %}
+            {%- capture external_resources_link -%}
+              <a href="{{ page.external_resources_url }}" target="blank">{{ page.external_resources_title }}</a>
+            {%- endcapture -%}
+            {% assign value = external_resources_link %}
+          {% endif %}
         {% endif %}
 
       {% endif %}

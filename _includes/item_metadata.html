@@ -5,10 +5,10 @@
     Populate variables for the concatenated fields
   {% endcomment %}
 
-  {% if page.width_cm %}
-    {% if page.height_cm %}
+  {% if page.height_cm %}
+    {% if page.width_cm %}
       {%- capture dimensions -%} 
-        {{ page.width_cm }} cm x {{ page.height_cm }} cm
+        {{ page.height_cm }} x {{ page.width_cm }} cm
       {%- endcapture -%} 
     {% endif %}
   {% endif %}

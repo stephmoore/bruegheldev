@@ -5,9 +5,15 @@
     {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
 
+  {% if page.url contains 'pieterbruegel' %}
+    {% assign stylesheet = '/assets/styles_pieterbruegel.css' %}
+  {% else %}
+    {% assign stylesheet = '/assets/styles.css' %}
+  {% endif %}
+
   <link rel="canonical" href="{{ page.url | absolute_url }}"/>
   <link rel="icon" type="image/png" href="{{ '/img/favicon.png' | absolute_url }}">
-  <link rel="stylesheet" href="{{ '/assets/styles.css' | absolute_url }}"/>
+  <link rel="stylesheet" href="{{ stylesheet | absolute_url }}"/>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

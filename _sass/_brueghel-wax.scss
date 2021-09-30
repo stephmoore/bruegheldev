@@ -155,7 +155,7 @@ Landing Page Stuff
     z-index: 1;
     opacity: 0.7;
     transition: .5s ease;
-    background-color: $title-color;
+    background-color: $objecttype-color;
   }
   .object-type-text {
     z-index: 5;
@@ -181,7 +181,11 @@ Landing Page Stuff
 }
 
 #janbrueghel-banner {
-  background-image: url("https://stephmoore.github.io/bruegheldev/img/janbrueghel_banner.jpg");
+  background-image: $banner;
+}
+
+#pieterbruegel-banner {
+  background-image: $banner;
 }
 
 .banner {

@@ -4,7 +4,7 @@
 
   <body>
     <time datetime='{{ 'now' | date: '%Y-%m-%d %H:%M' }}'></time>
-    {% if page.collection == 'pieterbruegel' %}
+    {% if page.url contains 'pieterbruegel' %}
       {% assign header_include = 'header_pieterbruegel.html' %}
     {% else %}
       {% assign header_include = 'header.html' %}

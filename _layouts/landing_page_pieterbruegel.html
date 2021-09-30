@@ -3,7 +3,29 @@ layout: default
 ---
 
 <!--Object Type Icons-->
-{% include object_type_icons.html %}
+<div id="object-types" class="row justify-content-between">
+  <a class="col" href="{{ '/pieterbruegel/object-types/painting' | absolute_url }}">
+    <div class="object-type-container">
+      <div class="object-type-text">Paintings</div>
+      <div class="object-type-image"><img src="{{ '/img/pieterbruegel_paintings.jpg' | absolute_url }}"/></div>
+      <div class="object-type-overlay"></div>
+    </div>
+  </a>
+    <a class="col" href="{{ '/pieterbruegel/object-types/drawing' | absolute_url }}">
+      <div class="object-type-container">
+        <div class="object-type-text">Drawings</div>
+        <div class="object-type-image"><img src="{{ '/img/pieterbruegel_drawings.jpg' | absolute_url }}"/></div>
+        <div class="object-type-overlay"></div>
+      </div>
+    </a>
+    <a class="col" href="{{ '/pieterbruegel/object-types/print' | absolute_url }}">
+      <div class="object-type-container">
+        <div class="object-type-text">Prints</div>
+        <div class="object-type-image"><img src="{{ '/img/pieterbruegel_prints.jpg' | absolute_url }}"/></div>
+        <div class="object-type-overlay"></div>
+      </div>
+    </a>
+</div>
 
 <div class="row main-content-row mt-3">
   <!--About Text-->
@@ -13,7 +35,25 @@ layout: default
 
   <!--Menus-->
   <div class="col-sm-12 col-md-4 m-0">
-    {% include browsing_menus.html %}
+    <div class="browsing-menu">
+      <h4>Browse by genre</h6>
+      <ul class="browsing-menu-list">
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/genres/urban-common-and-peasant-life' | absolute_url }}">Urban, Common and Peasant Life</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/genres/religious' | absolute_url }}">Religious</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/genres/allegory' | absolute_url }}">Allegory</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/genres/proverb' | absolute_url }}">Proverb</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/genres/landscape' | absolute_url }}">Landscape</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/browse-genres' | absolute_url }}">More...</a></li>
+      </ul>
+    </div>
+    <!--Or browse by-->
+    <div class="browsing-menu">
+      <h4>Or browse by</h6>
+      <ul class="browsing-menu-list">
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/browse-tags' | absolute_url }}">Tag</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/pieterbruegel/browse-locations' | absolute_url }}">Location</a></li>
+        <li class="browsing-menu-list-item"><a HREF="#">Date</a></li>
+    </div>
   </div>
   
 </div>

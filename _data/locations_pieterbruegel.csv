@@ -21,7 +21,7 @@
 "oxford","Oxford","England","Oxford","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/oxford"
 "paris","Paris","France","Paris","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/paris"
 "prague","Prague","Czech Republic","Prague","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/prague"
-"private-collection","Private Collection/Art Market","Unavailable","Private Collection/Art Market","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/private-collection"
+"private-collection-art-market","Private Collection/Art Market",,,"locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/private-collection-art-market"
 "rennes","Rennes","France","Rennes","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/rennes"
 "rome","Rome","Italy","Rome","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/rome"
 "rotterdam","Rotterdam","Netherlands","Rotterdam","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/rotterdam"

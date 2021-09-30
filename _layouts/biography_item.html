@@ -19,7 +19,7 @@ meta:
     {{ page.role | capitalize | replace: "-", " "}}<br />
   {% endif %}
   {% if page.status_profession.size %}
-    {{ page.status_profession | capitalize | replace: "-", " "}}
+    {% unless page.status_profession == page.role %}{{ page.status_profession | capitalize | replace: "-", " "}}{% endunless %}
   {% endif %}
 </div>
 

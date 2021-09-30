@@ -18,14 +18,14 @@
       /{{ page.collection }}/locations/{{ page.location_city | slugify }}
     {%- endcapture -%}
     {%- capture location_info -%}   
-        {% if page.location_city %}<a href="{{ location_url | absolute_url }}/"></a>{{ page.location_city }}{% endif %}{% if page.location_country %}, {{ page.location_country }}</a>{% endif %}
+        {% if page.location_city %}<a href="{{ location_url | absolute_url }}/">{{ page.location_city }}</a>{% endif %}{% if page.location_country %}, {{ page.location_country }}</a>{% endif %}
     {%- endcapture -%}
   {% endif %}
 
-  {% if page.location_collection or page.location_or_most_recent_sale_notes %}
+  {% if page.location_collection %}
     {%- capture collection_info -%}
       {% if page.location_collection %}{{ page.location_collection }}, {% endif %}
-        {% if page.location_or_most_recent_sale_notes %}{{ page.location_or_most_recent_sale_notes }}{% endif %}
+        {% if page.public_collection_info %}{{ page.public_collection_info }}{% endif %}
     {%- endcapture -%}
   {% endif %}
 
@@ -50,7 +50,7 @@
     {% endcomment %}
 
     {% case key %}
-      {% when "width_cm", "height_cm", "bibliography", "exhibition_history", "copies_and_variants", "provenance", "related_works", "curatorial_files" %}
+      {% when "bibliography", "exhibition_history", "copies_and_variants", "provenance", "related_works", "curatorial_files", "discussion" %}
         {% assign value = nil %}
       {% when "dimensions" %}
         {% assign value = dimensions %}
@@ -98,6 +98,10 @@
             {% assign worktaglist_html = worktaglist_html | append: worktag_html %}
           {% endfor %}
         {% assign value = worktaglist_html %}
+      {% endif %}
+
+      {% if key == 'other_attribution_authorities' or 'medium' %}
+        {% assign value = value | replace: "|", "<br />" %}
       {% endif %}
 
       {% if key == 'genre' %}

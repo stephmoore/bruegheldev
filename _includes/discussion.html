@@ -1,0 +1,15 @@
+{% assign discussion = include.fieldvalue | split: "|" %} 
+<div class="d-flex flex-wrap">
+
+{% for item in discussion %}
+  {% assign item = item | strip %}
+  {% assign comment = site.discussion | where: "pid", item %} 
+  <div class="discussion-item"> 
+    <strong>{{ comment[0].author }}</strong><br />{{ comment[0].comment }}
+  </div>
+{% endfor %}
+
+</div>
+
+
+

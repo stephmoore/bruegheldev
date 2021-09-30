@@ -3,7 +3,36 @@ layout: default
 ---
 
 <!--Object Type Icons-->
-{% include object_type_icons.html %}
+<div id="object-types" class="row justify-content-between">
+  <a class="col" href="{{ '/janbrueghel/object-types/painting' | absolute_url }}">
+    <div class="object-type-container">
+      <div class="object-type-text">Paintings</div>
+      <div class="object-type-image"><img src="{{ '/img/janbrueghel_paintings.jpg' | absolute_url }}"/></div>
+      <div class="object-type-overlay"></div>
+    </div>
+  </a>
+    <a class="col" href="{{ '/janbrueghel/object-types/drawing' | absolute_url }}">
+      <div class="object-type-container">
+        <div class="object-type-text">Drawings</div>
+        <div class="object-type-image"><img src="{{ '/img/janbrueghel_drawings.jpg' | absolute_url }}"/></div>
+        <div class="object-type-overlay"></div>
+      </div>
+    </a>
+    <a class="col" href="{{ '/janbrueghel/object-types/print' | absolute_url }}">
+      <div class="object-type-container">
+        <div class="object-type-text">Prints</div>
+        <div class="object-type-image"><img src="{{ '/img/janbrueghel_prints.jpg' | absolute_url }}"/></div>
+        <div class="object-type-overlay"></div>
+      </div>
+    </a>
+    <a class="col" href="{{ '/janbrueghel/object-types/oil-sketch' | absolute_url }}">
+      <div class="object-type-container">
+        <div class="object-type-text">Oil Sketches</div>
+        <div class="object-type-image"><img src="{{ '/img/janbrueghel_oil_sketches.jpg' | absolute_url }}"/></div>
+        <div class="object-type-overlay"></div>
+      </div>
+    </a>
+</div>
 
 <div class="row main-content-row mt-3">
   <!--About Text-->
@@ -13,7 +42,25 @@ layout: default
 
   <!--Menus-->
   <div class="col-sm-12 col-md-4 m-0">
-    {% include browsing_menus.html %}
+    <div class="browsing-menu">
+      <h4>Browse by genre</h6>
+      <ul class="browsing-menu-list">
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/genres/staffage-in-landscape' | absolute_url }}">Staffage in landscape</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/genres/religious' | absolute_url }}">Religious</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/genres/allegory' | absolute_url }}">Allegory</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/genres/flower-still-life-and-nature-study' | absolute_url }}">Flower Still Life/Nature Study</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/genres/garland' | absolute_url }}">Garland</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/browse-genres' | absolute_url }}">More...</a></li>
+      </ul>
+    </div>
+    <!--Or browse by-->
+    <div class="browsing-menu">
+      <h4>Or browse by</h6>
+      <ul class="browsing-menu-list">
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/browse-tags' | absolute_url }}">Tag</a></li>
+        <li class="browsing-menu-list-item"><a HREF="{{ '/janbrueghel/browse-locations' | absolute_url }}">Location</a></li>
+        <li class="browsing-menu-list-item"><a HREF="#">Date</a></li>
+    </div>
   </div>
   
 </div>

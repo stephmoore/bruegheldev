@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Catalogue Raisonne'
 description:      'Jan Brueghel Catalogue Raisonne'
-url:              'https://stephmoore.github.io'
-baseurl:          '/bruegheldev'
+url:              'http://127.0.0.1:4000'
+baseurl:          '/'
 copyright:        '2021'
 logo:             '/img/favicon.png'
 
@@ -139,6 +139,10 @@ collections:
     layout: 'locationpage_pieterbruegel'
     metadata:
       source: 'locations_pieterbruegel.csv'
+  discussion:
+    output: true
+    metadata:
+      source: 'discussion.csv'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

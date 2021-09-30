@@ -1,0 +1,57 @@
+---
+sitemap: false
+---
+/*
+variable declaration
+*/
+
+/* branding */
+$logo: url("{{ '/img/favicon.png' | absolute_url }}");
+$banner: url("{{ '/img/pieterbruegel_banner.jpg' | absolute_url }}");
+
+/* text */
+
+$body-font:       'Source Sans Pro', 'sans-serif';
+$menu-font:		    'Barlow Condensed', 'sans-serif';
+$title-font:      'EB Garamond', 'serif';
+$heading-font:    'Poppins', 'sans-serif';
+
+
+/* Image Size */
+
+$thumbnail-height: 140px;
+$thumbnail-width: 140px;
+
+/* colors */
+
+$text-color:      #eadcb7;
+$bg-color:	  	  #616445;
+$head-bg-color:   #beb18f;
+$footer-color:    #beb18f;
+$title-color:	    #a64848;
+$link-color:	    #fadf90;
+$menu-link-color: #7f6e5e;
+$accent-color:    #a64848;
+$objecttype-color:  #9a6729;
+
+/* viewport sizes */
+
+$max-width:       1000px;
+
+/* margins */
+
+$less-margin:     1.0rem;
+$margin:          1.5rem;
+$more-margin:     2.0rem;
+$super-margin:    3.0rem;
+
+
+$viewer-height:   550px;
+$footer-height:   250px;
+
+/*
+font & asset import
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import 'brueghel-wax';

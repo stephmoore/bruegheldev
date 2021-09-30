@@ -1,6 +1,8 @@
 ---
 pid: bio2
 label: Infanta Isabella Clara Eugenia
+first_name: Infanta
+last_name: Isabella Clara Eugenia
 birth_death:
 bio_text: "<p>Infanta Isabella Clara Eugenia was the most prominent female patron
   of Jan Brueghel. The infanta was born on August 12, 1566 into the powerful Habsburg
@@ -44,7 +46,7 @@ bio_text: "<p>Infanta Isabella Clara Eugenia was the most prominent female patro
 bio_author: Cecily Manson
 role: patron
 status_profession: ruler/noble
-order: '1'
+order: '27'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio2/thumbnail.jpg"

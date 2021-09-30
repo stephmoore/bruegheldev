@@ -1,6 +1,8 @@
 ---
 pid: bio7
 label: Francesco Caracciolo
+first_name: Francesco
+last_name: Caracciolo
 birth_death:
 bio_text:
 bio_author:

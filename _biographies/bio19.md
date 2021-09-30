@@ -1,6 +1,8 @@
 ---
 pid: bio19
 label: Cardinal Granvelle
+first_name: Cardinal
+last_name: Granvelle
 birth_death:
 bio_text: "<p>Cardinal Granvelle, born Anthony Perrenot, was perhaps Bruegel’s most
   eminent patron. Born in 1517 in Besancon, Granvelle became the focus of his doting
@@ -21,7 +23,7 @@ bio_text: "<p>Cardinal Granvelle, born Anthony Perrenot, was perhaps Bruegel’s
 bio_author: Cecily Manson
 role: patron
 status_profession: cardinal/prelate
-order: '18'
+order: '26'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio19/thumbnail.jpg"

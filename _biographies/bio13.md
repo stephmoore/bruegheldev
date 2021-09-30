@@ -1,6 +1,8 @@
 ---
 pid: bio13
 label: Gerard de Jode
+first_name: Gerard
+last_name: de Jode
 birth_death:
 bio_text: "<p>Cartographer and engraver Gerard de Jode was born 1509 in Nijmegen in
   the province of Gelderland. Though not much is known about his early life, by 1547
@@ -23,7 +25,7 @@ bio_text: "<p>Cartographer and engraver Gerard de Jode was born 1509 in Nijmegen
 bio_author: Ximena Valdarrago
 role: publisher
 status_profession: publisher
-order: '12'
+order: '16'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio13/thumbnail.jpg"

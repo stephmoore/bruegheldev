@@ -1,12 +1,14 @@
 ---
 pid: bio10
 label: Nicolaas Cornelis Cheeus
+first_name: Nicolaas
+last_name: Cornelis Cheeus
 birth_death:
 bio_text:
 bio_author:
 role:
 status_profession:
-order: '9'
+order: '13'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio10/thumbnail.jpg"

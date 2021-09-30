@@ -1,6 +1,8 @@
 ---
 pid: bio32
 label: David Teniers the Younger
+first_name: David
+last_name: Teniers the Younger
 birth_death:
 bio_text: "<p>A Flemish painter and engraver, David Teniers (the Younger) was born
   on December 15, 1610 in Antwerp. As the first son of painter David Teniers the Elder
@@ -29,7 +31,7 @@ bio_text: "<p>A Flemish painter and engraver, David Teniers (the Younger) was bo
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
-order: '31'
+order: '39'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio32/thumbnail.jpg"

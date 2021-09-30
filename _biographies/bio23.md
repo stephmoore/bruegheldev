@@ -1,6 +1,8 @@
 ---
 pid: bio23
 label: Giulio Clovio
+first_name: Giulio
+last_name: Clovio
 birth_death:
 bio_text: "<p>Born just before the turn of the sixteenth century in Croatia , Giulio
   Clovio (1498-1587) is one of the most famous and accomplished miniature painters
@@ -31,7 +33,7 @@ bio_text: "<p>Born just before the turn of the sixteenth century in Croatia , Gi
 bio_author: Cecily Manson
 role:
 status_profession: painter
-order: '22'
+order: '8'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio23/thumbnail.jpg"

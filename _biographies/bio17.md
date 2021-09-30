@@ -1,6 +1,8 @@
 ---
 pid: bio17
 label: Jan Noirot
+first_name: Jan
+last_name: Noirot
 birth_death:
 bio_text: "<p>Jan Noirot, at one time the Master of the Antwerp Mint, declared bankruptcy
   and abandoned his wife and nine children in 1572. A forced auction was held on September
@@ -24,7 +26,7 @@ bio_text: "<p>Jan Noirot, at one time the Master of the Antwerp Mint, declared b
 bio_author: Cecily Manson
 role:
 status_profession: merchant/professional
-order: '16'
+order: '31'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio17/thumbnail.jpg"

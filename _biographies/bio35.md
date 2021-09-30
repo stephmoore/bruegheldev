@@ -1,6 +1,8 @@
 ---
 pid: bio35
 label: Tobias Verhaecht
+first_name: Tobias
+last_name: Verhaecht
 birth_death: 1561–1631
 bio_text: "<p>Tobias Verhaecht was a Flemish painter best-known for his landscape
   paintings. He was the first teacher of Rubens, though their relationship was brief.
@@ -20,7 +22,7 @@ bio_text: "<p>Tobias Verhaecht was a Flemish painter best-known for his landscap
 bio_author: Rigby Philips
 role: collaborator
 status_profession: painter
-order: '34'
+order: '50'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio35/thumbnail.jpg"

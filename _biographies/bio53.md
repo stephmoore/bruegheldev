@@ -1,6 +1,8 @@
 ---
 pid: bio53
 label: Hans Rottenhammer
+first_name: Hans
+last_name: Rottenhammer
 birth_death: 1564–1625
 bio_text: "<p>Hans Rottenhammer was born in 1564 in Munich, where he was also raised
   and received his initial artistic training. His father was an attendant at the Munich
@@ -40,7 +42,7 @@ bio_text: "<p>Hans Rottenhammer was born in 1564 in Munich, where he was also ra
 bio_author:
 role: collaborator
 status_profession: painter
-order: '52'
+order: '33'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio53/thumbnail.jpg"

@@ -1,6 +1,8 @@
 ---
 pid: bio46
 label: Frans Snyders
+first_name: Frans
+last_name: Snyders
 birth_death: 1579–1657
 bio_text: "<p>Frans Snyders was a Flemish painter most noted for his work in still
   life and animal imagery. Born in 1579 to Jan Snyders, a wine merchant, and his wife
@@ -33,7 +35,7 @@ bio_text: "<p>Frans Snyders was a Flemish painter most noted for his work in sti
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
-order: '45'
+order: '38'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio46/thumbnail.jpg"

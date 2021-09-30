@@ -1,6 +1,8 @@
 ---
 pid: bio51
 label: Peter Paul Rubens
+first_name: Peter Paul
+last_name: Rubens
 birth_death: 1577–1632
 bio_text: "<p>Peter Paul Rubens was born in Siegen, Germany in 1577 to Jan Rubens,
   a Protestant lawyer and alderman, and Maria Pijpelinckx. In 1568 while serving as
@@ -136,7 +138,7 @@ bio_text: "<p>Peter Paul Rubens was born in Siegen, Germany in 1577 to Jan Ruben
 bio_author: Cecily Manson
 role: collaborator
 status_profession: scholar, diplomat, painter
-order: '50'
+order: '34'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio51/thumbnail.jpg"

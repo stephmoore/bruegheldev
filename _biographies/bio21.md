@@ -1,6 +1,8 @@
 ---
 pid: bio21
 label: Pieter Coecke van Aelst
+first_name: Pieter
+last_name: Coecke van Aelst
 birth_death:
 bio_text: "<p>While few works that bear his signature remain, Pieter Coecke van Aelst
   (1502 or 1507 – 1550) left a significant impression on the art of Northern Europe.
@@ -24,7 +26,7 @@ bio_text: "<p>While few works that bear his signature remain, Pieter Coecke van 
 bio_author: Cecily Manson
 role:
 status_profession: painter
-order: '20'
+order: '10'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio21/thumbnail.jpg"

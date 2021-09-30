@@ -1,6 +1,8 @@
 ---
 pid: bio45
 label: Jacob de Backer
+first_name: Jacob
+last_name: de Backer
 birth_death: ca. 1560–1590/91
 bio_text: "<p>Very little is known of Flemish painter Jacob de Backer. With no set
   birthdate or death date, de Backer is thought to have lived from around 1555 to
@@ -21,7 +23,7 @@ bio_text: "<p>Very little is known of Flemish painter Jacob de Backer. With no s
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
-order: '44'
+order: '14'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio45/thumbnail.jpg"

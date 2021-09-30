@@ -1,6 +1,8 @@
 ---
 pid: bio20
 label: Dirck Volckertszoon Coornhert
+first_name: Dirck
+last_name: Volckertszoon Coornhert
 birth_death:
 bio_text: "<p>Dirck Volckertszoon Coornhert was born in 1522 in Amsterdam. In 1539,
   he married Cornelia Symons despite the protests of his parents due to her age, lack
@@ -37,7 +39,7 @@ bio_text: "<p>Dirck Volckertszoon Coornhert was born in 1522 in Amsterdam. In 15
 bio_author: Kelsey Schiedermayer
 role:
 status_profession: scholar
-order: '19'
+order: '52'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio20/thumbnail.jpg"

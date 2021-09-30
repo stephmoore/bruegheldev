@@ -1,6 +1,8 @@
 ---
 pid: bio30
 label: Cornelis Schut
+first_name: Cornelis
+last_name: Schut
 birth_death: 1597–1655
 bio_text: "<p>Cornelis Schut was a Flemish artist skilled in oil painting, engraving,
   and tapestry design who worked mostly in Antwerp. He specialized in religious and
@@ -25,7 +27,7 @@ bio_text: "<p>Cornelis Schut was a Flemish artist skilled in oil painting, engra
 bio_author: Rigby Philips
 role:
 status_profession: painter
-order: '29'
+order: '35'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio30/thumbnail.jpg"

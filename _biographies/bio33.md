@@ -1,6 +1,8 @@
 ---
 pid: bio33
 label: Federico Borromeo
+first_name: Federico
+last_name: Borromeo
 birth_death: 1564–1631
 bio_text: "<p>Federico Borromeo was born in Milan in 1564 to Margherita Trivulzio
   and Count Giulio Cesare Borromeo. Upon his father’s death in 1572, he was placed
@@ -62,7 +64,7 @@ bio_text: "<p>Federico Borromeo was born in Milan in 1564 to Margherita Trivulzi
 bio_author: Ximena Valdarrago
 role: patron
 status_profession: cardinal/prelate
-order: '32'
+order: '1'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio33/thumbnail.jpg"

@@ -1,6 +1,8 @@
 ---
 pid: bio31
 label: Daniel Seghers
+first_name: Daniel
+last_name: Seghers
 birth_death: 1590–1661
 bio_text: "<p>Daniel Seghers was a Flemish painter who worked mostly in Antwerp. After
   the death of his father, the silk merchant Pierre Seghers, Daniel and his mother
@@ -22,7 +24,7 @@ bio_text: "<p>Daniel Seghers was a Flemish painter who worked mostly in Antwerp.
 bio_author: Rigby Philips
 role:
 status_profession:
-order: '30'
+order: '36'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio31/thumbnail.jpg"

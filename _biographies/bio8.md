@@ -1,6 +1,8 @@
 ---
 pid: bio8
 label: Charles duc de Croy
+first_name: Charles
+last_name: duc de Croy
 birth_death:
 bio_text: "<p>Charles III de Croy, Duke of Croy and Aarschot and Prince of Chimay,
   was born in Beaumont in 1560. His father was Philippe III de Croy, who served as
@@ -21,7 +23,7 @@ bio_text: "<p>Charles III de Croy, Duke of Croy and Aarschot and Prince of Chima
 bio_author: Rigby Philips
 role:
 status_profession:
-order: '7'
+order: '19'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio8/thumbnail.jpg"

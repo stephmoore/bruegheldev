@@ -1,6 +1,8 @@
 ---
 pid: bio36
 label: Paul Bril
+first_name: Paul
+last_name: Bril
 birth_death: 1554–1626
 bio_text: "<p>Paul Bril was a sixteenth-century Netherlandish artist who is today
   most famous for his influence on Italian landscape art. Bril was born in 1553, in
@@ -40,7 +42,7 @@ bio_text: "<p>Paul Bril was a sixteenth-century Netherlandish artist who is toda
 bio_author: Ximena Valdarrago
 role: collaborator
 status_profession: painter
-order: '35'
+order: '3'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio36/thumbnail.jpg"

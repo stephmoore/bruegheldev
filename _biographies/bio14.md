@@ -1,6 +1,8 @@
 ---
 pid: bio14
 label: Pieter Brueghel the Younger
+first_name: Pieter
+last_name: Brueghel the Younger
 birth_death:
 bio_text: "<p>Pieter Brueghel the Younger was born in Brussels in 1564, the eldest
   son of Pieter Bruegel the Elder and Mayken Coecke van Aelst. Although his father
@@ -46,7 +48,7 @@ bio_text: "<p>Pieter Brueghel the Younger was born in Brussels in 1564, the elde
 bio_author: Ximena Valdarrago
 role: relative
 status_profession: painter
-order: '13'
+order: '5'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio14/thumbnail.jpg"

@@ -1,6 +1,8 @@
 ---
 pid: bio37
 label: Giulio Cesare Procaccini
+first_name: Giulio
+last_name: Cesare Procaccini
 birth_death: 1547–1625
 bio_text: "<p>Giulio Cesare Procaccini was an Italian artist born in Bologna who worked
   mostly in Milan. Likely trained under Francesco Brambilla, Procaccini was a skilled
@@ -16,7 +18,7 @@ bio_text: "<p>Giulio Cesare Procaccini was an Italian artist born in Bologna who
 bio_author: Rigby Philips
 role: collaborator
 status_profession: painter
-order: '36'
+order: '7'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio37/thumbnail.jpg"

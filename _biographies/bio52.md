@@ -1,6 +1,8 @@
 ---
 pid: bio52
 label: Jan Brueghel the Younger
+first_name: Jan
+last_name: Brueghel the Younger
 birth_death: 1601–1678
 bio_text: "<p>Jan Brueghel the Younger was an artist and art dealer, born in Antwerp
   on September 13th, 1601. He was eldest son of Jan Brueghel the Elder and his first
@@ -52,7 +54,7 @@ bio_text: "<p>Jan Brueghel the Younger was an artist and art dealer, born in Ant
 bio_author: Ximena Valdarrago
 role: collaborator, dealer
 status_profession: painter, art dealer
-order: '51'
+order: '4'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio52/thumbnail.jpg"

@@ -1,6 +1,8 @@
 ---
 pid: bio42
 label: Pieter van Avont
+first_name: Pieter
+last_name: van Avont
 birth_death: 1600–1652
 bio_text: "<p>Pieter van Avont, baptized January 14th, 1600, in the Antwerp province
   of Mechelen, was a Flemish painter, printmaker, draughtsman, and art dealer. The

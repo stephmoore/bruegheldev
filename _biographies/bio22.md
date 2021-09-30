@@ -1,6 +1,8 @@
 ---
 pid: bio22
 label: Hieronymus Cock
+first_name: Hieronymus
+last_name: Cock
 birth_death:
 bio_text: "<p>The records of the Guild of Saint Luke in Antwerp show that Hieronymus
   Cock was admitted to the guild in 1546; the date suggests that he was born in around
@@ -36,7 +38,7 @@ bio_text: "<p>The records of the Guild of Saint Luke in Antwerp show that Hieron
 bio_author: Ashley Jerbic
 role:
 status_profession: painter
-order: '21'
+order: '9'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio22/thumbnail.jpg"

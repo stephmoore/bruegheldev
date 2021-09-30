@@ -1,5 +1,4 @@
-{% assign collection = site.[include.collection] %}
-{% assign vocab = site.[include.vocab] %}
+{% assign collection = site.[include.collection] | sort: "label" %}
 
 <div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width container-fluid d-flex flex-column flex-md-row align-items-start'>
 	<div id="{{ include.collection }}-facet-buttons" class="facet-buttons col-12 col-md-3 d-flex flex-row flex-md-column flex-wrap align-items-start mb-3 pl-0"></div>

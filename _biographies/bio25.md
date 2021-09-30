@@ -1,6 +1,8 @@
 ---
 pid: bio25
 label: Archduke Ernest of Austria
+first_name: Archduke
+last_name: Ernest of Austria
 birth_death: 1553–1595
 bio_text: "<p>Born in 1553, Archduke Ernst of Austria was the son of Holy Roman Emperor
   Maximilian II and Maria of Spain, herself the daughter of Holy Roman Emperor Charles
@@ -23,7 +25,7 @@ bio_text: "<p>Born in 1553, Archduke Ernst of Austria was the son of Holy Roman 
 bio_author: Saffron Sener
 role: patron
 status_profession: ruler/noble
-order: '24'
+order: '20'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio25/thumbnail.jpg"

@@ -1,6 +1,8 @@
 ---
 pid: bio50
 label: Frans Francken the Younger
+first_name: Frans
+last_name: Francken the Younger
 birth_death: 1581–1642
 bio_text: "<p>Frans Francken the Younger was born in Antwerp in 1581 to painter Frans
   Francken the Elder and Elisabeth Mertens. He was exposed to the Flemish art world
@@ -39,7 +41,7 @@ bio_text: "<p>Frans Francken the Younger was born in Antwerp in 1581 to painter 
 bio_author: Ximena Valdarrago
 role:
 status_profession:
-order: '49'
+order: '21'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio50/thumbnail.jpg"

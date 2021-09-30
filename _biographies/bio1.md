@@ -1,6 +1,8 @@
 ---
 pid: bio1
 label: Lucas van Uden
+first_name: Lucas
+last_name: van Uden
 birth_death: 1595–1672
 bio_text: "<p>The son of the town painter, Artus van Uden, Lucas joined Antwerp’s
   Guild of St. Luke as a “master’s son” in 1626-27. His grandfather was Pieter van
@@ -23,7 +25,7 @@ bio_text: "<p>The son of the town painter, Artus van Uden, Lucas joined Antwerp�
 bio_author: Rigby Philips
 role:
 status_profession: painter
-order: '0'
+order: '48'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio1/thumbnail.jpg"

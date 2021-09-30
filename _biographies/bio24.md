@@ -1,6 +1,8 @@
 ---
 pid: bio24
 label: Hieronymus Bosch
+first_name: Hieronymus
+last_name: Bosch
 birth_death:
 bio_text: "<p>Hieronymus Bosch was born as Jeroen van Aken in around 1450 to a family
   of established artists. His father was Antonius van Aken and his grandfather was
@@ -54,7 +56,7 @@ bio_text: "<p>Hieronymus Bosch was born as Jeroen van Aken in around 1450 to a f
 bio_author: Ximena Valdarrago
 role:
 status_profession: painter
-order: '23'
+order: '2'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio24/thumbnail.jpg"

@@ -1,6 +1,8 @@
 ---
 pid: bio16
 label: Abraham Ortelius
+first_name: Abraham
+last_name: Ortelius
 birth_death:
 bio_text: "<p>Abraham Ortelius, sixteenth century cartographer and geographer, was
   orphaned at the age of twelve and was raised by his uncle, Jacob van Meteren, in
@@ -27,7 +29,7 @@ bio_text: "<p>Abraham Ortelius, sixteenth century cartographer and geographer, w
 bio_author: Cecily Manson
 role: patron
 status_profession: scholar
-order: '15'
+order: '32'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio16/thumbnail.jpg"

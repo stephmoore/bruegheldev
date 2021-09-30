@@ -1,6 +1,8 @@
 ---
 pid: bio26
 label: Albert VII, Archduke of Austria
+first_name: Archduke of Austria
+last_name: Albert VII
 birth_death:
 bio_text: "<p>The fifth son to Holy Roman Emperor Maximilian II and Maria of Spain,
   herself the daughter of Holy Roman Emperor Charles V and Isabella of Portugal, Albrecht
@@ -24,7 +26,7 @@ bio_text: "<p>The fifth son to Holy Roman Emperor Maximilian II and Maria of Spa
 bio_author: Cecily Manson
 role: patron
 status_profession: ruler/noble
-order: '25'
+order: '0'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio26/thumbnail.jpg"

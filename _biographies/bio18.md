@@ -1,6 +1,8 @@
 ---
 pid: bio18
 label: Nicolaes Jongelinck
+first_name: Nicolaes
+last_name: Jongelinck
 birth_death:
 bio_text: "<p>Nicolaes Jongelinck was a prominent Antwerp merchant and patron of both
   Pieter Bruegel and Frans Floris. A member of an affluent Antwerp family with many
@@ -24,7 +26,7 @@ bio_text: "<p>Nicolaes Jongelinck was a prominent Antwerp merchant and patron of
 bio_author: Cecily Manson
 role: patron
 status_profession: merchant/professional
-order: '17'
+order: '28'
 layout: biography_item
 collection: biographies
 thumbnail: "/img/derivatives/simple/bio18/thumbnail.jpg"

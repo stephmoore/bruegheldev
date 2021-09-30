@@ -1,4 +1,4 @@
-{% assign biblios = include.fieldvalue | split: ";" %} 
+{% assign biblios = include.fieldvalue | split: "|" %} 
 
 {% for item in biblios %}
   {{ item }}<br />

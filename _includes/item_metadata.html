@@ -14,18 +14,18 @@
   {% endif %}
 
   {% if page.location_city or page.location_country %}
-    {%- capture location_url -%}
+    {%- capture city_url -%}
       /{{ page.collection }}/locations/{{ page.location_city | slugify }}
     {%- endcapture -%}
     {%- capture location_info -%}   
-        {% if page.location_city %}<a href="{{ location_url | absolute_url }}/">{{ page.location_city }}</a>{% endif %}{% if page.location_country %}, {{ page.location_country }}</a>{% endif %}
+        {% if page.location_city %}<a href="{{ city_url | absolute_url }}/">{{ page.location_city }}</a>{% endif %}{% if page.location_country %}, {{ page.location_country }}</a>{% endif %}
     {%- endcapture -%}
   {% endif %}
 
-  {% if page.location_collection %}
+  {% if page.collection_type == 'public' %}
     {%- capture collection_info -%}
-      {% if page.location_collection %}{{ page.location_collection }}, {% endif %}
-        {% if page.public_collection_info %}{{ page.public_collection_info }}{% endif %}
+      {{ page.location_collection }}
+      {% if page.public_collection_info %}, {{ page.public_collection_info }}{% endif %}
     {%- endcapture -%}
   {% endif %}
 
@@ -50,7 +50,7 @@
     {% endcomment %}
 
     {% case key %}
-      {% when "bibliography", "exhibition_history", "copies_and_variants", "provenance", "related_works", "curatorial_files", "discussion" %}
+      {% when "bibliography", "exhibition_history", "copies_and_variants", "provenance", "related_works", "curatorial_files", "discussion", "related_works_notes" %}
         {% assign value = nil %}
       {% when "dimensions" %}
         {% assign value = dimensions %}
@@ -100,10 +100,6 @@
         {% assign value = worktaglist_html %}
       {% endif %}
 
-      {% if key == 'other_attribution_authorities' or 'medium' %}
-        {% assign value = value | replace: "|", "<br />" %}
-      {% endif %}
-
       {% if key == 'genre' %}
         {%- capture genre_url -%}  
           /{{ page.collection }}/genres/{{ page.genre | slugify }}
@@ -126,20 +122,31 @@
         {% assign value = value | append: " cm" %}
       {% endif %}
 
-      {% if key == 'collaborators' or key == 'collectors_patrons' %}
+      {% if key == 'collaborators' or key == 'collectors_patrons' or key == 'publisher' or key == 'printmaker' %}
         {% assign personArray = value | split: "|" %}
         {% assign bioString = "" %}
-          {% for person in personArray %}
-            {% assign stripped = person | strip %}
-            {% assign bio = site.biographies | where: "label", stripped %}
+        {% for person in personArray %}
+          {% assign person_stripped = person | strip %}
+          {% assign bio = site.biographies | where: "label", person_stripped %}
+          {% if bio[0] != nil %}
             {% assign bio_url = "/biographies/" | append: bio[0].pid %}
-            {%- capture biolink -%}
+            {%- capture bio_entry -%}
               <a href="{{ bio_url | absolute_url }}">{{ bio[0].label }}</a>
-              {% unless forloop.last %}, {% endunless %}
             {%- endcapture -%}
-            {% assign bioString = bioString | append: biolink %}
-          {% endfor %}
-          {% assign value = bioString %}
+          {% else %}
+            {% assign bio_entry = person_stripped %}
+          {% endif %}
+          {% unless forloop.last %}
+            {% assign bio_entry = bio_entry | append: "<br />" %}
+          {% endunless %}
+          {% assign bioString = bioString | append: bio_entry %}
+        {% endfor %}
+        {% assign value = bioString %}
+
+        {% if key == 'medium' or key == 'further_inscription' or key == 'other_attribution_authorities' or key == 'support_marks' %}
+          {% assign value = value | replace: '|', '<br />' %}
+        {% endif %}
+
       {% endif %}
       <tr>
         <td class="label">{{ item.label }}</td>

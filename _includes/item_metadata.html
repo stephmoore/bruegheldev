@@ -22,7 +22,7 @@
     {%- endcapture -%}
   {% endif %}
 
-  {% if page.collection_type == 'public' %}
+  {% if page.location_collection %}
     {%- capture collection_info -%}
       {{ page.location_collection }}
       {% if page.public_collection_info %}, {{ page.public_collection_info }}{% endif %}

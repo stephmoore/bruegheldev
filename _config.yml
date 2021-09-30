@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Jan Brueghel Catalogue Raisonne'
-description:      'Jan Brueghel Catalogue Raisonne'
+title:            'Jan Brueghel Complete Catalog'
+description:      'Jan Brueghel Complete Catalog'
 url:              'https://stephmoore.github.io'
 baseurl:          '/bruegheldev'
 copyright:        '2021'
@@ -64,14 +64,14 @@ kramdown:
 collections:
   janbrueghel: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'brueghel_item' # the layout for the pages to use
+    layout: 'janbrueghel_item' # the layout for the pages to use
     metadata:
       source: 'janbrueghel.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/janbrueghel' # path to the directory of images within `_data`
   pieterbruegel: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'brueghel_item' # the layout for the pages to use
+    layout: 'pieterbruegel_item' # the layout for the pages to use
     metadata:
       source: 'pieterbruegel.csv' # path to the metadata file within `_data`
     images:

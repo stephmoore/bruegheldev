@@ -1,8 +1,13 @@
 {% assign related = include.fieldvalue | split: "|" %} 
+{% if page.url contains 'pieterbruegel' %}
+  {% assign collection = site.pieterbruegel %}
+{% else %}
+  {% assign collection = site.janbrueghel %}
+{% endif %}
 <div class="d-flex flex-wrap">
 {% for item in related %}
   {% assign item = item | strip %}
-  {% assign work = site.janbrueghel | where: "pid", item %} 
+  {% assign work = collection | where: "pid", item %} 
   <div class="related-works-item d-flex flex-nowrap pr-3"> 
     <div class="related-works-item-image-container">
       <a href="{{ work[0].url | absolute_url }}"><img src="{{ work[0].thumbnail | absolute_url }}" alt="{{ work[0].label }}"></a>

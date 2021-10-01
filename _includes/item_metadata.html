@@ -22,12 +22,10 @@
     {%- endcapture -%}
   {% endif %}
 
-  {% if page.location_collection %}
-    {%- capture collection_info -%}
-      {{ page.location_collection }}
-      {% if page.public_collection_info %}, {{ page.public_collection_info }}{% endif %}
-    {%- endcapture -%}
-  {% endif %}
+  {%- capture collection_info -%}
+    {% if page.location_collection %}{{ page.location_collection }}{% endif %}
+    {% if page.collection_notes %}{% unless page.location_collection == '' %}, {% endunless %}{{ page.collection_notes }}{% endif %}
+  {%- endcapture -%}
 
   {% comment %}
     Loop through the metadata object
@@ -70,6 +68,20 @@
 
     {% if value | strip != '' %}
 
+      {% if key == 'other_attribution_authorities' or key == 'further_inscription' %}
+        {% assign valueArray = value | split: '|' %}
+        {% assign value = valueArray | join: '<br />' %}
+      {% endif %}
+
+      {% if key == 'external_resources_title' %}
+        {% if page.external_resources_url %}
+          {%- capture external_resources_link -%}
+          <a href="{{ page.external_resources_url }}" target="blank">{{ page.external_resources_title }}</a>
+          {%- endcapture -%}
+          {% assign value = external_resources_link %}
+        {% endif %}
+      {% endif %}
+
       {% if key == 'worktags' %}
         {% assign parsed_worktags = value | split: "|" }
         {% assign worktaglist_html = "" %}
@@ -78,8 +90,7 @@
               /{{ page.collection }}/tags/{{ worktag | slugify }}
             {%- endcapture -%}
             {%- capture worktag_html -%}
-              <a href="{{ worktag_url | absolute_url }}/">{{ worktag }}</a>
-              {% unless forloop.last %}, {% endunless %}
+              <a href="{{ worktag_url | absolute_url }}/">{{ worktag }}</a>{% unless forloop.last %}, {% endunless %}
               {%- endcapture -%}
             {% assign worktaglist_html = worktaglist_html | append: worktag_html %}
           {% endfor %}
@@ -128,19 +139,6 @@
           {% assign bioString = bioString | append: bio_entry %}
         {% endfor %}
         {% assign value = bioString %}
-
-        {% if key == 'medium' or key == 'further_inscription' or key == 'other_attribution_authorities' or key == 'support_marks' %}
-          {% assign value = value | replace: '|', '<br />' %}
-        {% endif %}
-
-        {% if key == 'external_resources_title' %}
-          {% if page.external_resources_url != '' %}
-            {%- capture external_resources_link -%}
-              <a href="{{ page.external_resources_url }}" target="blank">{{ page.external_resources_title }}</a>
-            {%- endcapture -%}
-            {% assign value = external_resources_link %}
-          {% endif %}
-        {% endif %}
 
       {% endif %}
       <tr>

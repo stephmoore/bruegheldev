@@ -80,29 +80,19 @@ collections:
     output: true
     metadata:
       source: 'provenance.csv'
-  discussion:
-    output: true
-    metadata:
-      source: 'discussion.csv'
   curatorial_files:
     output: true
     metadata:
       source: 'curatorial-files.csv'
-    images:
-      source: 'raw_images/curatorial_files'
   copies_and_variants:
     output: true
     metadata:
       source: 'copies-and-variants.csv'
-    images:
-      source: 'raw_images/copies_and_variants'
   biographies:
     output: true
     layout: 'biography_item'
     metadata:
       source: 'biographies.csv'
-    images:
-      source: 'raw_images'
   object_types_janbrueghel:
     output: true
     layout: 'objectpage_janbrueghel'
@@ -163,7 +153,7 @@ search:
           - object_type
           - genre
           - worktags
-          - realdate
+          - numeric_date
           - support
           - signature
           - support_mark
@@ -177,16 +167,41 @@ search:
           - states
           - our_attribution
           - other_attribution_authorities
-          - ertz_1979
-          - ertz_2008
-          - bailey_walker
-          - hollstein_no
-          - collection_type
           - location_country
           - location_city
           - location_collection
-          - location_or_most_recent_sale_notes
-          - provenance
+          - private_collection_info
+          - most_recent_sale
+          - bibliography
+          - exhibition_history
+          - copies_and_variants
+          - biblio
+      pieterbruegel:
+        content: false
+        fields:
+          - label
+          - object_type
+          - genre
+          - worktags
+          - numeric_date
+          - support
+          - signature
+          - support_mark
+          - collaborators
+          - collaborator_notes
+          - collectors_patrons
+          - print_type
+          - print_notes
+          - printmaker
+          - publisher
+          - states
+          - our_attribution
+          - other_attribution_authorities
+          - location_country
+          - location_city
+          - location_collection
+          - private_collection_info
+          - most_recent_sale
           - bibliography
           - exhibition_history
           - copies_and_variants

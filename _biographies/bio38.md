@@ -2,7 +2,7 @@
 pid: bio38
 label: Hendrick van Steenwyck the Younger
 first_name: Hendrick
-last_name: van Steenwyck the Younger
+last_name: Van Steenwyck the Younger
 birth_death: 1580/82–1649
 bio_text: "<p>Hendrick van Steenwyck was born in Antwerp around 1581 as the son of
   the painter Hendrick van Steenwyck the Elder. His mother was a member of the Valckenborch

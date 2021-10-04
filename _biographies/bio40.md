@@ -2,7 +2,7 @@
 pid: bio40
 label: Adriaen van Stalbemt
 first_name: Adriaen
-last_name: van Stalbemt
+last_name: Van Stalbemt
 birth_death: 1580–1662
 bio_text: "<p>Because he was born to a Protestant family, Flemish painter and printmaker
   Adriaen van Stalbemt has no baptismal record. However, biographer Cornelius de Bie

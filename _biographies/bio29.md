@@ -2,7 +2,7 @@
 pid: bio29
 label: Pieter van der Heyden
 first_name: Pieter
-last_name: van der Heyden
+last_name: Van der Heyden
 birth_death: ca. 1530–1572
 bio_text: "<p>Pieter van der Heyden is a sixteenth-century Flemish printmaker.</p>"
 bio_author:

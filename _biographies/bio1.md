@@ -2,7 +2,7 @@
 pid: bio1
 label: Lucas van Uden
 first_name: Lucas
-last_name: van Uden
+last_name: Van Uden
 birth_death: 1595–1672
 bio_text: "<p>The son of the town painter, Artus van Uden, Lucas joined Antwerp’s
   Guild of St. Luke as a “master’s son” in 1626-27. His grandfather was Pieter van

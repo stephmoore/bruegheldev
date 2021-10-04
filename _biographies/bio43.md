@@ -2,7 +2,7 @@
 pid: bio43
 label: Denis van Alsloot
 first_name: Denis
-last_name: van Alsloot
+last_name: Van Alsloot
 birth_death: 1570–1628
 bio_text:
 bio_author:

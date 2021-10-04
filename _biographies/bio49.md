@@ -2,7 +2,7 @@
 pid: bio49
 label: Hendrick de Clerck
 first_name: Hendrick
-last_name: de Clerck
+last_name: De Clerck
 birth_death: 1570–1629/30
 bio_text: "<p>Hendrick de Clerck was a sixteenth and seventeenth-century Flemish painter.</p>"
 bio_author:

@@ -2,7 +2,7 @@
 pid: bio39
 label: Hendrick van Steenwyck the Elder
 first_name: Hendrick
-last_name: van Steenwyck the Elder
+last_name: Van Steenwyck the Elder
 birth_death: ca. 1550–1603
 bio_text: "<p>Hendrik van Steenwyck the Elder was born in 1550 in the Dutch town of
   Kampen, in the province of Overijssel. As a young man in the 1560s, he moved to

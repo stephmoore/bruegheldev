@@ -2,7 +2,7 @@
 pid: bio15
 label: Hendrick van Balen
 first_name: Hendrick
-last_name: van Balen
+last_name: Van Balen
 birth_death: 1575–1632
 bio_text: "<p>Hendrick van Balen was born in 1575 to the merchant Willem van Balen
   and Mechtelt van Aelten. A resident of Antwerp for most of his life, he became a

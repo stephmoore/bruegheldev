@@ -2,7 +2,7 @@
 pid: bio28
 label: Jan van Kessel (I)
 first_name: Jan
-last_name: van Kessel (I)
+last_name: Van Kessel (I)
 birth_death: 1626–1679
 bio_text: "<p>Jan van Kessel was born in April 5th, 1626 to Hieronymus van Kessel
   and Paschasia Brueghel. His father was an accomplished animal painter and a member

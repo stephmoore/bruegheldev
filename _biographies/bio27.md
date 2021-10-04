@@ -2,7 +2,7 @@
 pid: bio27
 label: Francesco Maria del Monte
 first_name: Francesco Maria
-last_name: del Monte
+last_name: Del Monte
 birth_death: 1549–1627
 bio_text: "<p>Francesco Maria del Monte was an Italian cardinal, diplomat, art collector,
   and patron. Born in Venice in 1549, del Monte was the son Marquis Ranieri Bourbon

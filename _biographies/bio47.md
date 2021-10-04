@@ -2,7 +2,7 @@
 pid: bio47
 label: Otto van Veen
 first_name: Otto
-last_name: van Veen
+last_name: Van Veen
 birth_death: ca. 1556–1629
 bio_text: "<p>Born in 1556, Otto van Veen was a prominent Flemish painter, poet, and
   draughtsman based in Antwerp. Also known by the Latin forms of his name, Octavius

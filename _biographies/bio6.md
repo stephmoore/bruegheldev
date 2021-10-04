@@ -3,7 +3,7 @@ pid: bio6
 label: Benedetto Giustiniani
 first_name: Benedetto
 last_name: Giustiniani
-birth_death:
+birth_death: 1554–1621
 bio_text:
 bio_author:
 role:

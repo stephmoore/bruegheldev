@@ -3,7 +3,7 @@ pid: bio3
 label: Jan Snellinck
 first_name: Jan
 last_name: Snellinck
-birth_death:
+birth_death: c. 1548–1638
 bio_text:
 bio_author:
 role:

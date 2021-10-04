@@ -1,9 +1,9 @@
 ---
 pid: bio4
 label: Hans III Jordaens
-first_name: Hans
-last_name: Jordaens III
-birth_death:
+first_name: Hans III
+last_name: Jordaens
+birth_death: 1590–1643
 bio_text:
 bio_author:
 role:

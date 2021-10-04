@@ -3,7 +3,7 @@ pid: bio16
 label: Abraham Ortelius
 first_name: Abraham
 last_name: Ortelius
-birth_death:
+birth_death: 1527–1598
 bio_text: "<p>Abraham Ortelius, sixteenth century cartographer and geographer, was
   orphaned at the age of twelve and was raised by his uncle, Jacob van Meteren, in
   Antwerp. While later in life his craft drew him to various important European cities,

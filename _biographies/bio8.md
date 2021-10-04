@@ -1,9 +1,9 @@
 ---
 pid: bio8
-label: Charles duc de Croy
-first_name: Charles
-last_name: duc de Croy
-birth_death:
+label: Charles duc de Croÿ
+first_name: duc de Croÿ
+last_name: Charles
+birth_death: 1560-1612
 bio_text: "<p>Charles III de Croy, Duke of Croy and Aarschot and Prince of Chimay,
   was born in Beaumont in 1560. His father was Philippe III de Croy, who served as
   governor of the Citadel of Antwerp in 1577. One of the great old nobles of the Netherlands

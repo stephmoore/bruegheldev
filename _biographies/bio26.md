@@ -3,7 +3,7 @@ pid: bio26
 label: Albert VII, Archduke of Austria
 first_name: Archduke of Austria
 last_name: Albert VII
-birth_death:
+birth_death: 1598–1621
 bio_text: "<p>The fifth son to Holy Roman Emperor Maximilian II and Maria of Spain,
   herself the daughter of Holy Roman Emperor Charles V and Isabella of Portugal, Albrecht
   (or Albert) of Austria was born on November 13, 1559. Expected to pursue a clerical

@@ -3,7 +3,7 @@ pid: bio9
 label: Egidio Colonna
 first_name: Egidio
 last_name: Colonna
-birth_death:
+birth_death: 1607-1686
 bio_text:
 bio_author:
 role:

@@ -1,8 +1,8 @@
 ---
 pid: bio10
 label: Nicolaas Cornelis Cheeus
-first_name: Nicolaas
-last_name: Cornelis Cheeus
+first_name: Nicolaas Cornelis
+last_name: Cheeus
 birth_death:
 bio_text:
 bio_author:

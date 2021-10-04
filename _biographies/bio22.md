@@ -3,7 +3,7 @@ pid: bio22
 label: Hieronymus Cock
 first_name: Hieronymus
 last_name: Cock
-birth_death:
+birth_death: 1518–1570
 bio_text: "<p>The records of the Guild of Saint Luke in Antwerp show that Hieronymus
   Cock was admitted to the guild in 1546; the date suggests that he was born in around
   1520. He and his brother Matthys were sons of the painter Jan de Cock who is recorded

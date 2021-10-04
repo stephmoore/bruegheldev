@@ -1,9 +1,9 @@
 ---
 pid: bio20
 label: Dirck Volckertszoon Coornhert
-first_name: Dirck
-last_name: Volckertszoon Coornhert
-birth_death:
+first_name: Dirck Volckertszoon
+last_name: Coornhert
+birth_death: 1522–1590
 bio_text: "<p>Dirck Volckertszoon Coornhert was born in 1522 in Amsterdam. In 1539,
   he married Cornelia Symons despite the protests of his parents due to her age, lack
   of means, and the reputation of her sister as the mistress of count Reinoud III

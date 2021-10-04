@@ -3,7 +3,7 @@ pid: bio32
 label: David Teniers the Younger
 first_name: David
 last_name: Teniers the Younger
-birth_death:
+birth_death: 1610–1690
 bio_text: "<p>A Flemish painter and engraver, David Teniers (the Younger) was born
   on December 15, 1610 in Antwerp. As the first son of painter David Teniers the Elder
   and Dymphna Wylde, he was involved with art by the age of sixteen when he began

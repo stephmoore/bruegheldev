@@ -1,9 +1,9 @@
 ---
 pid: bio13
 label: Gerard de Jode
-first_name: Gerard
+first_name: Gerard de
 last_name: de Jode
-birth_death:
+birth_death: 1511-1591
 bio_text: "<p>Cartographer and engraver Gerard de Jode was born 1509 in Nijmegen in
   the province of Gelderland. Though not much is known about his early life, by 1547
   he had relocated to Antwerp. Once there, he was admitted as a master into the Guild

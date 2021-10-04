@@ -3,7 +3,7 @@ pid: bio24
 label: Hieronymus Bosch
 first_name: Hieronymus
 last_name: Bosch
-birth_death:
+birth_death: c. 1450–1516
 bio_text: "<p>Hieronymus Bosch was born as Jeroen van Aken in around 1450 to a family
   of established artists. His father was Antonius van Aken and his grandfather was
   Jan van Aken. Little is known about Bosch’s early life but he was probably trained

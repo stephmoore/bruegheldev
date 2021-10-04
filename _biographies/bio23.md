@@ -3,7 +3,7 @@ pid: bio23
 label: Giulio Clovio
 first_name: Giulio
 last_name: Clovio
-birth_death:
+birth_death: 1498–1578
 bio_text: "<p>Born just before the turn of the sixteenth century in Croatia , Giulio
   Clovio (1498-1587) is one of the most famous and accomplished miniature painters
   and illuminators of the Italian Renaissance. In around 1516, Clovio moved to Italy,

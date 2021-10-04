@@ -3,7 +3,7 @@ pid: bio2
 label: Infanta Isabella Clara Eugenia
 first_name: Infanta
 last_name: Isabella Clara Eugenia
-birth_death:
+birth_death: 1566–1633
 bio_text: "<p>Infanta Isabella Clara Eugenia was the most prominent female patron
   of Jan Brueghel. The infanta was born on August 12, 1566 into the powerful Habsburg
   family. She was the eldest daughter of King Philip II and his third wife Elisabeth

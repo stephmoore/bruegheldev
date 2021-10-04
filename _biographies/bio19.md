@@ -3,7 +3,7 @@ pid: bio19
 label: Cardinal Granvelle
 first_name: Cardinal
 last_name: Granvelle
-birth_death:
+birth_death: 1517–1586
 bio_text: "<p>Cardinal Granvelle, born Anthony Perrenot, was perhaps Bruegel’s most
   eminent patron. Born in 1517 in Besancon, Granvelle became the focus of his doting
   father, a chancellor under Emperor Charles V. His father’s political ambitions included

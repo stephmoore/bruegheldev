@@ -3,7 +3,7 @@ pid: bio18
 label: Nicolaes Jongelinck
 first_name: Nicolaes
 last_name: Jongelinck
-birth_death:
+birth_death: 1517-1570
 bio_text: "<p>Nicolaes Jongelinck was a prominent Antwerp merchant and patron of both
   Pieter Bruegel and Frans Floris. A member of an affluent Antwerp family with many
   ties to the Mint, it is possible that Jongelinck could have known another Bruegel

@@ -3,7 +3,7 @@ pid: bio21
 label: Pieter Coecke van Aelst
 first_name: Pieter
 last_name: Coecke van Aelst
-birth_death:
+birth_death: 1502–1550
 bio_text: "<p>While few works that bear his signature remain, Pieter Coecke van Aelst
   (1502 or 1507 – 1550) left a significant impression on the art of Northern Europe.
   Regarded by contemporaries as a polymath and purveyor of intellectual and artistic

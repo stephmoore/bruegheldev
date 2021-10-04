@@ -5,6 +5,6 @@ location_country: Netherlands
 location_city: Haarlem
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '084'
+order: '083'
 permalink: "/janbrueghel/locations/haarlem"
 ---

@@ -5,6 +5,6 @@ location_country: France
 location_city: Valenciennes
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '047'
+order: '046'
 permalink: "/janbrueghel/locations/valenciennes"
 ---

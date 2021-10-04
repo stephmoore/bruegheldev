@@ -5,6 +5,6 @@ location_country: United States
 location_city: Cleveland, OH
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '114'
+order: '111'
 permalink: "/janbrueghel/locations/cleveland"
 ---

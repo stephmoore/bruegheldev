@@ -5,6 +5,6 @@ location_country: Netherlands
 location_city: Rotterdam
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '25'
+order: '24'
 permalink: "/pieterbruegel/locations/rotterdam"
 ---

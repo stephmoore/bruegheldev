@@ -5,6 +5,6 @@ location_country: England
 location_city: Plymouth
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '026'
+order: '025'
 permalink: "/janbrueghel/locations/plymouth"
 ---

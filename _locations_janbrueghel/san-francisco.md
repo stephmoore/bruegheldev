@@ -5,6 +5,6 @@ location_country: United States
 location_city: San Francisco, CA
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '134'
+order: '131'
 permalink: "/janbrueghel/locations/san-francisco"
 ---

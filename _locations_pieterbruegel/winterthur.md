@@ -5,6 +5,6 @@ location_country: Switzerland
 location_city: Winterthur
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '29'
+order: '28'
 permalink: "/pieterbruegel/locations/winterthur"
 ---

@@ -14,6 +14,8 @@ html, body {
   font-family: $body-font;
   font-weight: 300;
   font-display: auto;
+  font-size: 1rem;
+  line-height: 1.3rem;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   word-wrap: break-word;
@@ -21,7 +23,7 @@ html, body {
 
 a {
   color: $link-color;
-  font-weight: 400;
+  font-weight: 500;
   text-decoration: none;
 }
 
@@ -33,16 +35,26 @@ a:hover, a:active {
 p {
   max-width: 100%;
   margin-bottom: $less-margin;
-  letter-spacing: .02rem;
-  font-weight: 300;
-  font-size: 1rem;
-  line-height: 1.75rem;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 }
 
 ul {
   list-style: none;
+}
+
+.page-title {
+  padding: 0 15px;
+}
+
+.p {
+  padding: 0 15px;
+}
+
+.facet-buttons {
+  padding: 0 15px;
+}
+
+.container-fluid {
+  padding: 0;
 }
 
 /*
@@ -61,7 +73,7 @@ header & nav bar
     max-width: $max-width;
   }
       
-  #jan-title {
+  #site-title {
     color: $title-color;
     font-size: 1.7rem;
     font-weight: 500;
@@ -69,7 +81,7 @@ header & nav bar
     font-variant: small-caps;
   }
       
-  #jan-subtitle {
+  #site-subtitle {
     color: $title-color;
     font-size: 1.4rem;
     font-weight: 500;
@@ -85,7 +97,7 @@ header & nav bar
     width: 50px;
   }
   
-  #pieter-link-text {
+  #othercat-link-text {
     color: $title-color;
     font-size: .75em;
     font-weight: 700;
@@ -117,9 +129,9 @@ header & nav bar
   .navbar-nav {
     .nav-link, .dropdown-item {
       color: $menu-link-color;
-      font-size: 0.7rem;
+      font-size: 0.8rem;
       font-weight: 500;
-      font-family: 'Poppins', sans-serif;
+      font-family: $menu-font;
       line-height: 0.6;
       padding: 0.4rem;
     }
@@ -162,7 +174,7 @@ Landing Page Stuff
     color: $link-color;
     text-align: center;
     font-size: 24px;
-    font-family: 'EB Garamond', serif;
+    font-family: $accent-font;
     font-style: italic;
     font-weight: 300;
     line-height: 112px;
@@ -180,15 +192,8 @@ Landing Page Stuff
   color: #fff;
 }
 
-#janbrueghel-banner {
+#banner {
   background-image: $banner;
-}
-
-#pieterbruegel-banner {
-  background-image: $banner;
-}
-
-.banner {
   width: 100vw;
   height: 40vw;
   max-height: 400px;
@@ -226,30 +231,26 @@ content section
 #brueghel-main {
   background-color: $bg-color;
   max-width: $max-width;
+  margin-top: $super-margin;
   h1, h2, h3, h4, h5 {
     margin-bottom: $less-margin;
     font-family: $heading-font;
     font-weight: 500;
-    letter-spacing: 0.1rem;
-    text-transform: uppercase;
   }
   h1 {
     font-size: 2.5rem;
   }
   h2 {
-    font-size: 2rem;
-    letter-spacing: 0.1rem;
+    font-size: 1.3rem;
   }
   h3 {
-    font-size: 1.5rem;
-    letter-spacing: 0.077rem;
+    font-size: 1.3rem;
   }
   h4 {
     font-size: 1rem;
   }
   h5 {
     font-size: 0.8rem;
-    letter-spacing: 0.15rem;
   }
   .footnotes ol {
     padding-left: 0;
@@ -279,8 +280,7 @@ Footer
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
-  color: $bg-color;
-  background-color: $footer-color;
+  background-color: $darker-bg;
   col {
     flex-basis: 0;
     flex-shrink: 0;
@@ -313,7 +313,7 @@ Footer
     font-size: 1em;
     line-height: 1.2;
     a {
-      color: $accent-color;
+      
     }
   }
 }
@@ -349,14 +349,20 @@ item pages (iiif + metadata)
       font-size: 1em !important;
     }
   }
-  
-
-
-  #prevlink {
-    float:left;
+  .item-title {
+    font-variant: small-caps;
   }
-  .nextlink {
-    float: right;
+  .image-modal {
+    img {
+      max-width: 100%;
+    }
+  }
+  .modal-content {
+    min-width: 60vw;
+  }
+
+  .modal-dialog {
+    max-width: 70vw;
   }
 }
 
@@ -370,12 +376,20 @@ item pages (iiif + metadata)
     padding-bottom: 10px;
   }
   .label {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-size: 0.9rem;
     font-weight: 600;
+    letter-spacing: 0.03rem;
     padding-right: 10px;
   }
   .value a {
     font-weight: 400;
+    letter-spacing: 0.02rem;
   }
+}
+#tabbed-metadata {
+  padding-left: 0;
 }
 
 .metadata-card {
@@ -386,28 +400,30 @@ item pages (iiif + metadata)
     @extend .card-header;
     background-color: $bg-color;
     border-bottom: 0;
-    .btn-link, .btn-linkhover, .btn-linkactive, .btn-link:visited {
-      color: $text-color;
-      text-decoration: none;
-      font-size: 1rem;
-      font-weight: 500;
+    }
+    .tabbed-metadata-heading {
+    color: $text-color;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.03rem;
+    margin-bottom: 1.2rem;
     }
   }
-}
   .metadata-card-body {
     @extend .card-body;
     background-color: $bg-color;
     border-bottom: 0;
     font-family: $body-font;
-    font-size: 1rem;
+    font-size: .9rem;
+    padding: 0 !important;
+    margin-bottom: 1.5rem;
   }
-
-/* .tabbed-metadata-heading, .tabbed-metadata-heading:hover, .tabbed-metadata-heading:active {
-  color: $text-color;
-  text-decoration: none;
-  font-size: .8rem;
-  font-weight: 500;
-} */
 
 table.provenance {
   width: 100%;
@@ -418,12 +434,47 @@ table.provenance {
   }
 }
 
+.related-works-item {
+  padding: 0.7rem;
+  margin: 0 1rem 1rem 0;
+  border-color: $text-color;
+  border-radius: 0.4rem;
+  background-color: $darker-bg;
+  border-width: 0.5px;
+  border-style: solid;
+  width: 15rem;
+  .item-image-container {
+    img {
+      object-position: 50% 20%;
+      object-fit: cover;
+      width: 13.5rem;
+    }
+  }
+  .item-info {
+    font-size: .9rem;
+    line-height: 1rem;
+    padding-top: .7rem;
+    font-weight: 300;
+    .item-link {
+      font-weight: 500;
+      letter-spacing: 0.02rem;
+      padding-bottom: 0.6rem;
+    }
+    .item-date, .item-dimensions, .item-support, .item-location-collection, .item-birth-death {
+      padding-bottom: 0.3rem;
+    }
+    .item-location-collection {
+      padding-top: 0.3rem;
+      font-style: italic;
+    }
+  }
+}
+
 /*
 
 search box
 
 */
-
 
 .search-block{
   margin: $more-margin 0 $more-margin 0;
@@ -471,73 +522,56 @@ search box
     @extend .btn-outline-secondary;
     color: $text-color;
     background-color: transparent;
-    background-image: none;
+    background-image: unset;
     border-color: transparent;
     margin: 0;
     padding: 3px;
-    font-size: 1rem;
-    font-family: 'Poppins', 'sans-serif';
+    font-size: .9rem;
+    font-family: 'Alegreya Sans', 'sans-serif';
     text-align: left;
     .active {
       @extend .facet;
-      border-color: $text-color;
+      border-color: transparent;
       background-color: transparent;
     }
   }
 }
 
+/* Browse-By Gallery */
+
 .gallery-item {
-  padding: 0;
-  margin: 0 0 1rem 0;
-  height: 100%;
-  min-width: 350px;
-  font-size: 1rem;
-}
-
-.item-image-container {
-  img {
-    object-position: 50% 20%;
-    object-fit: cover;
-    height: 115px;
+  padding: 0.7rem;
+  margin-right: $margin;
+  margin-bottom: $margin;
+  max-width: 20rem;
+  border-color: $text-color;
+  border-radius: 0.4rem;
+  background-color: $darker-bg;
+  border-width: 0.5px;
+  border-style: solid;
+  .item-image-container {
+    img {
+      object-position: 50% 20%;
+      object-fit: cover;
+      width: 150px;
+    }
+  }
+  .item-info {
+    font-size: .9rem;
+    line-height: 1rem;
+    padding-left: .7rem;
+    font-weight: 300;
+    .item-link {
+      font-weight: 500;
+      letter-spacing: 0.02rem;
+      padding-bottom: 0.6rem;
+    }
+    .item-date, .item-dimensions, .item-support, .item-location-collection {
+      padding-bottom: 0.3rem;
+    }
+    .item-location-collection {
+      padding-top: 0.3rem;
+      font-style: italic;
+    }
   }
 }
-
-.item-info {
-  font-size: 1rem;
-  padding-left: .7rem;
-  line-height: unset;
-}
-
-.related-works-item {
-  padding: 0;
-  margin: 0 0 1rem 0;
-  height: 100%;
-}
-
-.related-works-item-image-container {
-  img {
-    object-position: 50% 20%;
-    object-fit: cover;
-    height: 169px;
-  }
-}
-
-.related-works-item-info {
-  font-size: 1rem;
-  padding-left: .7rem;
-  line-height: unset;
-}
-
-.page-title {
-  font-size: 1.2rem !important;
-  margin-top: $margin;
-}
-
-/* 
-.sq-thumb-sm{
-  object-fit: cover;
-  object-position: 50% 20%;
-  width: 80px;
-  height: 80px;
-}
-*/

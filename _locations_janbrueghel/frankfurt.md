@@ -5,6 +5,6 @@ location_country: Germany
 location_city: Frankfurt
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '058'
+order: '057'
 permalink: "/janbrueghel/locations/frankfurt"
 ---

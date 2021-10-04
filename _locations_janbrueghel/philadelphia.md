@@ -5,6 +5,6 @@ location_country: United States
 location_city: Philadelphia, PA
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '129'
+order: '126'
 permalink: "/janbrueghel/locations/philadelphia"
 ---

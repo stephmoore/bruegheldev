@@ -5,6 +5,6 @@ location_country: Netherlands
 location_city: Utrecht
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '088'
+order: '087'
 permalink: "/janbrueghel/locations/utrecht"
 ---

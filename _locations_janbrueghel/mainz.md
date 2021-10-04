@@ -5,6 +5,6 @@ location_country: Germany
 location_city: Mainz
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '064'
+order: '063'
 permalink: "/janbrueghel/locations/mainz"
 ---

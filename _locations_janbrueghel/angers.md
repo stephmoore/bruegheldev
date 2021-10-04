@@ -5,6 +5,6 @@ location_country: France
 location_city: Angers
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '030'
+order: '029'
 permalink: "/janbrueghel/locations/angers"
 ---

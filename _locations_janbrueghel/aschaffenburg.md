@@ -5,6 +5,6 @@ location_country: Germany
 location_city: Aschaffenburg
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '049'
+order: '048'
 permalink: "/janbrueghel/locations/aschaffenburg"
 ---

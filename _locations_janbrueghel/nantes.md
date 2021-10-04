@@ -5,6 +5,6 @@ location_country: France
 location_city: Nantes
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '040'
+order: '039'
 permalink: "/janbrueghel/locations/nantes"
 ---

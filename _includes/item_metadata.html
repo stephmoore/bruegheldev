@@ -13,19 +13,14 @@
     {% endif %}
   {% endif %}
 
-  {% if page.location_city or page.location_country %}
+  {% if page.location_city %}
     {%- capture city_url -%}
-      /{{ page.collection }}/locations/{{ page.location_city | slugify }}
+      /{{ page.collection }}/locations/{{ page.location_city | slugify: 'latin' }}
     {%- endcapture -%}
     {%- capture location_info -%}   
-        {% if page.location_city %}<a href="{{ city_url | absolute_url }}/">{{ page.location_city }}</a>{% endif %}{% if page.location_country %}, {{ page.location_country }}</a>{% endif %}
+    <a href="{{ city_url | absolute_url }}/">{{ page.location_city }}</a>{% if page.location_country %}, {{ page.location_country }}{% endif %}
     {%- endcapture -%}
   {% endif %}
-
-  {%- capture collection_info -%}
-    {% if page.location_collection %}{{ page.location_collection }}{% endif %}
-    {% if page.collection_notes %}{% unless page.location_collection == '' %}, {% endunless %}{{ page.collection_notes }}{% endif %}
-  {%- endcapture -%}
 
   {% comment %}
     Loop through the metadata object

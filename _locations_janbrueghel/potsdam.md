@@ -5,6 +5,6 @@ location_country: Germany
 location_city: Potsdam
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '067'
+order: '066'
 permalink: "/janbrueghel/locations/potsdam"
 ---

@@ -5,6 +5,6 @@ location_country: Romania
 location_city: Sibiu
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '095'
+order: '094'
 permalink: "/janbrueghel/locations/sibiu"
 ---

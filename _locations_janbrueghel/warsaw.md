@@ -5,6 +5,6 @@ location_country: Poland
 location_city: Warsaw
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '092'
+order: '091'
 permalink: "/janbrueghel/locations/warsaw"
 ---

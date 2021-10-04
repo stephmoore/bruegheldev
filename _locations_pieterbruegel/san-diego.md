@@ -5,6 +5,6 @@ location_country: United States
 location_city: San Diego, CA
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '26'
+order: '25'
 permalink: "/pieterbruegel/locations/san-diego"
 ---

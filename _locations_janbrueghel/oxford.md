@@ -5,6 +5,6 @@ location_country: England
 location_city: Oxford
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '025'
+order: '024'
 permalink: "/janbrueghel/locations/oxford"
 ---

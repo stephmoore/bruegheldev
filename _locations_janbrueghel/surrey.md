@@ -5,6 +5,6 @@ location_country: England
 location_city: Surrey
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '027'
+order: '026'
 permalink: "/janbrueghel/locations/surrey"
 ---

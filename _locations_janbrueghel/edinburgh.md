@@ -5,6 +5,6 @@ location_country: Scotland
 location_city: Edinburgh
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '098'
+order: '097'
 permalink: "/janbrueghel/locations/edinburgh"
 ---

@@ -5,6 +5,6 @@ location_country: United States
 location_city: Washington, DC
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '28'
+order: '27'
 permalink: "/pieterbruegel/locations/washington"
 ---

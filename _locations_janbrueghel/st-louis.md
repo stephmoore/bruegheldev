@@ -5,6 +5,6 @@ location_country: United States
 location_city: St. Louis, MO
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '136'
+order: '133'
 permalink: "/janbrueghel/locations/st-louis"
 ---

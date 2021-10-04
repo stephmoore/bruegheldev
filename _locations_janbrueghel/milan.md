@@ -5,6 +5,6 @@ location_country: Italy
 location_city: Milan
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '075'
+order: '074'
 permalink: "/janbrueghel/locations/milan"
 ---

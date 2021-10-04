@@ -5,6 +5,6 @@ location_country: Netherlands
 location_city: Rotterdam
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '086'
+order: '085'
 permalink: "/janbrueghel/locations/rotterdam"
 ---

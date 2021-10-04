@@ -5,6 +5,6 @@ location_country: France
 location_city: Bergues
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '032'
+order: '031'
 permalink: "/janbrueghel/locations/bergues"
 ---

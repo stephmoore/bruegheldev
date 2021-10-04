@@ -8,11 +8,13 @@
 {% for item in related %}
   {% assign item = item | strip %}
   {% assign work = collection | where: "pid", item %} 
-  <div class="related-works-item d-flex flex-nowrap pr-3"> 
-    <div class="related-works-item-image-container">
+  <div class="related-works-item"> 
+    <div class="item-image-container">
       <a href="{{ work[0].url | absolute_url }}"><img src="{{ work[0].thumbnail | absolute_url }}" alt="{{ work[0].label }}"></a>
     </div>
-    <div class="related-works-item-info"><a href="{{ work[0].url | absolute_url }}">{{ work[0].label }}</a>{% if work[0].realdate %}<br />{{ work[0].realdate }}{% endif %}{% if work[0].location_collection %}<br />{{ work[0].location_collection }}{% endif %}{% if work[0].private_collection_info %}<br />{{ work[0].private_collection_info }}{% endif %}{% if work[0].height_cm %}<br />{{ work[0].height_cm }} x {{ work[0].width_cm }} cm{% endif %}{% if work[0].diameter %}<br />{{ work[0].diameter }} cm diameter{% endif %}{% if work[0].support %}<br />{{ work[0].support }}{% endif %}</div>
+    <div class="item-info">
+      <div class="item-link"><a href="{{ work[0].url | absolute_url }}">{{ work[0].label }}</a></div>{% if work[0].realdate %}<div class="item-date">{{ work[0].realdate }}</div>{% endif %}{% if work[0].height_cm %}<div class="item-dimensions">{{ work[0].height_cm }} x {{ work[0].width_cm }} cm</div>{% endif %}{% if work[0].diameter %}<div class="item-dimensions">{{ work[0].diameter }} cm diameter</div>{% endif %}{% if work[0].support %}<div class="item-support">{{ work[0].support }}</div>{% endif %}{% if work[0].location_collection %}<div class="item-location-collection">{{ work[0].location_collection }}</div>{% endif %}
+    </div>
   </div>
 {% endfor %}
 </div>

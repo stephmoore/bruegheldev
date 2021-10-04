@@ -5,6 +5,6 @@ location_country: Romania
 location_city: Bucharest
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '094'
+order: '093'
 permalink: "/janbrueghel/locations/bucharest"
 ---

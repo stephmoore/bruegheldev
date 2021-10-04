@@ -5,6 +5,6 @@ location_country: Germany
 location_city: Hannover
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '061'
+order: '060'
 permalink: "/janbrueghel/locations/hannover"
 ---

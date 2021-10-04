@@ -5,6 +5,6 @@ location_country: England
 location_city: Windsor
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '029'
+order: '028'
 permalink: "/janbrueghel/locations/windsor"
 ---

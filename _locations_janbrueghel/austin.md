@@ -5,6 +5,6 @@ location_country: United States
 location_city: Austin, TX
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '110'
+order: '107'
 permalink: "/janbrueghel/locations/austin"
 ---

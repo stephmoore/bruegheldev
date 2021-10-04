@@ -5,6 +5,6 @@ location_country: Germany
 location_city: Bamberg
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
-order: '050'
+order: '049'
 permalink: "/janbrueghel/locations/bamberg"
 ---

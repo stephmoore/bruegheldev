@@ -133,6 +133,16 @@ collections:
     output: true
     metadata:
       source: 'discussion.csv'
+  series_janbrueghel:
+    output: true
+    layout: 'series_janbrueghel'
+    metadata:
+      source: 'series_janbrueghel.csv'
+  series_pieterbruegel:
+    output: true
+    layout: 'series_pieterbruegel'
+    metadata:
+      source: 'series_pieterbruegel.csv'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

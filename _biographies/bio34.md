@@ -1,10 +1,10 @@
 ---
 pid: bio34
-label: Pieter de Jode
+label: Pieter De Jode
 first_name: Pieter
-last_name: de Jode
+last_name: De Jode
 birth_death: 1570-1634
-bio_text: "<p>Pieter de Jode was a sixteenth and seventeenth-century Flemish printmaker
+bio_text: "<p>Pieter De Jode was a sixteenth and seventeenth-century Flemish printmaker
   and publisher.</p>"
 bio_author:
 role:

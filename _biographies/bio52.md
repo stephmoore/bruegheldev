@@ -6,10 +6,10 @@ last_name: Brueghel the Younger
 birth_death: 1601–1678
 bio_text: "<p>Jan Brueghel the Younger was an artist and art dealer, born in Antwerp
   on September 13th, 1601. He was eldest son of Jan Brueghel the Elder and his first
-  wife Isabella de Jode. From an early age, Brueghel was exposed to the art world.
+  wife Isabella De Jode. From an early age, Brueghel was exposed to the art world.
   He belonged to the eminent Brueghel family of painters, as the child of Jan I, nephew
   of Pieter II, and grandchild of Pieter I. His mother’s father was the engraver Gerard
-  de Jode and he was the godchild of Peter Paul Rubens. He followed in his father’s
+  De Jode and he was the godchild of Peter Paul Rubens. He followed in his father’s
   professional footsteps, as was then customary, and began his artistic training in
   his father’s studio at the age of 10. This was followed by a trip to Italy, then
   a rite of passage for young artists throughout Europe, where he stayed briefly with

@@ -5,5 +5,5 @@ worktag: Battle
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '009'
-permalink: /janbrueghel/tags/battle
+permalink: "/janbrueghel/tags/battle/"
 ---

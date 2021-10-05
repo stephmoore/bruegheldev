@@ -5,5 +5,5 @@ worktag: Farming
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '056'
-permalink: /pieterbruegel/tags/farming
+permalink: "/pieterbruegel/tags/farming/"
 ---

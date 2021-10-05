@@ -5,5 +5,5 @@ worktag: Commerce
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '038'
-permalink: /pieterbruegel/tags/commerce
+permalink: "/pieterbruegel/tags/commerce/"
 ---

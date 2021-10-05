@@ -5,5 +5,5 @@ worktag: Fire
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '061'
-permalink: /janbrueghel/tags/fire
+permalink: "/janbrueghel/tags/fire/"
 ---

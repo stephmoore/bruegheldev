@@ -5,5 +5,5 @@ worktag: Forge
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '068'
-permalink: /janbrueghel/tags/forge
+permalink: "/janbrueghel/tags/forge/"
 ---

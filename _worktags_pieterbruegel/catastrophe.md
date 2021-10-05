@@ -5,5 +5,5 @@ worktag: Catastrophe
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '026'
-permalink: /pieterbruegel/tags/catastrophe
+permalink: "/pieterbruegel/tags/catastrophe/"
 ---

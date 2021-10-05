@@ -6,5 +6,5 @@ genre: Portrait
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel
 order: '07'
-permalink: /janbrueghel/genres/portrait/
+permalink: "/janbrueghel/genres/portrait/"
 ---

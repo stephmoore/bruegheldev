@@ -5,5 +5,5 @@ worktag: Harbor
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '082'
-permalink: /janbrueghel/tags/harbor
+permalink: "/janbrueghel/tags/harbor/"
 ---

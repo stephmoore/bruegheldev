@@ -5,5 +5,5 @@ worktag: Harvesting
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '076'
-permalink: /pieterbruegel/tags/harvesting
+permalink: "/pieterbruegel/tags/harvesting/"
 ---

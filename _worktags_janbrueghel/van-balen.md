@@ -5,5 +5,5 @@ worktag: Van Balen
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '177'
-permalink: /janbrueghel/tags/van-balen
+permalink: "/janbrueghel/tags/van-balen/"
 ---

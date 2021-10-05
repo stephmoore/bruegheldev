@@ -5,5 +5,5 @@ worktag: Village
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '165'
-permalink: /pieterbruegel/tags/village
+permalink: "/pieterbruegel/tags/village/"
 ---

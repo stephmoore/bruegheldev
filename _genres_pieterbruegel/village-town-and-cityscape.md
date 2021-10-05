@@ -6,5 +6,5 @@ genre: Village, Town and Cityscape
 collection: genres_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '10'
-permalink: /pieterbruegel/genres/village-town-and-cityscape/
+permalink: "/pieterbruegel/genres/village-town-and-cityscape/"
 ---

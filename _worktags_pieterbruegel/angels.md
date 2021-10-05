@@ -5,5 +5,5 @@ worktag: Angels
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '001'
-permalink: /pieterbruegel/tags/angels
+permalink: "/pieterbruegel/tags/angels/"
 ---

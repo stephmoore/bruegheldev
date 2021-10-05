@@ -5,5 +5,5 @@ worktag: Wagon
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '186'
-permalink: /janbrueghel/tags/wagon
+permalink: "/janbrueghel/tags/wagon/"
 ---

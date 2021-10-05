@@ -5,5 +5,5 @@ worktag: Crowd
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '042'
-permalink: /pieterbruegel/tags/crowd
+permalink: "/pieterbruegel/tags/crowd/"
 ---

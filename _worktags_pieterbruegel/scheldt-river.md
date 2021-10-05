@@ -5,5 +5,5 @@ worktag: Scheldt River
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '136'
-permalink: /pieterbruegel/tags/scheldt-river
+permalink: "/pieterbruegel/tags/scheldt-river/"
 ---

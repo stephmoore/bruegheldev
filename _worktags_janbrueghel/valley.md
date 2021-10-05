@@ -5,5 +5,5 @@ worktag: Valley
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '175'
-permalink: /janbrueghel/tags/valley
+permalink: "/janbrueghel/tags/valley/"
 ---

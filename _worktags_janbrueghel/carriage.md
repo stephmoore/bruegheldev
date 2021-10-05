@@ -5,5 +5,5 @@ worktag: Carriage
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '024'
-permalink: /janbrueghel/tags/carriage
+permalink: "/janbrueghel/tags/carriage/"
 ---

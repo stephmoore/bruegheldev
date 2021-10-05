@@ -5,5 +5,5 @@ worktag: Tronie
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '161'
-permalink: /pieterbruegel/tags/tronie
+permalink: "/pieterbruegel/tags/tronie/"
 ---

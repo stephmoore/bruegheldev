@@ -5,5 +5,5 @@ worktag: Inset image
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '096'
-permalink: /janbrueghel/tags/inset-image
+permalink: "/janbrueghel/tags/inset-image/"
 ---

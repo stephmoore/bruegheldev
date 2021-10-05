@@ -5,5 +5,5 @@ worktag: Prisoners
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '123'
-permalink: /pieterbruegel/tags/prisoners
+permalink: "/pieterbruegel/tags/prisoners/"
 ---

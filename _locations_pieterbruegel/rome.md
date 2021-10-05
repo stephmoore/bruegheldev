@@ -6,5 +6,5 @@ location_city: Rome
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '23'
-permalink: /pieterbruegel/locations/rome
+permalink: "/pieterbruegel/locations/rome/"
 ---

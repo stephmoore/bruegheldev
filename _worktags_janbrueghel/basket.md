@@ -5,5 +5,5 @@ worktag: Basket
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '007'
-permalink: /janbrueghel/tags/basket
+permalink: "/janbrueghel/tags/basket/"
 ---

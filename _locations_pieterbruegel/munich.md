@@ -6,5 +6,5 @@ location_city: Munich
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '16'
-permalink: /pieterbruegel/locations/munich
+permalink: "/pieterbruegel/locations/munich/"
 ---

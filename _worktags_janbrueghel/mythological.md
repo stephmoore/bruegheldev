@@ -5,5 +5,5 @@ worktag: Mythological
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '117'
-permalink: /janbrueghel/tags/mythological
+permalink: "/janbrueghel/tags/mythological/"
 ---

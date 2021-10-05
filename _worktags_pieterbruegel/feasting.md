@@ -5,5 +5,5 @@ worktag: Feasting
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '057'
-permalink: /pieterbruegel/tags/feasting
+permalink: "/pieterbruegel/tags/feasting/"
 ---

@@ -5,5 +5,5 @@ worktag: Holy Roman Emperor Rudolf II
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '081'
-permalink: /pieterbruegel/tags/holy-roman-emperor-rudolf-ii
+permalink: "/pieterbruegel/tags/holy-roman-emperor-rudolf-ii/"
 ---

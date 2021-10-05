@@ -5,5 +5,5 @@ worktag: Book of Revelation
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '018'
-permalink: /pieterbruegel/tags/book-of-revelation
+permalink: "/pieterbruegel/tags/book-of-revelation/"
 ---

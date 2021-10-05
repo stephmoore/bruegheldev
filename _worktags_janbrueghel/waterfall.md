@@ -5,5 +5,5 @@ worktag: Waterfall
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '187'
-permalink: /janbrueghel/tags/waterfall
+permalink: "/janbrueghel/tags/waterfall/"
 ---

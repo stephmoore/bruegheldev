@@ -6,5 +6,5 @@ genre: Urban, Common and Peasant Life
 collection: genres_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '09'
-permalink: /pieterbruegel/genres/urban-common-and-peasant-life/
+permalink: "/pieterbruegel/genres/urban-common-and-peasant-life/"
 ---

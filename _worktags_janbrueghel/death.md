@@ -5,5 +5,5 @@ worktag: Death
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '046'
-permalink: /janbrueghel/tags/death
+permalink: "/janbrueghel/tags/death/"
 ---

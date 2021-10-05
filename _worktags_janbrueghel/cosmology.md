@@ -5,5 +5,5 @@ worktag: Cosmology
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '041'
-permalink: /janbrueghel/tags/cosmology
+permalink: "/janbrueghel/tags/cosmology/"
 ---

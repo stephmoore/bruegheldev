@@ -5,5 +5,5 @@ worktag: Windmill
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '174'
-permalink: /pieterbruegel/tags/windmill
+permalink: "/pieterbruegel/tags/windmill/"
 ---

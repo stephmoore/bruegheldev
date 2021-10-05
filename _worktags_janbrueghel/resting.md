@@ -5,5 +5,5 @@ worktag: Resting
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '135'
-permalink: /janbrueghel/tags/resting
+permalink: "/janbrueghel/tags/resting/"
 ---

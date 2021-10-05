@@ -5,5 +5,5 @@ worktag: Food
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '065'
-permalink: /janbrueghel/tags/food
+permalink: "/janbrueghel/tags/food/"
 ---

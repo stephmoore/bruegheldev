@@ -5,5 +5,5 @@ worktag: Theatrical Performance
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '157'
-permalink: /pieterbruegel/tags/theatrical-performance
+permalink: "/pieterbruegel/tags/theatrical-performance/"
 ---

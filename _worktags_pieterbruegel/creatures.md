@@ -5,5 +5,5 @@ worktag: Creatures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '039'
-permalink: /pieterbruegel/tags/creatures
+permalink: "/pieterbruegel/tags/creatures/"
 ---

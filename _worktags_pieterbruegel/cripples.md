@@ -5,5 +5,5 @@ worktag: Cripples
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '040'
-permalink: /pieterbruegel/tags/cripples
+permalink: "/pieterbruegel/tags/cripples/"
 ---

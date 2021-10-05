@@ -5,5 +5,5 @@ worktag: Winter
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '175'
-permalink: /pieterbruegel/tags/winter
+permalink: "/pieterbruegel/tags/winter/"
 ---

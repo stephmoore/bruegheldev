@@ -5,5 +5,5 @@ worktag: Angels
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '002'
-permalink: /janbrueghel/tags/angels
+permalink: "/janbrueghel/tags/angels/"
 ---

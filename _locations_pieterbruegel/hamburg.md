@@ -6,5 +6,5 @@ location_city: Hamburg
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '11'
-permalink: /pieterbruegel/locations/hamburg
+permalink: "/pieterbruegel/locations/hamburg/"
 ---

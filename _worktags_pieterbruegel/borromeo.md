@@ -5,5 +5,5 @@ worktag: Borromeo
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '020'
-permalink: /pieterbruegel/tags/borromeo
+permalink: "/pieterbruegel/tags/borromeo/"
 ---

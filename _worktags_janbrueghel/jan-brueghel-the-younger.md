@@ -5,5 +5,5 @@ worktag: Jan Brueghel the Younger
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '098'
-permalink: /janbrueghel/tags/jan-brueghel-the-younger
+permalink: "/janbrueghel/tags/jan-brueghel-the-younger/"
 ---

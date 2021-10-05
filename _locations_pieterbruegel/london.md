@@ -6,5 +6,5 @@ location_city: London
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '13'
-permalink: /pieterbruegel/locations/london
+permalink: "/pieterbruegel/locations/london/"
 ---

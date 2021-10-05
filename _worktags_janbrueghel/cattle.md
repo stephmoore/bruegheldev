@@ -5,5 +5,5 @@ worktag: Cattle
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '027'
-permalink: /janbrueghel/tags/cattle
+permalink: "/janbrueghel/tags/cattle/"
 ---

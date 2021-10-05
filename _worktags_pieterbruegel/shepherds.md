@@ -5,5 +5,5 @@ worktag: Shepherds
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '144'
-permalink: /pieterbruegel/tags/shepherds
+permalink: "/pieterbruegel/tags/shepherds/"
 ---

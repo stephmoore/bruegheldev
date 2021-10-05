@@ -5,5 +5,5 @@ worktag: Vegetables
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '181'
-permalink: /janbrueghel/tags/vegetables
+permalink: "/janbrueghel/tags/vegetables/"
 ---

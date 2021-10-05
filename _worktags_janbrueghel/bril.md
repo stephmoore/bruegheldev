@@ -5,5 +5,5 @@ worktag: Bril
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '019'
-permalink: /janbrueghel/tags/bril
+permalink: "/janbrueghel/tags/bril/"
 ---

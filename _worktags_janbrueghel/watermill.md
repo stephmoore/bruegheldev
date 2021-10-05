@@ -5,5 +5,5 @@ worktag: Watermill
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '188'
-permalink: /janbrueghel/tags/watermill
+permalink: "/janbrueghel/tags/watermill/"
 ---

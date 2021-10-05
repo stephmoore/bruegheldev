@@ -5,5 +5,5 @@ worktag: River
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '136'
-permalink: /janbrueghel/tags/river
+permalink: "/janbrueghel/tags/river/"
 ---

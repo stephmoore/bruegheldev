@@ -5,5 +5,5 @@ worktag: Spring
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '163'
-permalink: /janbrueghel/tags/spring
+permalink: "/janbrueghel/tags/spring/"
 ---

@@ -5,5 +5,5 @@ worktag: Van Steenwyck
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '178'
-permalink: /janbrueghel/tags/van-steenwyck
+permalink: "/janbrueghel/tags/van-steenwyck/"
 ---

@@ -13,8 +13,10 @@ meta:
 ---
 
 <h3 alt="{{ page.label }}" class="page-title">{{ page.label }}</h3>
-<h4>{{ page.birth_death }}</h4>
 <div class="biography-fields">
+  {% if page.birth_death.size %}
+    <h4>{{ page.birth_death }}</h4>
+  {% endif %}
   {% if page.role.size %}
     {{ page.role | capitalize | replace: "-", " "}}<br />
   {% endif %}

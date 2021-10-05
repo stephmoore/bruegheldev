@@ -5,6 +5,10 @@ layout: page
 
 <div class="container-fluid d-flex flex-column flex-md-row align-items-start">
   <div id="wax-gallery-series" class="col-12 d-flex flex-wrap">
-
+    {% for item in collection %}
+      {% if item.series == page.label %}
+        {% include gallery_item.html value=page.label item=item %}
+      {% endif %}
+    {% endfor %}
   </div>
 </div>

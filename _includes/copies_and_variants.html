@@ -1,14 +1,15 @@
 {% assign copies_and_variants = include.fieldvalue | split: "|" %} 
 
-<!--add if statements to check if fields are empty, add rest of fields-->
-<!--could use same include for curatorial files-->
-
+<div class="d-flex flex-wrap">
 {% for item in copies_and_variants %}
-  {% assign copy = site.copies_and_variants | where: "pid", item %}  
-    <div class="related-works-item-image-container">
-      <a href="/{{ copy[0].fullwidth | absolute_url }}" target="_blank"><img class="" src="/{{ copy[0].thumbnail }}"></a>
+  {% assign copy = site.copies_and_variants | where: "pid", item %}
+  <div class="copies-and-variants-item"> 
+    <div class="item-image-container">
+      <a href="{{ copy[0].fullwidth | absolute_url }}" target="_blank"><img src="/{{ copy[0].thumbnail }}"></a>
     </div>
     <div class="item-info">
-      <p>{{ copy[0].copy_variant_image_file }}<br />{{ copy[0].copy_variant_description }}<br />{{ copy[0].file_description }}</p>
+      {% if copy[0].copy_variant_description %}<div class="copy-variant-description">{{ copy[0].copy_variant_description }}</div>{% endif%}
     </div>
+  </div>
 {% endfor %}
+</div>

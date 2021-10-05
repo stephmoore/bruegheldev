@@ -1,0 +1,14 @@
+---
+layout: page
+---
+{% assign collection = site.janbrueghel | sort: "label" %}
+
+<div class="container-fluid d-flex flex-column flex-md-row align-items-start">
+  <div id="wax-gallery-location-country" class="col-12 d-flex flex-wrap">
+    {% for item in collection %}
+      {% if item.series == page.series %}
+        {% include gallery_item.html value=page.series item=item %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

@@ -1,6 +1,7 @@
 ---
-pid: '6'
+pid: the-thin-kitchen-and-the-fat-kitchen
 label: The Thin Kitchen and the Fat Kitchen
+permalink: "/pieterbruegel/series/the-thin-kitchen-and-the-fat-kitchen"
 object_ids: 10154|10155
 reference_collection: pieterbruegel
 order: '5'

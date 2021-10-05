@@ -101,6 +101,15 @@
         {%- endcapture -%}
       {% endif %}
 
+      {% if key == 'series' %}
+        {%- capture series_url -%}  
+          /{{ page.collection }}/series/{{ page.series | slugify }}
+        {%- endcapture -%}
+        {%- capture value -%}
+          <a href="{{ series_url | absolute_url }}/">{{ page.series }}</a>
+        {%- endcapture -%}
+      {% endif %}
+
       {% if key == 'object_type' %}
         {%- capture object_url -%}
           /{{ page.collection }}/object-types/{{ page.object_type | slugify }}

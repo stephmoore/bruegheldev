@@ -35,6 +35,7 @@ a:hover, a:active {
 p {
   max-width: 100%;
   margin-bottom: $less-margin;
+  padding: 0;
 }
 
 ul {
@@ -42,10 +43,6 @@ ul {
 }
 
 .page-title {
-  padding: 0 15px;
-}
-
-.p {
   padding: 0 15px;
 }
 
@@ -264,6 +261,7 @@ content section
   .biography-fields {
     font-size: 1rem;
     font-weight: 600;
+    padding-left: 15px;
   }
   .item-view .biography-text {
     padding-top: $less-margin;
@@ -352,17 +350,21 @@ item pages (iiif + metadata)
   .item-title {
     font-variant: small-caps;
   }
-  .image-modal {
-    img {
-      max-width: 100%;
-    }
-  }
+}
+.modal-dialog {
+  max-width: 70vw;
   .modal-content {
-    min-width: 60vw;
-  }
-
-  .modal-dialog {
-    max-width: 70vw;
+    .modal-heading {
+      padding: 0.5rem;
+      border-bottom: none;
+    }
+    .image-modal {
+      margin: auto;
+      padding-top: 0;
+      img {
+        max-width: 100%;
+      }
+    }
   }
 }
 
@@ -426,7 +428,7 @@ item pages (iiif + metadata)
   }
 
 table.provenance {
-  width: 100%;
+  width: 50%;
   tr td {
     padding-right: 20px;
     border-bottom: 0.5px solid $text-color;
@@ -434,7 +436,7 @@ table.provenance {
   }
 }
 
-.related-works-item {
+.related-works-item, .curatorial-files-item, .copies-and-variants-item {
   padding: 0.7rem;
   margin: 0 1rem 1rem 0;
   border-color: $text-color;
@@ -466,6 +468,18 @@ table.provenance {
     .item-location-collection {
       padding-top: 0.3rem;
       font-style: italic;
+    }
+    .file-type-category {
+      text-transform: lowercase;
+      font-variant: small-caps;
+      font-size: 0.8rem;
+    }
+    .file-type {
+      font-weight: 500;
+      padding-bottom: 0.7rem;
+    }
+    .file-notes {
+      font-size: 0.8rem;
     }
   }
 }

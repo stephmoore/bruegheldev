@@ -1,6 +1,7 @@
 ---
-pid: '15'
+pid: night-lake
 label: Night Lake
+permalink: "/janbrueghel/series/night-lake"
 object_ids: 10215|10216
 reference_collection: janbrueghel
 order: '14'

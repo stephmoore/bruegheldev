@@ -1,6 +1,7 @@
 ---
-pid: '14'
+pid: rosenborg
 label: Rosenborg
+permalink: "/janbrueghel/series/rosenborg"
 object_ids: 10197|10198|10203
 reference_collection: janbrueghel
 order: '13'

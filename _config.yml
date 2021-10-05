@@ -129,20 +129,20 @@ collections:
     layout: 'locationpage_pieterbruegel'
     metadata:
       source: 'locations_pieterbruegel.csv'
-  discussion:
-    output: true
-    metadata:
-      source: 'discussion.csv'
   series_janbrueghel:
     output: true
-    layout: 'series_janbrueghel'
+    layout: 'seriespage_janbrueghel'
     metadata:
       source: 'series_janbrueghel.csv'
   series_pieterbruegel:
     output: true
-    layout: 'series_pieterbruegel'
+    layout: 'seriespage_pieterbruegel'
     metadata:
       source: 'series_pieterbruegel.csv'
+  discussion:
+    output: true
+    metadata:
+      source: 'discussion.csv'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

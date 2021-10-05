@@ -1,6 +1,6 @@
 ---
 pid: seascape
-title: Seascape
+label: Seascape
 genre: Seascape
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: study
-title: Study
+label: Study
 genre: Study
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

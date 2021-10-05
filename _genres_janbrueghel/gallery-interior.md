@@ -1,6 +1,6 @@
 ---
 pid: gallery-interior
-title: Gallery Interior
+label: Gallery Interior
 genre: Gallery Interior
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

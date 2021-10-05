@@ -1,6 +1,6 @@
 ---
 pid: classical-mythology
-title: Classical Mythology
+label: Classical Mythology
 genre: Classical Mythology
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

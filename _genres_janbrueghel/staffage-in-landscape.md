@@ -1,6 +1,6 @@
 ---
 pid: staffage-in-landscape
-title: Staffage in Landscape
+label: Staffage in Landscape
 genre: Staffage in Landscape
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

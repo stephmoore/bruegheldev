@@ -1,6 +1,6 @@
 ---
 pid: religious
-title: Religious
+label: Religious
 genre: Religious
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

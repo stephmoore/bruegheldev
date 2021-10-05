@@ -1,6 +1,6 @@
 ---
 pid: classical-history
-title: Classical History
+label: Classical History
 genre: Classical History
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

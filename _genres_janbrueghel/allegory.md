@@ -1,6 +1,6 @@
 ---
 pid: allegory
-title: Allegory
+label: Allegory
 genre: Allegory
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel

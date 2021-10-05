@@ -6,5 +6,5 @@ location_city: New York, NY
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '123'
-permalink: /janbrueghel/locations/new-york
+permalink: "/janbrueghel/locations/new-york/"
 ---

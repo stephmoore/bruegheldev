@@ -6,5 +6,5 @@ location_city: Dublin
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '072'
-permalink: /janbrueghel/locations/dublin
+permalink: "/janbrueghel/locations/dublin/"
 ---

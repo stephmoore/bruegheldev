@@ -6,5 +6,5 @@ location_city: Cambridge, MA
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '109'
-permalink: /janbrueghel/locations/cambridge-ma
+permalink: "/janbrueghel/locations/cambridge-ma/"
 ---

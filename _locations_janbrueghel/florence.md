@@ -6,5 +6,5 @@ location_city: Florence
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '073'
-permalink: /janbrueghel/locations/florence
+permalink: "/janbrueghel/locations/florence/"
 ---

@@ -6,5 +6,5 @@ location_city: Tokyo
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '079'
-permalink: /janbrueghel/locations/tokyo
+permalink: "/janbrueghel/locations/tokyo/"
 ---

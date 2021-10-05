@@ -6,5 +6,5 @@ location_city: Würzburg
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '070'
-permalink: /janbrueghel/locations/wurzburg
+permalink: "/janbrueghel/locations/wurzburg/"
 ---

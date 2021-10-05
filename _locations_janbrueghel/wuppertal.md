@@ -6,5 +6,5 @@ location_city: Wuppertal
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '069'
-permalink: /janbrueghel/locations/wuppertal
+permalink: "/janbrueghel/locations/wuppertal/"
 ---

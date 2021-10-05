@@ -6,5 +6,5 @@ location_city: Wiltshire
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '027'
-permalink: /janbrueghel/locations/wiltshire
+permalink: "/janbrueghel/locations/wiltshire/"
 ---

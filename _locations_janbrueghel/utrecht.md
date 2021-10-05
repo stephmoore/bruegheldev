@@ -6,5 +6,5 @@ location_city: Utrecht
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '087'
-permalink: /janbrueghel/locations/utrecht
+permalink: "/janbrueghel/locations/utrecht/"
 ---

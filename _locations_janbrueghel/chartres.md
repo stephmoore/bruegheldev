@@ -6,5 +6,5 @@ location_city: Chartres
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '034'
-permalink: /janbrueghel/locations/chartres
+permalink: "/janbrueghel/locations/chartres/"
 ---

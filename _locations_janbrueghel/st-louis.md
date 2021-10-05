@@ -6,5 +6,5 @@ location_city: St. Louis, MO
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '133'
-permalink: /janbrueghel/locations/st-louis
+permalink: "/janbrueghel/locations/st-louis/"
 ---

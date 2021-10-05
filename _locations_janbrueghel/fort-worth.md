@@ -6,5 +6,5 @@ location_city: Fort Worth, TX
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '115'
-permalink: /janbrueghel/locations/fort-worth
+permalink: "/janbrueghel/locations/fort-worth/"
 ---

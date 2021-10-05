@@ -6,5 +6,5 @@ location_city: Zürich
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '105'
-permalink: /janbrueghel/locations/zürich
+permalink: "/janbrueghel/locations/zürich/"
 ---

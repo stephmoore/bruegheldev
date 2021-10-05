@@ -6,5 +6,5 @@ location_city: Warsaw
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '091'
-permalink: /janbrueghel/locations/warsaw
+permalink: "/janbrueghel/locations/warsaw/"
 ---

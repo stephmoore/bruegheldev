@@ -6,5 +6,5 @@ location_city: Bamberg
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '049'
-permalink: /janbrueghel/locations/bamberg
+permalink: "/janbrueghel/locations/bamberg/"
 ---

@@ -6,5 +6,5 @@ location_city: Schwerin
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '067'
-permalink: /janbrueghel/locations/schwerin
+permalink: "/janbrueghel/locations/schwerin/"
 ---

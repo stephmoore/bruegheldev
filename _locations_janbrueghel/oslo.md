@@ -6,5 +6,5 @@ location_city: Oslo
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '089'
-permalink: /janbrueghel/locations/oslo
+permalink: "/janbrueghel/locations/oslo/"
 ---

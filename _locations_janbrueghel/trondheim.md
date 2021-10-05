@@ -6,5 +6,5 @@ location_city: Trondheim
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '090'
-permalink: /janbrueghel/locations/trondheim
+permalink: "/janbrueghel/locations/trondheim/"
 ---

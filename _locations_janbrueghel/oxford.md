@@ -6,5 +6,5 @@ location_city: Oxford
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '024'
-permalink: /janbrueghel/locations/oxford
+permalink: "/janbrueghel/locations/oxford/"
 ---

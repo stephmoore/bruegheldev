@@ -6,5 +6,5 @@ location_city: Valenciennes
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '046'
-permalink: /janbrueghel/locations/valenciennes
+permalink: "/janbrueghel/locations/valenciennes/"
 ---

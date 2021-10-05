@@ -6,5 +6,5 @@ location_city: Ottawa
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '011'
-permalink: /janbrueghel/locations/ottawa
+permalink: "/janbrueghel/locations/ottawa/"
 ---

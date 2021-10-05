@@ -6,5 +6,5 @@ location_city: Corsham
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '019'
-permalink: /janbrueghel/locations/corsham
+permalink: "/janbrueghel/locations/corsham/"
 ---

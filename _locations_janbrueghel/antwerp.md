@@ -6,5 +6,5 @@ location_city: Antwerp
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '004'
-permalink: /janbrueghel/locations/antwerp
+permalink: "/janbrueghel/locations/antwerp/"
 ---

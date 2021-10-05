@@ -6,5 +6,5 @@ location_city: Montpellier
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '038'
-permalink: /janbrueghel/locations/montpellier
+permalink: "/janbrueghel/locations/montpellier/"
 ---

@@ -6,5 +6,5 @@ location_city: Paris
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '042'
-permalink: /janbrueghel/locations/paris
+permalink: "/janbrueghel/locations/paris/"
 ---

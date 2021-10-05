@@ -6,5 +6,5 @@ location_city: Toledo, OH
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '134'
-permalink: /janbrueghel/locations/toledo
+permalink: "/janbrueghel/locations/toledo/"
 ---

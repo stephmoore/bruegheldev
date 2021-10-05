@@ -6,5 +6,5 @@ location_city: Elmira, NY
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '114'
-permalink: /janbrueghel/locations/elmira
+permalink: "/janbrueghel/locations/elmira/"
 ---

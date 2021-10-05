@@ -6,5 +6,5 @@ location_city: Columbia, SC
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '112'
-permalink: /janbrueghel/locations/columbia
+permalink: "/janbrueghel/locations/columbia/"
 ---

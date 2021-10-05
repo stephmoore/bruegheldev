@@ -6,5 +6,5 @@ location_city: Austin, TX
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '107'
-permalink: /janbrueghel/locations/austin
+permalink: "/janbrueghel/locations/austin/"
 ---

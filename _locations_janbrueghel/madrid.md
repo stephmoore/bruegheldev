@@ -6,5 +6,5 @@ location_city: Madrid
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '100'
-permalink: /janbrueghel/locations/madrid
+permalink: "/janbrueghel/locations/madrid/"
 ---

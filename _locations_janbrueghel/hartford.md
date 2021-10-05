@@ -6,5 +6,5 @@ location_city: Hartford, CT
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '116'
-permalink: /janbrueghel/locations/hartford
+permalink: "/janbrueghel/locations/hartford/"
 ---

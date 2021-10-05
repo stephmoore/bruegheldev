@@ -13,7 +13,7 @@
 
     {% for item in collection %}
       {% if include.facet_by == 'worktags' %}
-        {% assign facetvalue = item[include.facet_by] | replace: "|", " " %}
+        {% assign facetvalue = item[include.facet_by] | slugify: "raw" | replace: "/", "-" | replace: "|", " " %}
       {% else %}
         {% assign facetvalue = item[include.facet_by] | slugify %}
       {% endif %}
@@ -38,7 +38,7 @@
       buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
       
       for (i in facets) {
-          var slug = facets[i].replace(/\s/g, "-").replace(/,/g, "");
+          var slug = facets[i].replace(/\s/g, "-").replace(/,/g, "").replace(/\//g, "-");
           buttonDiv.append(`<button class='btn facet' data-filter='${slug.toLowerCase()}'>${facets[i]}</button>`);
         }
 

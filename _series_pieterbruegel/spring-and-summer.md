@@ -1,6 +1,6 @@
 ---
 pid: spring-and-summer
-label: Spring and Summer
+title: Spring and Summer
 permalink: "/pieterbruegel/series/spring-and-summer"
 object_ids: 10147|10148
 reference_collection: pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: rosenborg
-label: Rosenborg
+title: Rosenborg
 permalink: "/janbrueghel/series/rosenborg"
 object_ids: 10197|10198|10203
 reference_collection: janbrueghel

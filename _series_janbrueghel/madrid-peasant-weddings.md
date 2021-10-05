@@ -1,6 +1,6 @@
 ---
 pid: madrid-peasant-weddings
-label: Madrid Peasant Weddings
+title: Madrid Peasant Weddings
 permalink: "/janbrueghel/series/madrid-peasant-weddings"
 object_ids: 3433|3734
 reference_collection: janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: madrid-village-scenes
-label: Madrid Village Scenes
+title: Madrid Village Scenes
 permalink: "/janbrueghel/series/madrid-village-scenes"
 object_ids: 3255|3357
 reference_collection: janbrueghel

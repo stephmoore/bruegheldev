@@ -1,6 +1,6 @@
 ---
 pid: the-seasons
-label: The Seasons
+title: The Seasons
 permalink: "/janbrueghel/series/the-seasons"
 object_ids: 2907|2926|2928|2938
 reference_collection: janbrueghel

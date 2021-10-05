@@ -1,8 +1,16 @@
+{% if page.url contains 'pieterbruegel' %}
+  {% assign stylesheet = '/assets/pieterbruegel.css' %}
+  {% assign titlebar = 'Pieter Bruegel Complete Catalog' %}
+{% else %}
+  {% assign stylesheet = '/assets/janbrueghel.css' %}
+  {% assign titlebar = site.title %}
+{% endif %}
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>    
-    {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
+    {{ titlebar }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
 
   {% if page.url contains 'pieterbruegel' %}

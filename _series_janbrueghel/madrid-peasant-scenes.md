@@ -1,6 +1,6 @@
 ---
 pid: madrid-peasant-scenes
-label: Madrid Peasant Scenes
+title: Madrid Peasant Scenes
 permalink: "/janbrueghel/series/madrid-peasant-scenes"
 object_ids: 3430|3434
 reference_collection: janbrueghel

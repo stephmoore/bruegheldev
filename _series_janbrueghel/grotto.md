@@ -1,6 +1,6 @@
 ---
 pid: grotto
-label: Grotto
+title: Grotto
 permalink: "/janbrueghel/series/grotto"
 object_ids: 10223|10224|10225|10226
 reference_collection: janbrueghel

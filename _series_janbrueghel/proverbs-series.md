@@ -1,6 +1,6 @@
 ---
 pid: proverbs-series
-label: Proverbs Series
+title: Proverbs Series
 permalink: "/janbrueghel/series/proverbs-series"
 object_ids: '18481'
 reference_collection: janbrueghel

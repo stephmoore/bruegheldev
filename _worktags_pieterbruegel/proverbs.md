@@ -5,5 +5,5 @@ worktag: Proverbs
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '124'
-permalink: "/pieterbruegel/tags/proverbs"
+permalink: /pieterbruegel/tags/proverbs
 ---

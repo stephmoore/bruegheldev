@@ -6,5 +6,5 @@ location_city: Deurne
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '006'
-permalink: "/janbrueghel/locations/deurne"
+permalink: /janbrueghel/locations/deurne
 ---

@@ -5,5 +5,5 @@ worktag: Everyday life
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '053'
-permalink: "/pieterbruegel/tags/everyday-life"
+permalink: /pieterbruegel/tags/everyday-life
 ---

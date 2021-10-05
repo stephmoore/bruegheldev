@@ -5,5 +5,5 @@ worktag: Forest
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '067'
-permalink: "/janbrueghel/tags/forest"
+permalink: /janbrueghel/tags/forest
 ---

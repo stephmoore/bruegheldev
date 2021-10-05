@@ -5,5 +5,5 @@ worktag: Heaven
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '084'
-permalink: "/janbrueghel/tags/heaven"
+permalink: /janbrueghel/tags/heaven
 ---

@@ -5,5 +5,5 @@ worktag: Rooster
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '130'
-permalink: "/pieterbruegel/tags/rooster"
+permalink: /pieterbruegel/tags/rooster
 ---

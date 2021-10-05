@@ -6,5 +6,5 @@ location_city: Enschede
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '082'
-permalink: "/janbrueghel/locations/enschede"
+permalink: /janbrueghel/locations/enschede
 ---

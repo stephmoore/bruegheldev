@@ -6,5 +6,5 @@ location_city: Richmond, VA
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '130'
-permalink: "/janbrueghel/locations/richmond"
+permalink: /janbrueghel/locations/richmond
 ---

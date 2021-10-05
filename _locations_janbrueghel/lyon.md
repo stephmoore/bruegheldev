@@ -6,5 +6,5 @@ location_city: Lyon
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '037'
-permalink: "/janbrueghel/locations/lyon"
+permalink: /janbrueghel/locations/lyon
 ---

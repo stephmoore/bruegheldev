@@ -6,5 +6,5 @@ genre: Classical Mythology
 collection: genres_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '02'
-permalink: "/pieterbruegel/genres/classical-mythology/"
+permalink: /pieterbruegel/genres/classical-mythology/
 ---

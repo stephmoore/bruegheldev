@@ -5,5 +5,5 @@ worktag: Games
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '072'
-permalink: "/pieterbruegel/tags/games"
+permalink: /pieterbruegel/tags/games
 ---

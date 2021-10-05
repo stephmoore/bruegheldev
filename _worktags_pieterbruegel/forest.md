@@ -5,5 +5,5 @@ worktag: Forest
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '065'
-permalink: "/pieterbruegel/tags/forest"
+permalink: /pieterbruegel/tags/forest
 ---

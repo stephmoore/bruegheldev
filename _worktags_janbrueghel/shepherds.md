@@ -5,5 +5,5 @@ worktag: Shepherds
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '155'
-permalink: "/janbrueghel/tags/shepherds"
+permalink: /janbrueghel/tags/shepherds
 ---

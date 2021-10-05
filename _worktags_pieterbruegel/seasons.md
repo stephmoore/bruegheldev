@@ -5,5 +5,5 @@ worktag: Seasons
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '140'
-permalink: "/pieterbruegel/tags/seasons"
+permalink: /pieterbruegel/tags/seasons
 ---

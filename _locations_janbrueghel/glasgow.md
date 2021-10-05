@@ -6,5 +6,5 @@ location_city: Glasgow
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '098'
-permalink: "/janbrueghel/locations/glasgow"
+permalink: /janbrueghel/locations/glasgow
 ---

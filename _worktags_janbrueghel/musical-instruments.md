@@ -5,5 +5,5 @@ worktag: Musical instruments
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '116'
-permalink: "/janbrueghel/tags/musical-instruments"
+permalink: /janbrueghel/tags/musical-instruments
 ---

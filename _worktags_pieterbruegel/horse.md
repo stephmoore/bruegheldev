@@ -5,5 +5,5 @@ worktag: Horse
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '082'
-permalink: "/pieterbruegel/tags/horse"
+permalink: /pieterbruegel/tags/horse
 ---

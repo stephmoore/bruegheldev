@@ -5,5 +5,5 @@ worktag: Vrancx
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '185'
-permalink: "/janbrueghel/tags/vrancx"
+permalink: /janbrueghel/tags/vrancx
 ---

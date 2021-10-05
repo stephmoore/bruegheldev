@@ -5,5 +5,5 @@ worktag: Classical
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '035'
-permalink: "/janbrueghel/tags/classical"
+permalink: /janbrueghel/tags/classical
 ---

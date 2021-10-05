@@ -5,5 +5,5 @@ worktag: Archdukes
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '003'
-permalink: "/janbrueghel/tags/archdukes"
+permalink: /janbrueghel/tags/archdukes
 ---

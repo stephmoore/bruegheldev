@@ -5,5 +5,5 @@ worktag: Insects
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '089'
-permalink: "/pieterbruegel/tags/insects"
+permalink: /pieterbruegel/tags/insects
 ---

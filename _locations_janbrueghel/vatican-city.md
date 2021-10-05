@@ -6,5 +6,5 @@ location_city: Vatican City
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '136'
-permalink: "/janbrueghel/locations/vatican-city"
+permalink: /janbrueghel/locations/vatican-city
 ---

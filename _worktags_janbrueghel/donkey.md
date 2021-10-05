@@ -5,5 +5,5 @@ worktag: Donkey
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '050'
-permalink: "/janbrueghel/tags/donkey"
+permalink: /janbrueghel/tags/donkey
 ---

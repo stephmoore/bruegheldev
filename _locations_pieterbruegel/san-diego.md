@@ -6,5 +6,5 @@ location_city: San Diego, CA
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '25'
-permalink: "/pieterbruegel/locations/san-diego"
+permalink: /pieterbruegel/locations/san-diego
 ---

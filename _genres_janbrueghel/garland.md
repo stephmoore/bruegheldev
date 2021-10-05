@@ -6,5 +6,5 @@ genre: Garland
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel
 order: '05'
-permalink: "/janbrueghel/genres/garland/"
+permalink: /janbrueghel/genres/garland/
 ---

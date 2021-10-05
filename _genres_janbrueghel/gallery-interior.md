@@ -6,5 +6,5 @@ genre: Gallery Interior
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel
 order: '04'
-permalink: "/janbrueghel/genres/gallery-interior/"
+permalink: /janbrueghel/genres/gallery-interior/
 ---

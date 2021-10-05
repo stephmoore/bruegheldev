@@ -6,5 +6,5 @@ location_city: Lier
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '009'
-permalink: "/janbrueghel/locations/lier"
+permalink: /janbrueghel/locations/lier
 ---

@@ -6,5 +6,5 @@ location_city: Leiden
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '12'
-permalink: "/pieterbruegel/locations/leiden"
+permalink: /pieterbruegel/locations/leiden
 ---

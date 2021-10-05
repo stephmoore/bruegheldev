@@ -5,5 +5,5 @@ worktag: Lantern
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '099'
-permalink: "/pieterbruegel/tags/lantern"
+permalink: /pieterbruegel/tags/lantern
 ---

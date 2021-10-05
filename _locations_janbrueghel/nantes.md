@@ -6,5 +6,5 @@ location_city: Nantes
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '039'
-permalink: "/janbrueghel/locations/nantes"
+permalink: /janbrueghel/locations/nantes
 ---

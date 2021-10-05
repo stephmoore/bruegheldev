@@ -5,5 +5,5 @@ worktag: Beggars
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '010'
-permalink: "/janbrueghel/tags/beggars"
+permalink: /janbrueghel/tags/beggars
 ---

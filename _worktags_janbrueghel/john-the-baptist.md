@@ -5,5 +5,5 @@ worktag: John the Baptist
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '100'
-permalink: "/janbrueghel/tags/john-the-baptist"
+permalink: /janbrueghel/tags/john-the-baptist
 ---

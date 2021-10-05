@@ -6,5 +6,5 @@ location_city: Riggisberg
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '104'
-permalink: "/janbrueghel/locations/riggisberg"
+permalink: /janbrueghel/locations/riggisberg
 ---

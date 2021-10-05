@@ -6,5 +6,5 @@ location_city: Chatsworth
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '07'
-permalink: "/pieterbruegel/locations/chatsworth"
+permalink: /pieterbruegel/locations/chatsworth
 ---

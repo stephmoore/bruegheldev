@@ -5,5 +5,5 @@ worktag: Lake
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '096'
-permalink: "/pieterbruegel/tags/lake"
+permalink: /pieterbruegel/tags/lake
 ---

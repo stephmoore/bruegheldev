@@ -5,5 +5,5 @@ worktag: Archangel Michael
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '005'
-permalink: "/pieterbruegel/tags/archangel-michael"
+permalink: /pieterbruegel/tags/archangel-michael
 ---

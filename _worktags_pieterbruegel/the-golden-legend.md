@@ -5,5 +5,5 @@ worktag: The Golden Legend
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '156'
-permalink: "/pieterbruegel/tags/the-golden-legend"
+permalink: /pieterbruegel/tags/the-golden-legend
 ---

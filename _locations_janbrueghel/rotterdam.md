@@ -6,5 +6,5 @@ location_city: Rotterdam
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '085'
-permalink: "/janbrueghel/locations/rotterdam"
+permalink: /janbrueghel/locations/rotterdam
 ---

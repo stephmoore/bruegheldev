@@ -6,5 +6,5 @@ location_city: Milan
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '15'
-permalink: "/pieterbruegel/locations/milan"
+permalink: /pieterbruegel/locations/milan
 ---

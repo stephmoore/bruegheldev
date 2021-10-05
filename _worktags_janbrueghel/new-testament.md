@@ -5,5 +5,5 @@ worktag: New Testament
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '118'
-permalink: "/janbrueghel/tags/new-testament"
+permalink: /janbrueghel/tags/new-testament
 ---

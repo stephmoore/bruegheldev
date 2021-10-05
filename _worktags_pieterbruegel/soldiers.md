@@ -5,5 +5,5 @@ worktag: Soldiers
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '149'
-permalink: "/pieterbruegel/tags/soldiers"
+permalink: /pieterbruegel/tags/soldiers
 ---

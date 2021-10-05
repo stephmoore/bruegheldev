@@ -6,5 +6,5 @@ location_city: Oslo
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '18'
-permalink: "/pieterbruegel/locations/oslo"
+permalink: /pieterbruegel/locations/oslo
 ---

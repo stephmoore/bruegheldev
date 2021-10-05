@@ -6,5 +6,5 @@ location_city: Prague
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '015'
-permalink: "/janbrueghel/locations/prague"
+permalink: /janbrueghel/locations/prague
 ---

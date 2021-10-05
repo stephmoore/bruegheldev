@@ -5,5 +5,5 @@ worktag: Roundel
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '142'
-permalink: "/janbrueghel/tags/roundel"
+permalink: /janbrueghel/tags/roundel
 ---

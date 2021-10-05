@@ -5,5 +5,5 @@ worktag: Demons
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '046'
-permalink: "/pieterbruegel/tags/demons"
+permalink: /pieterbruegel/tags/demons
 ---

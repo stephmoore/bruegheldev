@@ -5,5 +5,5 @@ worktag: Stream
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '153'
-permalink: "/pieterbruegel/tags/stream"
+permalink: /pieterbruegel/tags/stream
 ---

@@ -5,5 +5,5 @@ worktag: Armor
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '004'
-permalink: "/janbrueghel/tags/armor"
+permalink: /janbrueghel/tags/armor
 ---

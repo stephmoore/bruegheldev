@@ -5,5 +5,5 @@ worktag: Peter
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '118'
-permalink: "/pieterbruegel/tags/peter"
+permalink: /pieterbruegel/tags/peter
 ---

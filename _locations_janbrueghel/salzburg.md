@@ -6,5 +6,5 @@ location_city: Salzburg
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '002'
-permalink: "/janbrueghel/locations/salzburg"
+permalink: /janbrueghel/locations/salzburg
 ---

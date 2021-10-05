@@ -6,5 +6,5 @@ location_city: Chicago, IL
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '08'
-permalink: "/pieterbruegel/locations/chicago"
+permalink: /pieterbruegel/locations/chicago
 ---

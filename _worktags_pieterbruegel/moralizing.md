@@ -5,5 +5,5 @@ worktag: Moralizing
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '107'
-permalink: "/pieterbruegel/tags/moralizing"
+permalink: /pieterbruegel/tags/moralizing
 ---

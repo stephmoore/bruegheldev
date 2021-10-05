@@ -5,5 +5,5 @@ worktag: Guinea Pigs
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '079'
-permalink: "/janbrueghel/tags/guinea-pigs"
+permalink: /janbrueghel/tags/guinea-pigs
 ---

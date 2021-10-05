@@ -6,5 +6,5 @@ location_city: Dijon
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '035'
-permalink: "/janbrueghel/locations/dijon"
+permalink: /janbrueghel/locations/dijon
 ---

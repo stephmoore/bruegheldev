@@ -6,5 +6,5 @@ location_city: Florence
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '10'
-permalink: "/pieterbruegel/locations/florence"
+permalink: /pieterbruegel/locations/florence
 ---

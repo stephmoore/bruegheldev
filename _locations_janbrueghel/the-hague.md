@@ -6,5 +6,5 @@ location_city: The Hague
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '086'
-permalink: "/janbrueghel/locations/the-hague"
+permalink: /janbrueghel/locations/the-hague
 ---

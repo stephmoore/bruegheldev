@@ -6,5 +6,5 @@ location_city: Sibiu
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '094'
-permalink: "/janbrueghel/locations/sibiu"
+permalink: /janbrueghel/locations/sibiu
 ---

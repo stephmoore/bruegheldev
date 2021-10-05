@@ -5,5 +5,5 @@ worktag: Archduke Ernst
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '006'
-permalink: "/pieterbruegel/tags/archduke-ernst"
+permalink: /pieterbruegel/tags/archduke-ernst
 ---

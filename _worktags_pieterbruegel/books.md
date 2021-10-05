@@ -5,5 +5,5 @@ worktag: Books
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '019'
-permalink: "/pieterbruegel/tags/books"
+permalink: /pieterbruegel/tags/books
 ---

@@ -5,5 +5,5 @@ worktag: Globe
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '078'
-permalink: "/janbrueghel/tags/globe"
+permalink: /janbrueghel/tags/globe
 ---

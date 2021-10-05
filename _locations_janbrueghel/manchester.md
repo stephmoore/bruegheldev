@@ -6,5 +6,5 @@ location_city: Manchester
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '023'
-permalink: "/janbrueghel/locations/manchester"
+permalink: /janbrueghel/locations/manchester
 ---

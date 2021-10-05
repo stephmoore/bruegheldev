@@ -5,5 +5,5 @@ worktag: Miniature
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '112'
-permalink: "/janbrueghel/tags/miniature"
+permalink: /janbrueghel/tags/miniature
 ---

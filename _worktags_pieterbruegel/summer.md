@@ -5,5 +5,5 @@ worktag: Summer
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '154'
-permalink: "/pieterbruegel/tags/summer"
+permalink: /pieterbruegel/tags/summer
 ---

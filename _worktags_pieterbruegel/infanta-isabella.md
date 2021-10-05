@@ -5,5 +5,5 @@ worktag: Infanta Isabella
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '087'
-permalink: "/pieterbruegel/tags/infanta-isabella"
+permalink: /pieterbruegel/tags/infanta-isabella
 ---

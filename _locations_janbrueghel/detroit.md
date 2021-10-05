@@ -6,5 +6,5 @@ location_city: Detroit, MI
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '113'
-permalink: "/janbrueghel/locations/detroit"
+permalink: /janbrueghel/locations/detroit
 ---

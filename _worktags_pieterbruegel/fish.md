@@ -5,5 +5,5 @@ worktag: Fish
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '060'
-permalink: "/pieterbruegel/tags/fish"
+permalink: /pieterbruegel/tags/fish
 ---

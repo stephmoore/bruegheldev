@@ -6,5 +6,5 @@ location_city: Stockholm
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '101'
-permalink: "/janbrueghel/locations/stockholm"
+permalink: /janbrueghel/locations/stockholm
 ---

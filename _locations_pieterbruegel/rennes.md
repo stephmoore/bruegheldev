@@ -6,5 +6,5 @@ location_city: Rennes
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '22'
-permalink: "/pieterbruegel/locations/rennes"
+permalink: /pieterbruegel/locations/rennes
 ---

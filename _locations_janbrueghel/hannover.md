@@ -6,5 +6,5 @@ location_city: Hannover
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '060'
-permalink: "/janbrueghel/locations/hannover"
+permalink: /janbrueghel/locations/hannover
 ---

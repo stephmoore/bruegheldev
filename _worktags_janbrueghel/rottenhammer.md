@@ -5,5 +5,5 @@ worktag: Rottenhammer
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '141'
-permalink: "/janbrueghel/tags/rottenhammer"
+permalink: /janbrueghel/tags/rottenhammer
 ---

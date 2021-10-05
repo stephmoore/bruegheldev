@@ -5,5 +5,5 @@ worktag: Chickens
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '029'
-permalink: "/janbrueghel/tags/chickens"
+permalink: /janbrueghel/tags/chickens
 ---

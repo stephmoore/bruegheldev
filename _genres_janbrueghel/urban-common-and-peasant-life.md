@@ -6,5 +6,5 @@ genre: Urban, Common and Peasant Life
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel
 order: '14'
-permalink: "/janbrueghel/genres/urban-common-and-peasant-life/"
+permalink: /janbrueghel/genres/urban-common-and-peasant-life/
 ---

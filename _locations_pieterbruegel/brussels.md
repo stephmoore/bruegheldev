@@ -6,5 +6,5 @@ location_city: Brussels
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '06'
-permalink: "/pieterbruegel/locations/brussels"
+permalink: /pieterbruegel/locations/brussels
 ---

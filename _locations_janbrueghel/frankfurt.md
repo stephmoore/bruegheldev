@@ -6,5 +6,5 @@ location_city: Frankfurt
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '057'
-permalink: "/janbrueghel/locations/frankfurt"
+permalink: /janbrueghel/locations/frankfurt
 ---

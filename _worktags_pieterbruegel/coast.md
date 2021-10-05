@@ -5,5 +5,5 @@ worktag: Coast
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '036'
-permalink: "/pieterbruegel/tags/coast"
+permalink: /pieterbruegel/tags/coast
 ---

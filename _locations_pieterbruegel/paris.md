@@ -6,5 +6,5 @@ location_city: Paris
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '20'
-permalink: "/pieterbruegel/locations/paris"
+permalink: /pieterbruegel/locations/paris
 ---

@@ -5,5 +5,5 @@ worktag: Hell/Underworld
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '078'
-permalink: "/pieterbruegel/tags/hell-underworld"
+permalink: /pieterbruegel/tags/hell-underworld
 ---

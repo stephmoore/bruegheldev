@@ -5,5 +5,5 @@ worktag: Frans Floris
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '068'
-permalink: "/pieterbruegel/tags/frans-floris"
+permalink: /pieterbruegel/tags/frans-floris
 ---

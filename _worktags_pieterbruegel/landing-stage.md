@@ -5,5 +5,5 @@ worktag: Landing stage
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '097'
-permalink: "/pieterbruegel/tags/landing-stage"
+permalink: /pieterbruegel/tags/landing-stage
 ---

@@ -5,5 +5,5 @@ worktag: Hell/Underworld
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '085'
-permalink: "/janbrueghel/tags/hell-underworld"
+permalink: /janbrueghel/tags/hell-underworld
 ---

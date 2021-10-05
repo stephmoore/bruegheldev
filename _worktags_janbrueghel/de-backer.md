@@ -5,5 +5,5 @@ worktag: De Backer
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '044'
-permalink: "/janbrueghel/tags/de-backer"
+permalink: /janbrueghel/tags/de-backer
 ---

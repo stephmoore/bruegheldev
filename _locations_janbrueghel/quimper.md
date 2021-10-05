@@ -6,5 +6,5 @@ location_city: Quimper
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '044'
-permalink: "/janbrueghel/locations/quimper"
+permalink: /janbrueghel/locations/quimper
 ---

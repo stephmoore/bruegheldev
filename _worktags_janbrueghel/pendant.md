@@ -5,5 +5,5 @@ worktag: Pendant
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '129'
-permalink: "/janbrueghel/tags/pendant"
+permalink: /janbrueghel/tags/pendant
 ---

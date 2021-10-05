@@ -5,5 +5,5 @@ worktag: Encyclopedic
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '052'
-permalink: "/pieterbruegel/tags/encyclopedic"
+permalink: /pieterbruegel/tags/encyclopedic
 ---

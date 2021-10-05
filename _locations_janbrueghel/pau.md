@@ -6,5 +6,5 @@ location_city: Pau
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '043'
-permalink: "/janbrueghel/locations/pau"
+permalink: /janbrueghel/locations/pau
 ---

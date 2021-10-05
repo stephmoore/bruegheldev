@@ -6,5 +6,5 @@ location_city: Surrey
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '026'
-permalink: "/janbrueghel/locations/surrey"
+permalink: /janbrueghel/locations/surrey
 ---

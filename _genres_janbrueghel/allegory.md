@@ -6,5 +6,5 @@ genre: Allegory
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel
 order: '00'
-permalink: "/janbrueghel/genres/allegory/"
+permalink: /janbrueghel/genres/allegory/
 ---

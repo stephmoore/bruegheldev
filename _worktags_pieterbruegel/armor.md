@@ -5,5 +5,5 @@ worktag: Armor
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '007'
-permalink: "/pieterbruegel/tags/armor"
+permalink: /pieterbruegel/tags/armor
 ---

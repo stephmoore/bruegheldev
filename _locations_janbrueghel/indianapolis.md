@@ -6,5 +6,5 @@ location_city: Indianapolis, IN
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '118'
-permalink: "/janbrueghel/locations/indianapolis"
+permalink: /janbrueghel/locations/indianapolis
 ---

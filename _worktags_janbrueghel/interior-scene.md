@@ -5,5 +5,5 @@ worktag: Interior Scene
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '097'
-permalink: "/janbrueghel/tags/interior-scene"
+permalink: /janbrueghel/tags/interior-scene
 ---

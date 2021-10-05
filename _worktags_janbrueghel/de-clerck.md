@@ -5,5 +5,5 @@ worktag: De Clerck
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '045'
-permalink: "/janbrueghel/tags/de-clerck"
+permalink: /janbrueghel/tags/de-clerck
 ---

@@ -6,5 +6,5 @@ genre: Village, Town and Cityscape
 collection: genres_janbrueghel
 layout: genrepage_janbrueghel
 order: '15'
-permalink: "/janbrueghel/genres/village-town-and-cityscape/"
+permalink: /janbrueghel/genres/village-town-and-cityscape/
 ---

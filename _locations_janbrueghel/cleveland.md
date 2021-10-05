@@ -6,5 +6,5 @@ location_city: Cleveland, OH
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '111'
-permalink: "/janbrueghel/locations/cleveland"
+permalink: /janbrueghel/locations/cleveland
 ---

@@ -6,5 +6,5 @@ location_city: Geraardsbergen
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '007'
-permalink: "/janbrueghel/locations/geraardsbergen"
+permalink: /janbrueghel/locations/geraardsbergen
 ---

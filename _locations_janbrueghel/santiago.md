@@ -6,5 +6,5 @@ location_city: Santiago
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '013'
-permalink: "/janbrueghel/locations/santiago"
+permalink: /janbrueghel/locations/santiago
 ---

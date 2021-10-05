@@ -5,5 +5,5 @@ worktag: Cannon
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '022'
-permalink: "/janbrueghel/tags/cannon"
+permalink: /janbrueghel/tags/cannon
 ---

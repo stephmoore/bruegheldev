@@ -5,5 +5,5 @@ worktag: Glass
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '077'
-permalink: "/janbrueghel/tags/glass"
+permalink: /janbrueghel/tags/glass
 ---

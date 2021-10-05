@@ -6,5 +6,5 @@ location_city: Copenhagen
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '016'
-permalink: "/janbrueghel/locations/copenhagen"
+permalink: /janbrueghel/locations/copenhagen
 ---

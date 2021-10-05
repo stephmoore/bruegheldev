@@ -6,5 +6,5 @@ location_city: Louisville, KY
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '120'
-permalink: "/janbrueghel/locations/louisville"
+permalink: /janbrueghel/locations/louisville
 ---

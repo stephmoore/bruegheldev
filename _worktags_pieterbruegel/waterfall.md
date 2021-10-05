@@ -5,5 +5,5 @@ worktag: Waterfall
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '169'
-permalink: "/pieterbruegel/tags/waterfall"
+permalink: /pieterbruegel/tags/waterfall
 ---

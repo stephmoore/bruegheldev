@@ -5,5 +5,5 @@ worktag: John the Baptist
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '091'
-permalink: "/pieterbruegel/tags/john-the-baptist"
+permalink: /pieterbruegel/tags/john-the-baptist
 ---

@@ -6,5 +6,5 @@ location_city: Angers
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '029'
-permalink: "/janbrueghel/locations/angers"
+permalink: /janbrueghel/locations/angers
 ---

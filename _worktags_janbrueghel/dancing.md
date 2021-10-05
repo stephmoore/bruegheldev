@@ -5,5 +5,5 @@ worktag: Dancing
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '043'
-permalink: "/janbrueghel/tags/dancing"
+permalink: /janbrueghel/tags/dancing
 ---

@@ -5,5 +5,5 @@ worktag: Skating
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '147'
-permalink: "/pieterbruegel/tags/skating"
+permalink: /pieterbruegel/tags/skating
 ---

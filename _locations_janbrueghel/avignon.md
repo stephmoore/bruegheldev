@@ -6,5 +6,5 @@ location_city: Avignon
 collection: locations_janbrueghel
 layout: locationpage_janbrueghel
 order: '030'
-permalink: "/janbrueghel/locations/avignon"
+permalink: /janbrueghel/locations/avignon
 ---

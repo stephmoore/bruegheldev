@@ -6,5 +6,5 @@ location_city: Winterthur
 collection: locations_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '28'
-permalink: "/pieterbruegel/locations/winterthur"
+permalink: /pieterbruegel/locations/winterthur
 ---

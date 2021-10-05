@@ -5,5 +5,5 @@ worktag: Skeletons
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '148'
-permalink: "/pieterbruegel/tags/skeletons"
+permalink: /pieterbruegel/tags/skeletons
 ---

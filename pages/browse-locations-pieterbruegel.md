@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Browse by Location
-collection: pieterbruegel
 permalink: /pieterbruegel/browse-locations/
 ---
 

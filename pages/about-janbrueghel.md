@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: text_page
 title: About Jan Brueghel
 permalink: '/about-janbrueghel/'
 ---

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Browse by Location
-collection: janbrueghel
 permalink: /janbrueghel/browse-locations/
 ---
 

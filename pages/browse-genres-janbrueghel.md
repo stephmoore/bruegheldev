@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Browse by Genre
-collection: janbrueghel
 permalink: /janbrueghel/browse-genres/
 ---
 

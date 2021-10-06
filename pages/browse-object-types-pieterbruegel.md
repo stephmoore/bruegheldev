@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Browse by Object Type
-collection: pieterbruegel
 permalink: /pieterbruegel/browse-object-types/
 ---
 

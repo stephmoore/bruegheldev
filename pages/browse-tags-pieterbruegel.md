@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Browse by Tag
-collection: pieterbruegel
 permalink: /pieterbruegel/browse-tags/
 ---
 

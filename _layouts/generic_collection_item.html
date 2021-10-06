@@ -28,11 +28,11 @@ layout: default
     {% assign metadata = page.meta %}
   {% endif %}
   {% if metadata.size %}
-    <div class="order-2 order-md-1 col-12 col-md">
+    <div id="main-metadata" class="order-2 order-md-1 col-12 col-md">
       <h3 alt="{{ page.label }}" class="item-title">{{ page.label }}</h3>
       {% include item_metadata.html meta=metadata %}
     </div>
-    <div class="order-3 col-12">
+    <div id="tabbed-metadata" class="order-3 col-12">
       {% include tabbed_metadata.html meta=metadata %}
     </div>
   {% endif %}

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Dated Works
-collection: janbrueghel
 permalink: /janbrueghel/browse-dates/
 ---
 

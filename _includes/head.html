@@ -13,12 +13,6 @@
     {{ titlebar }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
 
-  {% if page.url contains 'pieterbruegel' %}
-    {% assign stylesheet = '/assets/pieterbruegel.css' %}
-  {% else %}
-    {% assign stylesheet = '/assets/janbrueghel.css' %}
-  {% endif %}
-
   <link rel="canonical" href="{{ page.url | absolute_url }}"/>
   <link rel="icon" type="image/png" href="{{ '/img/favicon.png' | absolute_url }}">
   <link rel="stylesheet" href="{{ stylesheet | absolute_url }}"/>

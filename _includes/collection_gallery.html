@@ -1,14 +1,14 @@
 {% assign collection = site.[include.collection] | sort: "label" %}
 
-<div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width container-fluid d-flex flex-column flex-md-row align-items-start'>
-	<div id="{{ include.collection }}-facet-buttons" class="facet-buttons col-12 col-md-2 d-flex flex-row flex-md-column flex-wrap align-items-start mb-3"></div>
-  <div id="wax-gallery-{{ include.collection }}" class="wax-gallery col-12 col-md-10 d-flex flex-wrap ml-md-5"></div>
+<div id="brueghel-gallery-{{ include.collection }}-container" class="brueghel-gallery-container container-fluid">
+	<div id="{{ include.collection }}-facet-buttons" class="facet-buttons col-12 col-md-2 flex-row flex-md-column"></div>
+  <div id="brueghel-gallery-{{ include.collection }}" class="brueghel-gallery col-12 col-md-10 ml-md-5"></div>
 </div>
 
 <script type="text/javascript">
   $( document ).ready(function() {
-    var container = $('#wax-gallery-{{ include.collection }}-container');
-    var gallery = $('#wax-gallery-{{ include.collection }}');
+    var container = $('#brueghel-gallery-{{ include.collection }}-container');
+    var gallery = $('#brueghel-gallery-{{ include.collection }}');
     var buttonDiv = $('#{{ include.collection }}-facet-buttons');
 
     {% for item in collection %}

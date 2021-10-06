@@ -1,5 +1,5 @@
 ---
-layout: landing_page_janbrueghel
+layout: landing_page
 show_title: false
 banner: true
 collection: janbrueghel

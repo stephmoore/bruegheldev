@@ -1,5 +1,5 @@
 ---
-layout: landing_page_pieterbruegel
+layout: landing_page
 show_title: false
 banner: true
 collection: pieterbruegel

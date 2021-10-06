@@ -43,14 +43,14 @@ ul {
 }
 
 .page-title {
-  padding: 0 15px;
-}
-
-.facet-buttons {
-  padding: 0 15px;
+  padding: 0;
 }
 
 .container-fluid {
+  padding: 0;
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto {
   padding: 0;
 }
 
@@ -62,67 +62,72 @@ header & nav bar
 
 #brueghel-header {
   background-color: $head-bg-color;
-  border-bottom: 1px solid $head-bg-color;
-  padding: $margin;
+  padding-right: $less-margin;
+  padding-left: $less-margin;
+  padding-top: 0.25rem;
+  padding-bottom: 0.5rem;
   letter-spacing: 0.075rem;
-
   .navbar {
     max-width: $max-width;
+    width: 100%;
+    padding: 0;
   }
-      
   #site-title {
     color: $title-color;
     font-size: 1.7rem;
     font-weight: 500;
     font-family: 'EB Garamond', serif;
     font-variant: small-caps;
+    margin: 0;
+    padding-left: 0.5rem;
   }
-      
   #site-subtitle {
     color: $title-color;
     font-size: 1.4rem;
     font-weight: 500;
     font-family: 'EB Garamond', serif;
     font-style: italic;
+    margin: 0;
+    padding-left: 0.5rem;
   }
-
   #main-logo {
     width: 70px;
   }
-      
-  #link-logo {
+  #othercat-logo {
     width: 50px;
   }
-  
   #othercat-link-text {
     color: $title-color;
     font-size: .75em;
     font-weight: 700;
     font-family: 'EB Garamond', serif;
     font-variant: small-caps;
+    padding: 0.5rem;
+    margin: 0;
   }
-
   .navbar-brand {
     color: $head-bg-color;
     font-size: 2rem;
     white-space: normal;
   }
-
   .navbar-brand:hover {
     color: $head-bg-color;
   }
-
   .navbar-toggler {
     background-color: $head-bg-color;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
-
   #navmenu-container {
     max-width: 300px;
+    padding-top: 0.25rem;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
     .menu-column {
       max-width: 200px;
     }
   }
-
   .navbar-nav {
     .nav-link, .dropdown-item {
       color: $menu-link-color;
@@ -147,6 +152,15 @@ header & nav bar
 Landing Page Stuff 
 
 */
+
+#landing-page-content {
+  margin-top: 1rem;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 1.5rem;
+  padding-left: 0;
+}
 
 .object-type-container {
   position: relative;
@@ -261,7 +275,6 @@ content section
   .biography-fields {
     font-size: 1rem;
     font-weight: 600;
-    padding-left: 15px;
   }
   .item-view .biography-text {
     padding-top: $less-margin;
@@ -323,19 +336,19 @@ item pages (iiif + metadata)
 */
 .item-view {
   width:           100%;
-  display:         inline-flex;
-  flex-wrap:       nowrap;
+  display:         flex;
+  flex-flow:       row wrap;
   justify-content: space-between;
-  align-items:     center;
-
+  align-items:     flex-start;
+  .item-title {
+    font-variant: small-caps;
+  }
   .image-viewer {
     position: relative;
     text-align: left;
-    /* Height:   $viewer-height; */
     background-color: $bg-color;
-    width:    100%;
-    margin:   0 0 $more-margin 0;
-
+    width: 100%;
+    margin: 0 0 $more-margin 0;
     img {
       max-width: 100%;
       max-height: 70vh;
@@ -346,9 +359,6 @@ item pages (iiif + metadata)
     li {
       font-size: 1em !important;
     }
-  }
-  .item-title {
-    font-variant: small-caps;
   }
 }
 .modal-dialog {
@@ -449,7 +459,7 @@ table.provenance {
     img {
       object-position: 50% 20%;
       object-fit: cover;
-      width: 13.5rem;
+      width: $thumbnail-width-large;
     }
   }
   .item-info {
@@ -553,6 +563,22 @@ search box
 
 /* Browse-By Gallery */
 
+.brueghel-gallery-container {
+  display: flex;
+  align-items: flex-start;
+  .facet-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 0;
+    margin-bottom: 0.75rem;
+  }
+  .brueghel-gallery {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
 .gallery-item {
   padding: 0.7rem;
   margin-right: $margin;
@@ -567,7 +593,7 @@ search box
     img {
       object-position: 50% 20%;
       object-fit: cover;
-      width: 150px;
+      width: $thumbnail-width-small;
     }
   }
   .item-info {

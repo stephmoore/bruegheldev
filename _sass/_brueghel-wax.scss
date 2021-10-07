@@ -563,7 +563,7 @@ search box
     margin: 0;
     padding: 3px;
     font-size: .9rem;
-    font-family: 'Alegreya Sans', 'sans-serif';
+    font-family: $body-font;
     text-align: left;
     .active {
       @extend .facet;

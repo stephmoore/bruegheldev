@@ -1,6 +1,6 @@
 {% assign collection = site.[include.collection] | sort: "label" %}
 
-<div id="brueghel-gallery-{{ include.collection }}-container" class="brueghel-gallery-container container-fluid">
+<div id="brueghel-gallery-{{ include.collection }}-container" class="brueghel-gallery-container container-fluid flex-column flex-md-row">
 	<div id="{{ include.collection }}-facet-buttons" class="facet-buttons col-12 col-md-2 flex-row flex-md-column"></div>
   <div id="brueghel-gallery-{{ include.collection }}" class="brueghel-gallery col-12 col-md-10 ml-md-5"></div>
 </div>

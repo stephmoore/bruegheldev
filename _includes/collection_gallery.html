@@ -47,8 +47,8 @@
             var filterValue = $(this).attr('data-filter');
             $('.facet').removeClass('active');
             $(this).addClass('active');
-            if(filterValue == 'all') { $('.all').show('slow'); }
-            else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+            if(filterValue == 'all') { $('.all').show(); }
+            else { $('.all').hide(); $(`.${filterValue}`).show(); }
           });
         });
     {% endif %}

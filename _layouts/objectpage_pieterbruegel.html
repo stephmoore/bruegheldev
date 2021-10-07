@@ -3,13 +3,21 @@ layout: page
 ---
 {% assign collection = site.pieterbruegel | sort: "label" %}
 
+<div id="result_count"></div>
 <div class="container-fluid d-flex flex-column flex-md-row align-items-start">
   <div id="wax-gallery-object-type" class="col-12 d-flex flex-wrap">
     {% assign counter = 0 %}
     {% for item in collection %}
       {% if item.object_type == page.object_type %}
         {% include gallery_item.html value=page.object_type item=item %}
+        {% assign counter = counter | plus: 1 %}
       {% endif %}
     {% endfor %}
   </div>
 </div>
+
+<script>
+ $( document ).ready(function() {
+  $('#result_count').append("Results: {{ counter }}");
+ });
+</script>

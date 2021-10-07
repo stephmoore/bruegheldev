@@ -505,6 +505,20 @@ table.provenance {
     }
   }
 }
+.discussion-item {
+  .discussion-author {
+    font-weight: 500;
+    font-size: 1rem;
+  }
+  .discussion-date {
+    font-style: italic;
+    padding-bottom: 0.5rem;
+  }
+  .discussion-comment {
+    border-bottom: 0.5px solid $text-color;
+    margin-bottom: $less-margin;
+  }
+}
 
 /*
 
@@ -627,18 +641,6 @@ search box
     }
   }
 }
-.discussion-item {
-  .discussion-author {
-    font-weight: 500;
-    font-size: 1rem;
-  }
-  .discussion-date {
-    font-style: italic;
-    padding-bottom: 0.5rem;
-  }
-  .discussion-comment {
-    border-bottom: 0.5px solid $text-color;
-    margin-bottom: $less-margin;
-  }
-
+#result_count {
+  padding-bottom: 1rem;
 }

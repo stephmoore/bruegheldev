@@ -1,14 +1,5 @@
 ---
-layout: page
+layout: category_gallery
+collection: 'janbrueghel'
+cat: 'location_city'
 ---
-{% assign collection = site.janbrueghel | sort: "label" %}
-
-<div class="container-fluid d-flex flex-column flex-md-row align-items-start">
-  <div id="wax-gallery-location-country" class="col-12 d-flex flex-wrap">
-    {% for item in collection %}
-      {% if item.location_city == page.location_city %}
-        {% include gallery_item.html value=page.location_city item=item %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>

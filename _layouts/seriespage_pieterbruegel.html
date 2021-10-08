@@ -1,14 +1,5 @@
 ---
-layout: page
+layout: category_gallery
+collection: 'pieterbruegel'
+cat: 'series'
 ---
-{% assign collection = site.pieterbruegel | sort: "label" %}
-
-<div class="container-fluid d-flex flex-column flex-md-row align-items-start">
-  <div id="wax-gallery-series" class="col-12 d-flex flex-wrap">
-    {% for item in collection %}
-      {% if item.series == page.title %}
-        {% include gallery_item.html value=page.title item=item %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>

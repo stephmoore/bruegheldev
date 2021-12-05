@@ -2,6 +2,7 @@
 pid: demons
 title: Demons
 worktag: Demons
+category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '048'

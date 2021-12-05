@@ -2,6 +2,7 @@
 pid: monkey
 title: Monkey
 worktag: Monkey
+category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '114'

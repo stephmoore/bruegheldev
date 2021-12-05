@@ -2,6 +2,7 @@
 pid: crosse
 title: Crosse
 worktag: Crosse
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '041'

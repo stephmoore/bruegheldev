@@ -2,6 +2,7 @@
 pid: wedding
 title: Wedding
 worktag: Wedding
+category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '189'

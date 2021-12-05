@@ -2,6 +2,7 @@
 pid: colonna
 title: Colonna
 worktag: Colonna
+category: Collectors
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '039'

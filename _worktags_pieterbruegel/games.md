@@ -2,6 +2,7 @@
 pid: games
 title: Games
 worktag: Games
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '072'

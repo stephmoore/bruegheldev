@@ -1,0 +1,37 @@
+
+{% assign vocabulary_name = include.vocab | append: "_" | append: include.artist %}
+{% assign vocabulary_collection = site[vocabulary_name] %}
+
+{% if vocabulary_name contains "worktags" %}
+  {% assign cat_field = "category" %}
+{% elsif vocabulary_name contains "location" %}
+  {% assign cat_field = "location_country" %}
+{% else %}
+  {% assign cat_field = "" %}
+{% endif %}
+
+{% if cat_field != "" %}
+  {% assign category_list = "" %}
+    {% for term in vocabulary_collection %}
+      {%- capture category -%} 
+        {{ term[cat_field] }}{% unless forloop.last %}|{% endunless %}
+      {%- endcapture -%} 
+      {% assign category_list = category_list | append: category %}
+    {% endfor %}
+
+    {% assign category_array = category_list | split: "|" | uniq | sort %}
+
+    {% for cat in category_array %}
+      {% assign cat_slug = cat | slugify: "latin" %}
+      <button class='btn category' data-filter='{{ cat_slug }}'>{{ cat }}</button>
+      {% assign terms = vocabulary_collection | where:cat_field,cat | sort %}
+        {% for term in terms %}
+      <button class='btn facet subcat {{ cat_slug }} ml-md-1' data-filter='{{ term.pid }}'>{{ term.title }}</button>
+        {% endfor %}
+    {% endfor %}
+
+    {% else %}
+      {% for term in vocabulary_collection %}
+        <button class='btn facet' data-filter='{{ term.pid }}'>{{ term.title }}</button>
+      {% endfor %}
+  {% endif %}

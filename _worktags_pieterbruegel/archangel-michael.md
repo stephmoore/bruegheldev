@@ -2,6 +2,7 @@
 pid: archangel-michael
 title: Archangel Michael
 worktag: Archangel Michael
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '005'

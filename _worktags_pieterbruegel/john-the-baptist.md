@@ -2,6 +2,7 @@
 pid: john-the-baptist
 title: John the Baptist
 worktag: John the Baptist
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '091'

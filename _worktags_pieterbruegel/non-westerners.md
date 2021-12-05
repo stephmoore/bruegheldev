@@ -2,6 +2,7 @@
 pid: non-westerners
 title: Non-Westerners
 worktag: Non-Westerners
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '111'

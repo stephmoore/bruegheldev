@@ -2,6 +2,7 @@
 pid: pond
 title: Pond
 worktag: Pond
+category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '131'

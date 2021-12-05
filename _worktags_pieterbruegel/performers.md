@@ -2,6 +2,7 @@
 pid: performers
 title: Performers
 worktag: Performers
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '117'

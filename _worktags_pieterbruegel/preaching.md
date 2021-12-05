@@ -2,6 +2,7 @@
 pid: preaching
 title: Preaching
 worktag: Preaching
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '121'

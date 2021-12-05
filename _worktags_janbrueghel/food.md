@@ -2,6 +2,7 @@
 pid: food
 title: Food
 worktag: Food
+category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '065'

@@ -2,6 +2,7 @@
 pid: flowers
 title: Flowers
 worktag: Flowers
+category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '064'

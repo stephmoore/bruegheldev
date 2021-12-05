@@ -2,6 +2,7 @@
 pid: landing-stage
 title: Landing stage
 worktag: Landing stage
+category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '104'

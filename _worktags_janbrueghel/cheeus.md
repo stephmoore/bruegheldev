@@ -2,6 +2,7 @@
 pid: cheeus
 title: Cheeus
 worktag: Cheeus
+category: Collectors
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '028'

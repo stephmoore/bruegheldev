@@ -2,6 +2,7 @@
 pid: birds
 title: Birds
 worktag: Birds
+category: Animals
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '016'

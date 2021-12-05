@@ -2,6 +2,7 @@
 pid: angels
 title: Angels
 worktag: Angels
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '001'

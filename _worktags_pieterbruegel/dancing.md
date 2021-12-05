@@ -2,6 +2,7 @@
 pid: dancing
 title: Dancing
 worktag: Dancing
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '044'

@@ -2,6 +2,7 @@
 pid: scheldt-river
 title: Scheldt River
 worktag: Scheldt River
+category: Locations
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '136'

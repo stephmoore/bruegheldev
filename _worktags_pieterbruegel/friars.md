@@ -2,6 +2,7 @@
 pid: friars
 title: Friars
 worktag: Friars
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '070'

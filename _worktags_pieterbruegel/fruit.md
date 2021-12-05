@@ -2,6 +2,7 @@
 pid: fruit
 title: Fruit
 worktag: Fruit
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '071'

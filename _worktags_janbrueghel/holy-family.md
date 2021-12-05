@@ -2,6 +2,7 @@
 pid: holy-family
 title: Holy family
 worktag: Holy family
+category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '088'

@@ -2,6 +2,7 @@
 pid: castle
 title: Castle
 worktag: Castle
+category: Architecture
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '025'

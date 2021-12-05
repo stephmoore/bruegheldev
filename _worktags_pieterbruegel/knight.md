@@ -2,6 +2,7 @@
 pid: knight
 title: Knight
 worktag: Knight
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '094'

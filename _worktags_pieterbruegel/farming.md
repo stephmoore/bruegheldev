@@ -2,6 +2,7 @@
 pid: farming
 title: Farming
 worktag: Farming
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '056'

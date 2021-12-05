@@ -2,6 +2,7 @@
 pid: fish
 title: Fish
 worktag: Fish
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '060'

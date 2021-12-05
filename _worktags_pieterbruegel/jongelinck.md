@@ -2,6 +2,7 @@
 pid: jongelinck
 title: Jongelinck
 worktag: Jongelinck
+category: Collectors
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '093'

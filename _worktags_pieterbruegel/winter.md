@@ -2,6 +2,7 @@
 pid: winter
 title: Winter
 worktag: Winter
+category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '175'

@@ -2,6 +2,7 @@
 pid: senses
 title: Senses
 worktag: Senses
+category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '150'

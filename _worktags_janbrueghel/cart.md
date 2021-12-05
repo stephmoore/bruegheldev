@@ -2,6 +2,7 @@
 pid: cart
 title: Cart
 worktag: Cart
+category: Transportation
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '025'

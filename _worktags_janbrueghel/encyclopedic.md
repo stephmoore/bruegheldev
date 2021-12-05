@@ -2,6 +2,7 @@
 pid: encyclopedic
 title: Encyclopedic
 worktag: Encyclopedic
+category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '054'

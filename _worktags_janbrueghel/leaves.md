@@ -2,6 +2,7 @@
 pid: leaves
 title: Leaves
 worktag: Leaves
+category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '106'

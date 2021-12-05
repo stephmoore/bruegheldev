@@ -2,6 +2,7 @@
 pid: saint
 title: Saint
 worktag: Saint
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '135'

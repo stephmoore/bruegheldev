@@ -2,6 +2,7 @@
 pid: old-testament
 title: Old Testament
 worktag: Old Testament
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '113'

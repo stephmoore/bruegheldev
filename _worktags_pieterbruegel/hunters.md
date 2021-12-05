@@ -2,6 +2,7 @@
 pid: hunters
 title: Hunters
 worktag: Hunters
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '085'

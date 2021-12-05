@@ -2,6 +2,7 @@
 pid: john-the-evangelist
 title: John the Evangelist
 worktag: John the Evangelist
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '092'

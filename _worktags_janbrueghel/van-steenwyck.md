@@ -2,6 +2,7 @@
 pid: van-steenwyck
 title: Van Steenwyck
 worktag: Van Steenwyck
+category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '178'

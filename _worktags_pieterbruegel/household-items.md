@@ -2,6 +2,7 @@
 pid: household-items
 title: Household items
 worktag: Household items
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '084'

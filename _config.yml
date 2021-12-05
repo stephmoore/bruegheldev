@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Complete Catalog'
 description:      'Jan Brueghel Complete Catalog'
-url:              'https://stephmoore.github.io'
-baseurl:          '/bruegheldev'
+url:              'http://127.0.0.1:4000'
+baseurl:          '/'
 copyright:        '2021'
 logo:             '/img/favicon.png'
 
@@ -93,10 +93,10 @@ collections:
     layout: 'biography_item'
     metadata:
       source: 'biographies.csv'
-  object_types_janbrueghel:
+  object_type_janbrueghel:
     output: true
     layout: 'objectpage_janbrueghel'
-  object_types_pieterbruegel:
+  object_type_pieterbruegel:
     output: true
     layout: 'objectpage_pieterbruegel'
   worktags_janbrueghel:
@@ -109,26 +109,26 @@ collections:
     layout: 'tagpage_pieterbruegel'
     metadata:
       source: 'worktags_pieterbruegel.csv'
-  genres_janbrueghel:
+  genre_janbrueghel:
     output: true
     layout: 'genrepage_janbrueghel'
     metadata:
-      source: 'genres_janbrueghel.csv'
-  genres_pieterbruegel:
+      source: 'genre_janbrueghel.csv'
+  genre_pieterbruegel:
     output: true
     layout: 'genrepage_pieterbruegel'
     metadata:
-      source: 'genres_pieterbruegel.csv'
-  locations_janbrueghel:
+      source: 'genre_pieterbruegel.csv'
+  location_janbrueghel:
     output: true
     layout: 'locationpage_janbrueghel'
     metadata:
-      source: 'locations_janbrueghel.csv'
-  locations_pieterbruegel:
+      source: 'location_janbrueghel.csv'
+  location_pieterbruegel:
     output: true
     layout: 'locationpage_pieterbruegel'
     metadata:
-      source: 'locations_pieterbruegel.csv'
+      source: 'location_pieterbruegel.csv'
   series_janbrueghel:
     output: true
     layout: 'seriespage_janbrueghel'

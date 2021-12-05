@@ -2,6 +2,7 @@
 pid: antwerp
 title: Antwerp
 worktag: Antwerp
+category: Locations
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '002'

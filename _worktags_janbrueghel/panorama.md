@@ -2,6 +2,7 @@
 pid: panorama
 title: Panorama
 worktag: Panorama
+category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '125'

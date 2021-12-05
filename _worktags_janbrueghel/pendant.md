@@ -2,6 +2,7 @@
 pid: pendant
 title: Pendant
 worktag: Pendant
+category: Image types
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '129'

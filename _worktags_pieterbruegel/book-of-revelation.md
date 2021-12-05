@@ -2,6 +2,7 @@
 pid: book-of-revelation
 title: Book of Revelation
 worktag: Book of Revelation
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '018'

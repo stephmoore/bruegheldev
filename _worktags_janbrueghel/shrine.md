@@ -2,6 +2,7 @@
 pid: shrine
 title: Shrine
 worktag: Shrine
+category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '157'

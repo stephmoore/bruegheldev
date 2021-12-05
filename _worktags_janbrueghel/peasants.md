@@ -2,6 +2,7 @@
 pid: peasants
 title: Peasants
 worktag: Peasants
+category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '128'

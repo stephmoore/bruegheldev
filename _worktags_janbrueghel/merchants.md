@@ -2,6 +2,7 @@
 pid: merchants
 title: Merchants
 worktag: Merchants
+category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '111'

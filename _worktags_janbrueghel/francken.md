@@ -2,6 +2,7 @@
 pid: francken
 title: Francken
 worktag: Francken
+category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '070'

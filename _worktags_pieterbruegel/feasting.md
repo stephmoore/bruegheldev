@@ -2,6 +2,7 @@
 pid: feasting
 title: Feasting
 worktag: Feasting
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '057'

@@ -2,6 +2,7 @@
 pid: skeletons
 title: Skeletons
 worktag: Skeletons
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '148'

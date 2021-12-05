@@ -2,6 +2,7 @@
 pid: glass
 title: Glass
 worktag: Glass
+category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '077'

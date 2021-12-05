@@ -2,6 +2,7 @@
 pid: snyders
 title: Snyders
 worktag: Snyders
+category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '161'

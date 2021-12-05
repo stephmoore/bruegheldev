@@ -2,6 +2,7 @@
 pid: soldiers
 title: Soldiers
 worktag: Soldiers
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '149'

@@ -2,6 +2,7 @@
 pid: river
 title: River
 worktag: River
+category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '127'

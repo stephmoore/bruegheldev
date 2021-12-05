@@ -2,6 +2,7 @@
 pid: peter
 title: Peter
 worktag: Peter
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '118'

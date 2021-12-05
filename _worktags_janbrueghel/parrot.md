@@ -2,6 +2,7 @@
 pid: parrot
 title: Parrot
 worktag: Parrot
+category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '127'

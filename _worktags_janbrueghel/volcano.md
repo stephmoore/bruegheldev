@@ -2,6 +2,7 @@
 pid: volcano
 title: Volcano
 worktag: Volcano
+category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '184'

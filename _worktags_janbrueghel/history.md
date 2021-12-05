@@ -2,6 +2,7 @@
 pid: history
 title: History
 worktag: History
+category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '087'

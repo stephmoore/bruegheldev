@@ -2,6 +2,7 @@
 pid: insects
 title: Insects
 worktag: Insects
+category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '095'

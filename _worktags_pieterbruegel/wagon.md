@@ -2,6 +2,7 @@
 pid: wagon
 title: Wagon
 worktag: Wagon
+category: Transportation
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '168'

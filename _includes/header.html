@@ -23,7 +23,7 @@
 {% capture tags %}/{{ collection }}/browse-tags{% endcapture %}
 {% capture locations %}/{{ collection }}/browse-locations{% endcapture %}
 {% capture dates %}/{{ collection }}/browse-dates{% endcapture %}
-{% capture about %}/about-{{ collection }}{% endcapture %}
+{% capture about %}/{{collection}}/about-{{ collection }}{% endcapture %}
 
 <div id="brueghel-header" class="container-fluid">
   <nav class="navbar navbar-expand-md navbar-light d-inline-flex justify-content-between align-items-start">
@@ -63,13 +63,8 @@
             </div>
           </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown02">
-              <a class="dropdown-item" href="{{ about | absolute_url }}">{{ name }}</a>
-              <a class="dropdown-item" href="{{ '/about-the-site' | absolute_url }}">The Site</a>
-              <a class="dropdown-item" href="{{ '/credits' | absolute_url }}">Team</a>
-            </div>
+          <li class="nav-item">
+          <a class="nav-link" href="{{ about | absolute_url }}">About {{ name }}</a>
           </li>
 
           <li class="nav-item">
@@ -87,9 +82,9 @@
           <li class="nav-item">
             <a href="{{ '/biographies' | absolute_url }}" class="nav-link">Biographies</a>
           </li>
-          <!--<li class="nav-item">
-            <a href="{{ '/' | absolute_url }}" class="nav-link">Scale Gallery</a>
-          </li>-->
+          <li class="nav-item">
+            <a href="{{ '/scale_gallery' | absolute_url }}" class="nav-link">Scale Gallery</a>
+          </li>
           <li class="nav-item othercat-menu-link d-md-none">
             <a href="{{ othercat_link | absolute_url }}" class="nav-link">{{ othercat_firstname }} {{ othercat_lastname }} Catalog</a>
           </li>

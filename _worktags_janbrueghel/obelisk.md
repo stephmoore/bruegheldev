@@ -2,6 +2,7 @@
 pid: obelisk
 title: Obelisk
 worktag: Obelisk
+category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '121'

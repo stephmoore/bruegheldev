@@ -2,6 +2,7 @@
 pid: elegant-company
 title: Elegant Company
 worktag: Elegant Company
+category: Social life
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '052'

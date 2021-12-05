@@ -2,6 +2,7 @@
 pid: the-golden-legend
 title: The Golden Legend
 worktag: The Golden Legend
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '156'

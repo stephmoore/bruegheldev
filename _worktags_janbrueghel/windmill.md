@@ -2,6 +2,7 @@
 pid: windmill
 title: Windmill
 worktag: Windmill
+category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '192'

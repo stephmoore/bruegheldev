@@ -2,6 +2,7 @@
 pid: fishermen
 title: Fishermen
 worktag: Fishermen
+category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '061'

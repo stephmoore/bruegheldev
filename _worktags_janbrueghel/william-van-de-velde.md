@@ -2,6 +2,7 @@
 pid: william-van-de-velde
 title: William Van De Velde
 worktag: William Van De Velde
+category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '191'

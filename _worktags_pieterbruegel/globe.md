@@ -2,6 +2,7 @@
 pid: globe
 title: Globe
 worktag: Globe
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '073'

@@ -2,6 +2,7 @@
 pid: nobles
 title: Nobles
 worktag: Nobles
+category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '119'

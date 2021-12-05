@@ -2,6 +2,7 @@
 pid: nude
 title: Nude
 worktag: Nude
+category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '120'

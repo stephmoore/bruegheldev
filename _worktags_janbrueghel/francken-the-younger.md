@@ -2,6 +2,7 @@
 pid: francken-the-younger
 title: Francken The Younger
 worktag: Francken The Younger
+category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '071'

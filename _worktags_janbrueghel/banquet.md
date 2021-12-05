@@ -2,6 +2,7 @@
 pid: banquet
 title: Banquet
 worktag: Banquet
+category: Social life
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '006'

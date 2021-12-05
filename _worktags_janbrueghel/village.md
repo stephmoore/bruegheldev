@@ -2,6 +2,7 @@
 pid: village
 title: Village
 worktag: Village
+category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '182'

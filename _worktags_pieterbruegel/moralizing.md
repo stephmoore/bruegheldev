@@ -2,6 +2,7 @@
 pid: moralizing
 title: Moralizing
 worktag: Moralizing
+category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '107'

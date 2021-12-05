@@ -2,6 +2,7 @@
 pid: sculpture
 title: Sculpture
 worktag: Sculpture
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '138'

@@ -2,6 +2,7 @@
 pid: labor
 title: Labor
 worktag: Labor
+category: Social life
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '102'

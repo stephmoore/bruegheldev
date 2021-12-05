@@ -2,6 +2,7 @@
 pid: basket
 title: Basket
 worktag: Basket
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '011'

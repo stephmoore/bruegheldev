@@ -2,6 +2,7 @@
 pid: storm
 title: Storm
 worktag: Storm
+category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '152'

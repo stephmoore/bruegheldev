@@ -2,6 +2,7 @@
 pid: summer
 title: Summer
 worktag: Summer
+category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '154'

@@ -2,6 +2,7 @@
 pid: new-testament
 title: New Testament
 worktag: New Testament
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '110'

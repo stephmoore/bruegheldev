@@ -2,6 +2,7 @@
 pid: fire
 title: Fire
 worktag: Fire
+category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '059'

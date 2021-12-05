@@ -568,11 +568,11 @@ search box
 }
 
 .facet-buttons {
-  .facet {
+  .facet, .category {
     @extend .btn-outline-secondary;
     color: $text-color;
     background-color: transparent;
-    background-image: unset;
+    background-image: unset; 
     border-color: transparent;
     margin: 0;
     padding: 3px;
@@ -580,10 +580,14 @@ search box
     font-family: $body-font;
     text-align: left;
     .active {
-      @extend .facet;
+      @extend .facet, .category;
       border-color: transparent;
       background-color: transparent;
     }
+  }
+  .subcat {
+    font-size: .8rem;
+    font-style: italic;
   }
 }
 

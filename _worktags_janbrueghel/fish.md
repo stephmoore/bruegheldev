@@ -2,6 +2,7 @@
 pid: fish
 title: Fish
 worktag: Fish
+category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '062'

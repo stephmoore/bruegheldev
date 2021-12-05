@@ -2,6 +2,7 @@
 pid: weaponry
 title: Weaponry
 worktag: Weaponry
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '171'

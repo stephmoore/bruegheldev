@@ -2,6 +2,7 @@
 pid: chickens
 title: Chickens
 worktag: Chickens
+category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '029'

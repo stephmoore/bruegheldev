@@ -2,6 +2,7 @@
 pid: chaos
 title: Chaos
 worktag: Chaos
+category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '028'

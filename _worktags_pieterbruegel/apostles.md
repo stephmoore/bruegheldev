@@ -2,6 +2,7 @@
 pid: apostles
 title: Apostles
 worktag: Apostles
+category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '004'

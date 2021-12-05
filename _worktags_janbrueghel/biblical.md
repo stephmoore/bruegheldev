@@ -2,6 +2,7 @@
 pid: biblical
 title: Biblical
 worktag: Biblical
+category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '011'

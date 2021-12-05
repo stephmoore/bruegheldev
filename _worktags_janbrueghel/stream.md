@@ -2,6 +2,7 @@
 pid: stream
 title: Stream
 worktag: Stream
+category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '166'

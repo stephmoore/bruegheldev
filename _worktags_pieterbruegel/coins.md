@@ -2,6 +2,7 @@
 pid: coins
 title: Coins
 worktag: Coins
+category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '037'

@@ -2,6 +2,7 @@
 pid: harvesting
 title: Harvesting
 worktag: Harvesting
+category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '083'

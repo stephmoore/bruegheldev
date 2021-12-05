@@ -2,6 +2,7 @@
 pid: rottenhammer
 title: Rottenhammer
 worktag: Rottenhammer
+category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '141'

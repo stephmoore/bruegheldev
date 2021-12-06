@@ -44,9 +44,9 @@ function startSearchUI(fields, indexFile, url) {
     for (i in fields) { index.addField(fields[i]); }
     for (i in store)  { index.addDoc(store[i]); }
 
-    $('input#search').on('keyup', function() {
+    function run_search(terms) {
       var results_div = $('#results');
-      var query       = $(this).val();
+      var query       = terms
       var results     = index.search(query, { boolean: 'AND', expand: true });
 
       results_div.empty();
@@ -59,6 +59,16 @@ function startSearchUI(fields, indexFile, url) {
 
         results_div.append(result);
       }
+    }
+    if (location.search) {
+      var arg = decodeURIComponent(location.search);
+      var search = arg.replace("?search=", "");
+      $('input#search').val(search) // Is this how you assign in jquery?
+      run_search(search);
+    }
+    $('input#search').on('keyup', function() {
+      var query       = $(this).val();
+      run_search(query);
     });
   });
 }

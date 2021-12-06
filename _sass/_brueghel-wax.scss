@@ -141,6 +141,7 @@ header & nav bar
       font-family: $menu-font;
       line-height: 0.6;
       padding: 0.4rem;
+      background-color: $head-bg-color;
     }
     .nav-link:hover, .nav-link:active {
       color: $menu-link-color;
@@ -148,6 +149,9 @@ header & nav bar
     .dropdown-menu {
       background-color: $head-bg-color;
       border-color: $bg-color;
+    }
+    .dropdown-item:hover, .dropdown-item:active {
+      background-color: $text-color;
     }
   }
 }

@@ -52,6 +52,14 @@ layout: default
 
   <!--Menus-->
   <div class="col-sm-12 col-md-4 m-0">
+    <!--Search-->
+    <div class="browsing-menu mb-5">
+      <form action="/search/" method="get">
+        <input type="text" id="search" name="search">
+        <input type="submit" value="Search">
+      </form>
+    </div>
+    <!--browse by genre-->
     <div class="browsing-menu">
       <h4>Browse by genre</h4>
       <ul class="browsing-menu-list">
@@ -67,3 +75,9 @@ layout: default
     </div>
   </div>
 </div>
+
+<script>
+  $(document).ready(function(){
+    $('#search').val('');
+  });
+</script>

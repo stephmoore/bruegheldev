@@ -16,6 +16,9 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}"/>
   <link rel="icon" type="image/png" href="{{ '/img/favicon.png' | absolute_url }}">
   <link rel="stylesheet" href="{{ stylesheet | absolute_url }}"/>
+  {% if page.url contains 'iit' %}
+  <link rel="stylesheet" href="{{ '/assets/iitstyles.css' | absolute_url }}"/>
+  {% endif %}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

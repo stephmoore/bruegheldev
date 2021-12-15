@@ -163,7 +163,7 @@ search:
           - object_type
           - genre
           - worktags
-          - numeric_date
+          - realdate
           - support
           - signature
           - support_mark
@@ -186,6 +186,9 @@ search:
           - exhibition_history
           - copies_and_variants
           - biblio
+          - width_cm
+          - height_cm
+          - diameter_cm
       pieterbruegel:
         content: false
         fields:
@@ -216,6 +219,9 @@ search:
           - exhibition_history
           - copies_and_variants
           - biblio
+          - width_cm
+          - height_cm
+          - diameter_cm
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

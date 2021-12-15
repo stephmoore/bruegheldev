@@ -11,7 +11,7 @@ function excerptedString(str) {
 
 function getThumbnail(item, url) {
   if ('thumbnail' in item) {
-    return `<img class='sq-thumb-sm' src='${url}${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
+    return `<img class='sq-thumb-sm' src='${url}/${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
   }
   else {
     return '';
@@ -24,14 +24,33 @@ function displayResult(item, fields, url) {
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
   var meta  = []
+  
+  var date = item.realdate || 'n.d.';
+  var width = item.width_cm;
+  var height = item.height_cm;
+  var diameter = item.diameter_cm;
+  var support = item.support; 
+  var location = item.location_collection;
+  var dimensions;
 
-  for (i in fields) {
-    fieldLabel = fields[i];
-    if (fieldLabel in item ) {
-      meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
-    }
+  if (width) {
+    dimensions = width + " cm x " + height + " cm";
+  } else if (diameter) {
+    dimensions = diameter + " cm";
   }
-  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+
+  meta.push(`${date}`);
+  if (dimensions) {
+    meta.push(`${dimensions}`);
+  }
+  if (support) {
+    meta.push(`${support}`);
+  }
+  if (location) {
+    meta.push(`${location}`);
+  }
+  
+  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span>${meta.join(' <br /> ')}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {

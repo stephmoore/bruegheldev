@@ -24,6 +24,7 @@
 {% capture locations %}/{{ collection }}/browse-locations{% endcapture %}
 {% capture dates %}/{{ collection }}/browse-dates{% endcapture %}
 {% capture about %}/{{collection}}/about-{{ collection }}{% endcapture %}
+{% capture search %}/search-{{ collection }}/{% endcapture %}
 
 <div id="brueghel-header" class="container-fluid">
   <nav class="navbar navbar-expand-md navbar-light d-inline-flex justify-content-between align-items-start">
@@ -68,7 +69,7 @@
           </li>
 
           <li class="nav-item">
-            <a href="{{ '/search' | absolute_url }}" class="nav-link">Search</a>
+            <a href="{{ search | absolute_url }}" class="nav-link">Search</a>
           </li>
         </ul>
       </div>

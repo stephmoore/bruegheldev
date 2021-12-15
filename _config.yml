@@ -153,8 +153,8 @@ collections:
 # and running `$ bundle exec rake wax:search` .
 
 search:
-  main:
-    index: '/search/index.json' # file the index will get written to
+  janbrueghel:
+    index: '/search/janbrueghel.json' # file the index will get written to
     collections:
       janbrueghel:
         content: false # whether or not to index page content
@@ -181,7 +181,6 @@ search:
           - location_city
           - location_collection
           - private_collection_info
-          - most_recent_sale
           - bibliography
           - exhibition_history
           - copies_and_variants
@@ -189,6 +188,9 @@ search:
           - width_cm
           - height_cm
           - diameter_cm
+  pieterbruegel:
+    index: '/search/pieterbruegel.json'
+    collections:
       pieterbruegel:
         content: false
         fields:
@@ -196,7 +198,7 @@ search:
           - object_type
           - genre
           - worktags
-          - numeric_date
+          - realdate
           - support
           - signature
           - support_mark
@@ -214,7 +216,6 @@ search:
           - location_city
           - location_collection
           - private_collection_info
-          - most_recent_sale
           - bibliography
           - exhibition_history
           - copies_and_variants

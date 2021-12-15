@@ -23,6 +23,7 @@ bio_text: "<p>Cardinal Granvelle, born Anthony Perrenot, was perhaps Bruegel’s
 bio_author: Cecily Manson
 role: patron
 status_profession: cardinal/prelate
+permalink: "/biographies/cardinal-granvelle"
 order: '26'
 layout: biography_item
 collection: biographies

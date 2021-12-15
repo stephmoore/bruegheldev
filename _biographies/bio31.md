@@ -24,6 +24,7 @@ bio_text: "<p>Daniel Seghers was a Flemish painter who worked mostly in Antwerp.
 bio_author: Rigby Philips
 role:
 status_profession:
+permalink: "/biographies/daniel-seghers"
 order: '36'
 layout: biography_item
 collection: biographies

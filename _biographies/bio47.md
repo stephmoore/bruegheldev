@@ -30,6 +30,7 @@ bio_text: "<p>Born in 1556, Otto van Veen was a prominent Flemish painter, poet,
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
+permalink: "/biographies/otto-van-veen"
 order: '49'
 layout: biography_item
 collection: biographies

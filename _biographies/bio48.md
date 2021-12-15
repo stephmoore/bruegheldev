@@ -9,6 +9,7 @@ bio_text: "<p>Sebastiaen Vrancx was a sixteenth and seventeenth-century Flemish 
 bio_author:
 role:
 status_profession: painter
+permalink: "/biographies/sebastiaen-vrancx"
 order: '53'
 layout: biography_item
 collection: biographies

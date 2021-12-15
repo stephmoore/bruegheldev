@@ -8,6 +8,7 @@ bio_text: "<p>Pieter van der Heyden is a sixteenth-century Flemish printmaker.</
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/pieter-van-der-heyden"
 order: '43'
 layout: biography_item
 collection: biographies

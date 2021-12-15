@@ -48,6 +48,7 @@ bio_text: "<p>Pieter Brueghel the Younger was born in Brussels in 1564, the elde
 bio_author: Ximena Valdarrago
 role: relative
 status_profession: painter
+permalink: "/biographies/pieter-brueghel-the-younger"
 order: '5'
 layout: biography_item
 collection: biographies

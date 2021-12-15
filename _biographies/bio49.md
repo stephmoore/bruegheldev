@@ -8,6 +8,7 @@ bio_text: "<p>Hendrick de Clerck was a sixteenth and seventeenth-century Flemish
 bio_author:
 role:
 status_profession: painter
+permalink: "/biographies/hendrick-de-clerck"
 order: '15'
 layout: biography_item
 collection: biographies

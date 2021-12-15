@@ -27,6 +27,7 @@ bio_text: "<p>Cornelis Schut was a Flemish artist skilled in oil painting, engra
 bio_author: Rigby Philips
 role:
 status_profession: painter
+permalink: "/biographies/cornelis-schut"
 order: '35'
 layout: biography_item
 collection: biographies

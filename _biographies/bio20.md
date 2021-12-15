@@ -39,6 +39,7 @@ bio_text: "<p>Dirck Volckertszoon Coornhert was born in 1522 in Amsterdam. In 15
 bio_author: Kelsey Schiedermayer
 role:
 status_profession: scholar
+permalink: "/biographies/dirck-volckertszoon-coornhert"
 order: '52'
 layout: biography_item
 collection: biographies

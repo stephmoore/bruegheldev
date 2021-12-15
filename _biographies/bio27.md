@@ -45,6 +45,7 @@ bio_text: "<p>Francesco Maria del Monte was an Italian cardinal, diplomat, art c
 bio_author: Ximena Valdarrago
 role: patron
 status_profession: cardinal/prelate
+permalink: "/biographies/francesco-maria-del-monte"
 order: '30'
 layout: biography_item
 collection: biographies

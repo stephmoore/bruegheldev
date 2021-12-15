@@ -25,6 +25,7 @@ bio_text: "<p>Born in 1553, Archduke Ernst of Austria was the son of Holy Roman 
 bio_author: Saffron Sener
 role: patron
 status_profession: ruler/noble
+permalink: "/biographies/archduke-ernest-of-austria"
 order: '20'
 layout: biography_item
 collection: biographies

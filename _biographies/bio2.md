@@ -46,6 +46,7 @@ bio_text: "<p>Infanta Isabella Clara Eugenia was the most prominent female patro
 bio_author: Cecily Manson
 role: patron
 status_profession: ruler/noble
+permalink: "/biographies/infanta-isabella-clara-eugenia"
 order: '27'
 layout: biography_item
 collection: biographies

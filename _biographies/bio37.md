@@ -18,6 +18,7 @@ bio_text: "<p>Giulio Cesare Procaccini was an Italian artist born in Bologna who
 bio_author: Rigby Philips
 role: collaborator
 status_profession: painter
+permalink: "/biographies/giulio-cesare-procaccini"
 order: '7'
 layout: biography_item
 collection: biographies

@@ -42,6 +42,7 @@ bio_text: "<p>Hans Rottenhammer was born in 1564 in Munich, where he was also ra
 bio_author:
 role: collaborator
 status_profession: painter
+permalink: "/biographies/hans-rottenhammer"
 order: '33'
 layout: biography_item
 collection: biographies

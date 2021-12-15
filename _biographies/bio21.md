@@ -26,6 +26,7 @@ bio_text: "<p>While few works that bear his signature remain, Pieter Coecke van 
 bio_author: Cecily Manson
 role:
 status_profession: painter
+permalink: "/biographies/pieter-coecke-van-aelst"
 order: '10'
 layout: biography_item
 collection: biographies

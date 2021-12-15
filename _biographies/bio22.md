@@ -38,6 +38,7 @@ bio_text: "<p>The records of the Guild of Saint Luke in Antwerp show that Hieron
 bio_author: Ashley Jerbic
 role:
 status_profession: painter
+permalink: "/biographies/hieronymus-cock"
 order: '9'
 layout: biography_item
 collection: biographies

@@ -35,6 +35,7 @@ bio_text: "<p>Frans Snyders was a Flemish painter most noted for his work in sti
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
+permalink: "/biographies/frans-snyders"
 order: '38'
 layout: biography_item
 collection: biographies

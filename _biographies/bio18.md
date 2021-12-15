@@ -26,6 +26,7 @@ bio_text: "<p>Nicolaes Jongelinck was a prominent Antwerp merchant and patron of
 bio_author: Cecily Manson
 role: patron
 status_profession: merchant/professional
+permalink: "/biographies/nicolaes-jongelinck"
 order: '28'
 layout: biography_item
 collection: biographies

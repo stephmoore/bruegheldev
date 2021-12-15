@@ -22,6 +22,7 @@ bio_text: "<p>Tobias Verhaecht was a Flemish painter best-known for his landscap
 bio_author: Rigby Philips
 role: collaborator
 status_profession: painter
+permalink: "/biographies/tobias-verhaecht"
 order: '50'
 layout: biography_item
 collection: biographies

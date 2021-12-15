@@ -33,6 +33,7 @@ bio_text: "<p>Born just before the turn of the sixteenth century in Croatia , Gi
 bio_author: Cecily Manson
 role:
 status_profession: painter
+permalink: "/biographies/giulio-clovio"
 order: '8'
 layout: biography_item
 collection: biographies

@@ -64,6 +64,7 @@ bio_text: "<p>Federico Borromeo was born in Milan in 1564 to Margherita Trivulzi
 bio_author: Ximena Valdarrago
 role: patron
 status_profession: cardinal/prelate
+permalink: "/biographies/federico-borromeo"
 order: '1'
 layout: biography_item
 collection: biographies

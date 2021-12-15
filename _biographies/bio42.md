@@ -26,6 +26,7 @@ bio_text: "<p>Pieter van Avont, baptized January 14th, 1600, in the Antwerp prov
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter, printmaker, art dealer
+permalink: "/biographies/pieter-van-avont"
 order: '41'
 layout: biography_item
 collection: biographies

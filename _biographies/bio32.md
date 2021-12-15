@@ -31,6 +31,7 @@ bio_text: "<p>A Flemish painter and engraver, David Teniers (the Younger) was bo
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
+permalink: "/biographies/david-teniers-the-younger"
 order: '39'
 layout: biography_item
 collection: biographies

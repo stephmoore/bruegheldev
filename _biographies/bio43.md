@@ -8,6 +8,7 @@ bio_text:
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/denis-van-alsloot"
 order: '40'
 layout: biography_item
 collection: biographies

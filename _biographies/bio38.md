@@ -35,6 +35,7 @@ bio_text: "<p>Hendrick van Steenwyck was born in Antwerp around 1581 as the son 
 bio_author: Ximena Valdarrago
 role: collaborator
 status_profession: painter
+permalink: "/biographies/hendrick-van-steenwyck-the-younger"
 order: '47'
 layout: biography_item
 collection: biographies

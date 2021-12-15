@@ -23,6 +23,7 @@ bio_text: "<p>Very little is known of Flemish painter Jacob de Backer. With no s
 bio_author: Saffron Sener
 role: collaborator
 status_profession: painter
+permalink: "/biographies/jacob-de-backer"
 order: '14'
 layout: biography_item
 collection: biographies

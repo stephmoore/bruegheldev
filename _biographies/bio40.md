@@ -21,6 +21,7 @@ bio_text: "<p>Because he was born to a Protestant family, Flemish painter and pr
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/adriaen-van-stalbemt"
 order: '45'
 layout: biography_item
 collection: biographies

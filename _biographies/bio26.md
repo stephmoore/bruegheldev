@@ -26,6 +26,7 @@ bio_text: "<p>The fifth son to Holy Roman Emperor Maximilian II and Maria of Spa
 bio_author: Cecily Manson
 role: patron
 status_profession: ruler/noble
+permalink: "/biographies/albert-vii-archduke-of-austria"
 order: '0'
 layout: biography_item
 collection: biographies

@@ -31,6 +31,7 @@ bio_text: "<p>Hendrik van Steenwyck the Elder was born in 1550 in the Dutch town
 bio_author: Ximena Valdarrago
 role:
 status_profession:
+permalink: "/biographies/hendrick-van-steenwyck-the-elder"
 order: '46'
 layout: biography_item
 collection: biographies

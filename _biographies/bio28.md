@@ -48,6 +48,7 @@ bio_text: "<p>Jan van Kessel was born in April 5th, 1626 to Hieronymus van Kesse
 bio_author: Ximena Valdarrago
 role:
 status_profession: painter
+permalink: "/biographies/jan-van-kessel-i"
 order: '44'
 layout: biography_item
 collection: biographies

@@ -54,6 +54,7 @@ bio_text: "<p>Jan Brueghel the Younger was an artist and art dealer, born in Ant
 bio_author: Ximena Valdarrago
 role: collaborator, dealer
 status_profession: painter, art dealer
+permalink: "/biographies/jan-brueghel-the-younger"
 order: '4'
 layout: biography_item
 collection: biographies

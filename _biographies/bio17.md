@@ -26,6 +26,7 @@ bio_text: "<p>Jan Noirot, at one time the Master of the Antwerp Mint, declared b
 bio_author: Cecily Manson
 role:
 status_profession: merchant/professional
+permalink: "/biographies/jan-noirot"
 order: '31'
 layout: biography_item
 collection: biographies

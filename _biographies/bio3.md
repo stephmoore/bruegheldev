@@ -8,6 +8,7 @@ bio_text:
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/jan-snellinck"
 order: '37'
 layout: biography_item
 collection: biographies

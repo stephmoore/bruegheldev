@@ -42,6 +42,7 @@ bio_text: "<p>Paul Bril was a sixteenth-century Netherlandish artist who is toda
 bio_author: Ximena Valdarrago
 role: collaborator
 status_profession: painter
+permalink: "/biographies/paul-bril"
 order: '3'
 layout: biography_item
 collection: biographies

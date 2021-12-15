@@ -29,6 +29,7 @@ bio_text: "<p>Abraham Ortelius, sixteenth century cartographer and geographer, w
 bio_author: Cecily Manson
 role: patron
 status_profession: scholar
+permalink: "/biographies/abraham-ortelius"
 order: '32'
 layout: biography_item
 collection: biographies

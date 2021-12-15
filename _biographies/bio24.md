@@ -56,6 +56,7 @@ bio_text: "<p>Hieronymus Bosch was born as Jeroen van Aken in around 1450 to a f
 bio_author: Ximena Valdarrago
 role:
 status_profession: painter
+permalink: "/biographies/hieronymus-bosch"
 order: '2'
 layout: biography_item
 collection: biographies

@@ -45,6 +45,7 @@ bio_text: "<p>Hendrick van Balen was born in 1575 to the merchant Willem van Bal
 bio_author: Ashley Gonik
 role: collaborator
 status_profession: painter
+permalink: "/biographies/hendrick-van-balen"
 order: '42'
 layout: biography_item
 collection: biographies

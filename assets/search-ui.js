@@ -11,7 +11,7 @@ function excerptedString(str) {
 
 function getThumbnail(item, url) {
   if ('thumbnail' in item) {
-    return `<img class='sq-thumb-sm' src='${url}/${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
+    return `<img class='sq-thumb-sm' src='${url}${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
   }
   else {
     return '';
@@ -25,7 +25,7 @@ function displayResult(item, fields, url) {
   var thumb = getThumbnail(item, url);
   var meta  = []
   
-  var date = item.realdate || 'n.d.';
+  var date = item.realdate;
   var width = item.width_cm;
   var height = item.height_cm;
   var diameter = item.diameter_cm;
@@ -39,7 +39,10 @@ function displayResult(item, fields, url) {
     dimensions = diameter + " cm";
   }
 
-  meta.push(`${date}`);
+ 
+  if (date) {
+    meta.push(`${date}`);
+  }
   if (dimensions) {
     meta.push(`${dimensions}`);
   }

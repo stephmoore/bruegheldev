@@ -41,6 +41,7 @@ bio_text: "<p>Frans Francken the Younger was born in Antwerp in 1581 to painter 
 bio_author: Ximena Valdarrago
 role:
 status_profession:
+permalink: "/biographies/frans-francken-the-younger"
 order: '21'
 layout: biography_item
 collection: biographies

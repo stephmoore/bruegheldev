@@ -218,7 +218,6 @@ Landing Page Stuff
   width: 100vw;
   height: 40vw;
   max-height: 400px;
-  min-width: 768px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -298,6 +297,8 @@ Footer
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
+  padding-left: $less-margin;
+  padding-right: $less-margin;
   background-color: $darker-bg;
   col {
     flex-basis: 0;
@@ -571,28 +572,31 @@ search box
   }
 }
 
-.facet-buttons {
-  .facet, .category {
-    @extend .btn-outline-secondary;
-    color: $text-color;
-    background-color: transparent;
-    background-image: unset; 
-    border-color: transparent;
-    margin: 0;
-    padding: 3px;
-    font-size: .9rem;
-    font-family: $body-font;
-    text-align: left;
-    .active {
-      @extend .facet, .category;
-      border-color: transparent;
-      background-color: transparent;
-    }
-  }
-  .subcat {
-    font-size: .8rem;
-    font-style: italic;
-  }
+.btn.facet, .btn.category {
+  color: $text-color;
+  background-color: transparent;
+  background-image: unset; 
+  border-color: transparent;
+  margin: 0;
+  padding: 3px;
+  font-size: .9rem;
+  font-family: $body-font;
+  text-align: left;
+}
+
+.btn.facet:focus, .btn.facet.active {
+  box-shadow: none;
+  border-color: $text-color;
+  color: #fff;
+}
+
+.btn.category:focus, .btn.category.active {
+  box-shadow: none;
+}
+
+.subcat {
+  font-size: .8rem;
+  font-style: italic;
 }
 
 /* Browse-By Gallery */

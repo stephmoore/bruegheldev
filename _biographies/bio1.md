@@ -25,6 +25,7 @@ bio_text: "<p>The son of the town painter, Artus van Uden, Lucas joined Antwerpâ
 bio_author: Rigby Philips
 role:
 status_profession: painter
+permalink: "/biographies/lucas-van-uden"
 order: '48'
 layout: biography_item
 collection: biographies

@@ -9,6 +9,7 @@ bio_text: "<p>Pieter De Jode was a sixteenth and seventeenth-century Flemish pri
 bio_author:
 role:
 status_profession: publisher, printmaker
+permalink: "/biographies/pieter-de-jode"
 order: '17'
 layout: biography_item
 collection: biographies

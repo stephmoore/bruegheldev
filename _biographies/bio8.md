@@ -23,6 +23,7 @@ bio_text: "<p>Charles III de Croy, Duke of Croy and Aarschot and Prince of Chima
 bio_author: Rigby Philips
 role:
 status_profession:
+permalink: "/biographies/charles-duc-de-croy"
 order: '19'
 layout: biography_item
 collection: biographies

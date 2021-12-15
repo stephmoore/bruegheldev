@@ -9,6 +9,7 @@ bio_text: "<p>Hieronymus Francken the Younger was a sixteenth and seventeenth-ce
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/hieronymus-francken-the-younger"
 order: '22'
 layout: biography_item
 collection: biographies

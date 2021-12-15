@@ -8,6 +8,7 @@ bio_text:
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/hans-iii-jordaens"
 order: '29'
 layout: biography_item
 collection: biographies

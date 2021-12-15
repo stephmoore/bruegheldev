@@ -138,6 +138,7 @@ bio_text: "<p>Peter Paul Rubens was born in Siegen, Germany in 1577 to Jan Ruben
 bio_author: Cecily Manson
 role: collaborator
 status_profession: scholar, diplomat, painter
+permalink: "/biographies/peter-paul-rubens"
 order: '34'
 layout: biography_item
 collection: biographies

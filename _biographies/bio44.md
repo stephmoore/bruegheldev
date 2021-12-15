@@ -8,6 +8,7 @@ bio_text: "<p>Gillis van Coninxloo was a seventeenth-century Flemish painter.</p
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/gillis-coninxloo"
 order: '12'
 layout: biography_item
 collection: biographies

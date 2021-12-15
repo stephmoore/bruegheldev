@@ -8,6 +8,7 @@ bio_text:
 bio_author:
 role:
 status_profession:
+permalink: "/biographies/mayken-verhulst-bessemers"
 order: '51'
 layout: biography_item
 collection: biographies

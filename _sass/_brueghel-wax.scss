@@ -667,3 +667,16 @@ search box
   margin-bottom: 0.5rem;
 
 }
+
+/* Scale Gallery */
+
+#ScaleMain {
+  margin-bottom: $margin;
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+  .skip-plaque, .title-plaque {
+    background-color: #3d260f;
+    border-radius: 0.4rem;
+    padding: 0.3rem;
+  }
+}

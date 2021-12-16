@@ -77,6 +77,12 @@
       <!-- Column 2 -->
       <div class="collapse navbar-collapse menu-column" id="navbarCollapseBottom">
         <ul class="navbar-nav flex-column ml-2 ml-md-0">
+          <li class="nav-item">
+            <a href="{{ '/pages/bibliography' | absolute_url }}" class="nav-link">Bibliography</a>
+          </li>
+          <li class="nav-item">
+            <a href="{{ '/biographies' | absolute_url }}" class="nav-link">Biographies</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tools</a>
             <div class="dropdown-menu" aria-labelledby="dropdown02">
@@ -84,13 +90,7 @@
               <a class="dropdown-item" href="{{ '/iit/' | absolute_url }}">Image Investigation Toolkit</a>
             </div>
           </li>
-          <li class="nav-item">
-            <a href="{{ '/pages/bibliography' | absolute_url }}" class="nav-link">Bibliography</a>
-          </li>
-          <li class="nav-item">
-            <a href="{{ '/biographies' | absolute_url }}" class="nav-link">Biographies</a>
-          </li>
-
+          
           <li class="nav-item othercat-menu-link d-md-none">
             <a href="{{ othercat_link | absolute_url }}" class="nav-link">{{ othercat_firstname }} {{ othercat_lastname }} Catalog</a>
           </li>

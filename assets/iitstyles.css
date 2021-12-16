@@ -195,7 +195,7 @@ body {
   left: 0;
   cursor: pointer;
   width: 100%;
-  min-height: 1200px;
+  /* min-height: 1200px; */
   z-index: 700;
   padding-top: 1em;
   background-color: #60667c;
@@ -573,8 +573,12 @@ form.inline {
   display: flex;
 }
 
+#show-sample-images {
+  color: #ffe3a9;
+  font-weight: 500;
+}
+
 .sample-images div {
-  text-align: center;
   padding-top: 1em;
   width: 50%;
 }

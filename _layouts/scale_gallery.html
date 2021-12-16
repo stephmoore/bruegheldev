@@ -194,7 +194,7 @@ layout: page
   const pieterHuman = "../img/scale/RubensGuy.png"; // Human for comparison in Pieter's gallery
   const janHuman = "../img/scale/rubens2.png"; // Human for comparison in Jan's gallery
 
-  const pieterCSV = "../img/scale/jan-scale-gallery-fake.csv"; // Pieter CSV Link
+  const pieterCSV = "../img/scale/pieter-scale-gallery.csv"; // Pieter CSV Link
   const janCSV = "../img/scale/jan-scale-gallery.csv"; // Jan CSV Link
 
   const missingPainting = "..img/scale/frameMissing.png"; // Substitute image to use for unloaded paintings
@@ -613,6 +613,7 @@ layout: page
     _fig.style.width = convertPx(skipWidth);
     var _skipPlaque = document.createElement('div');
     _skipPlaque.id = "skipPlaque"+artist.toString();
+    _skipPlaque.className = "skip-plaque";
 
     _skipPlaque.style.backgroundColor = plaqueColor;
     //_skipPlaque.style.boxShadow = "3px 3px 5px";  // Commented out- shadow is white on BrueghelFamily
@@ -622,21 +623,21 @@ layout: page
     
     // Customize button based on artist
     if (artist == pieter) {
-      _skip.innerHTML = " Skip ahead to Jan's Gallery >> ";
+      _skip.innerHTML = " Skip ahead to Jan's Gallery ";
 
       // Add skip functionality
       _skip.onclick = function(event) {
-        this.style.color = linkColor;
+      //  this.style.color = linkColor;
         document.getElementById("ScaleMain").style.cursor = "auto";
         scroller = document.getElementById("ScaleScroller");
         scrollLeftTo(scroller, galleryWidth(pieter), 600);
       }
     } else {
-      _skip.innerHTML = " << Skip back to Pieter's Gallery ";
+      _skip.innerHTML = " Skip back to Pieter's Gallery ";
 
       // Add skip functionality
       _skip.onclick = function(event) {
-        this.style.color = linkColor;
+      //  this.style.color = linkColor;
         document.getElementById("ScaleMain").style.cursor = "auto";
         scroller = document.getElementById("ScaleScroller");
         scrollLeftTo(scroller, -galleryWidth(pieter), 600);
@@ -645,17 +646,17 @@ layout: page
 
     // Formatting
     // _skip.style.color = linkColor;
-    // _skip.style.fontSize = "x-small";
-    // _skipPlaque.style.textAlign = 'center';
+     // _skip.style.fontSize = "x-small";
+     // _skipPlaque.style.textAlign = 'center';
 
-    //  _skip.onmouseover = function() {
-    //   this.style.color = linkHoverColor;
-    //   document.getElementById("ScaleMain").style.cursor = "pointer";
-    // }
-    // _skip.onmouseout = function() {
+    _skip.onmouseover = function() {
+    //  this.style.color = linkHoverColor;
+      document.getElementById("ScaleMain").style.cursor = "pointer";
+    }
+    _skip.onmouseout = function() {
     //  this.style.color = linkColor;
-    //  document.getElementById("ScaleMain").style.cursor = "auto";
-    // }
+      document.getElementById("ScaleMain").style.cursor = "auto";
+    }
 
     // Layout
     _fig.style.position = "absolute";
@@ -691,6 +692,7 @@ layout: page
       _fig.style.width = convertPx(imgWidth);
       var _titlePlaque = document.createElement('div');
       _titlePlaque.id = imgName + "'s plaque";
+      _titlePlaque.className = "title-plaque";
       _titlePlaque.style.backgroundColor = plaqueColor;
       // _titlePlaque.style.boxShadow = "3px 3px 5px";  // Commented out- shadow is white on BrueghelFamily
 
@@ -702,16 +704,16 @@ layout: page
 
       // Plaque title clickable functionality
       _title.onclick = function(event) {
-        this.style.color = linkColor;
+      //  this.style.color = linkColor;
         document.getElementById("ScaleMain").style.cursor = "auto";
         window.location.href = this.id;
       }
       _title.onmouseover = function() {
-      //   this.style.color = linkHoverColor;
+      //  this.style.color = linkHoverColor;
         document.getElementById("ScaleMain").style.cursor = "pointer";
       }
       _title.onmouseout = function() {
-      //   this.style.color = linkColor;
+      //  this.style.color = linkColor;
         document.getElementById("ScaleMain").style.cursor = "auto";
       }
 
@@ -1078,5 +1080,5 @@ layout: page
     debug_log(canvasArrays);
     return undefined;
   }
-  
+
 </script> 

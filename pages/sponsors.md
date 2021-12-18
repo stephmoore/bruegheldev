@@ -100,7 +100,7 @@ permalink: '/sponsors/'
          <img typeof="foaf:Image" class="image-style-logo" src="{{ 'img/sponsors/artauthority.png' | absolute_url }}" alt="Art Authority" title="Art Authority" />
       </div>
       <div class="sponsor-link">
-         <<h4>Art Authority</h4>
+         <h4>Art Authority</h4>
       </div>
    </a>
    </div>

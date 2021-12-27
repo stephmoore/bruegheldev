@@ -24,6 +24,14 @@ function displayResult(item, fields, url) {
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
   var meta  = []
+
+  if (item.collection) {
+    if (item.collection == 'janbrueghel') {
+      var artist = 'Jan Brueghel';
+    } else {
+      var artist = 'Pieter Bruegel';
+    }
+  }
   
   var date = item.realdate;
   var width = item.width_cm;
@@ -39,7 +47,9 @@ function displayResult(item, fields, url) {
     dimensions = diameter + " cm";
   }
 
- 
+  if (artist) {
+    meta.push(`${artist}`);
+  }
   if (date) {
     meta.push(`${date}`);
   }
@@ -84,7 +94,8 @@ function startSearchUI(fields, indexFile, url) {
     }
     if (location.search) {
       var arg = decodeURIComponent(location.search);
-      var search = arg.replace("?search=", "");
+      var searchRaw = arg.replace("?search=", "");
+      var search = searchRaw.replace("+", " ");
       $('input#search').val(search) // Is this how you assign in jquery?
       run_search(search);
     }

@@ -2,7 +2,10 @@
 layout: page
 ---
 {% raw %}
+  <div class="d-block d-sm-none">This tool does not work on mobile devices.</div>
+  <div class="d-none d-sm-block">
   <header>
+    <p>To begin, drag two image files from your desktop into the viewer windows.</p>
     <button id="show-sample-images">Show sample images</button>
     <div class="sample-images" style="display: none;">
       <div>
@@ -59,6 +62,7 @@ layout: page
       </div>
     </div>
   </div>
+</div>
 
 
   <script type="text/html" id="twoviews_tmpl">

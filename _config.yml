@@ -223,6 +223,75 @@ search:
           - width_cm
           - height_cm
           - diameter_cm
+  brueghels:
+    index: '/search/brueghels.json'
+    collections:
+      janbrueghel:
+        content: false
+        fields:
+          - collection
+          - label
+          - object_type
+          - genre
+          - worktags
+          - realdate
+          - support
+          - signature
+          - support_mark
+          - collaborators
+          - collaborator_notes
+          - collectors_patrons
+          - print_type
+          - print_notes
+          - printmaker
+          - publisher
+          - states
+          - our_attribution
+          - other_attribution_authorities
+          - location_country
+          - location_city
+          - location_collection
+          - private_collection_info
+          - bibliography
+          - exhibition_history
+          - copies_and_variants
+          - biblio
+          - width_cm
+          - height_cm
+          - diameter_cm
+      pieterbruegel:
+        content: false
+        fields:
+          - collection
+          - label
+          - object_type
+          - genre
+          - worktags
+          - realdate
+          - support
+          - signature
+          - support_mark
+          - collaborators
+          - collaborator_notes
+          - collectors_patrons
+          - print_type
+          - print_notes
+          - printmaker
+          - publisher
+          - states
+          - our_attribution
+          - other_attribution_authorities
+          - location_country
+          - location_city
+          - location_collection
+          - private_collection_info
+          - bibliography
+          - exhibition_history
+          - copies_and_variants
+          - biblio
+          - width_cm
+          - height_cm
+          - diameter_cm
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

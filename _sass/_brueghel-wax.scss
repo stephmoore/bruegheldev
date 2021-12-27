@@ -542,6 +542,11 @@ search box
         border-color: $bg-color;
     }
   }
+  .searchpage-links {
+    font-size: 0.8rem;
+    margin-top: 0;
+    margin-bottom: $margin;
+  }
   #results {
     margin: 0;
     .result {

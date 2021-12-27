@@ -20,8 +20,8 @@
 
 title:            'Jan Brueghel Complete Catalog'
 description:      'Jan Brueghel Complete Catalog'
-url:              'https://stephmoore.github.io'
-baseurl:          '/bruegheldev/'
+url:              'http://127.0.0.1:4000'
+baseurl:          ''
 copyright:        '2021'
 logo:             '/img/favicon.png'
 

@@ -1,7 +1,7 @@
 ---
 pid: marsh
 title: 'Tag: Marsh'
-worktag: Marsh
+label: Marsh
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

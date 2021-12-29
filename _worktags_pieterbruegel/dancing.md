@@ -1,7 +1,7 @@
 ---
 pid: dancing
 title: 'Tag: Dancing'
-worktag: Dancing
+label: Dancing
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

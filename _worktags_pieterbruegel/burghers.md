@@ -1,7 +1,7 @@
 ---
 pid: burghers
 title: 'Tag: Burghers'
-worktag: Burghers
+label: Burghers
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

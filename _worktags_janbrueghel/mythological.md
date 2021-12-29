@@ -1,7 +1,7 @@
 ---
 pid: mythological
 title: 'Tag: Mythological'
-worktag: Mythological
+label: Mythological
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,10 +1,10 @@
 ---
 pid: oslo
 title: 'Location: Oslo'
-location_country: Norway
-location_city: Oslo
+category: Norway
+label: Oslo
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '089'
+order: '084'
 permalink: "/janbrueghel/locations/oslo/"
 ---

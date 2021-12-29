@@ -1,8 +1,8 @@
 ---
 pid: buenos-aires
 title: 'Location: Buenos Aires'
-location_country: Argentina
-location_city: Buenos Aires
+category: Argentina
+label: Buenos Aires
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
 order: '000'

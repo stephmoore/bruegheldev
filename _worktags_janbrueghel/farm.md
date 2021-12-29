@@ -1,7 +1,7 @@
 ---
 pid: farm
 title: 'Tag: Farm'
-worktag: Farm
+label: Farm
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

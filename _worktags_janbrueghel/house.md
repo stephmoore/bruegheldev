@@ -1,7 +1,7 @@
 ---
 pid: house
 title: 'Tag: House'
-worktag: House
+label: House
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

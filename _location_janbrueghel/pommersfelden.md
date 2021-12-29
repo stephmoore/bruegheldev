@@ -1,10 +1,10 @@
 ---
 pid: pommersfelden
 title: 'Location: Pommersfelden'
-location_country: Germany
-location_city: Pommersfelden
+category: Germany
+label: Pommersfelden
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '065'
+order: '060'
 permalink: "/janbrueghel/locations/pommersfelden/"
 ---

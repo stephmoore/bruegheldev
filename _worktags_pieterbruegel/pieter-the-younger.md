@@ -1,7 +1,7 @@
 ---
 pid: pieter-the-younger
 title: 'Tag: Pieter the Younger'
-worktag: Pieter the Younger
+label: Pieter the Younger
 category: Associated artists
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

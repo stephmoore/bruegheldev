@@ -1,10 +1,10 @@
 ---
 pid: oxford
 title: 'Location: Oxford'
-location_country: England
-location_city: Oxford
+category: England
+label: Oxford
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '024'
+order: '023'
 permalink: "/janbrueghel/locations/oxford/"
 ---

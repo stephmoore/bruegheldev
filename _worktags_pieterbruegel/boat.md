@@ -1,7 +1,7 @@
 ---
 pid: boat
 title: 'Tag: Boat'
-worktag: Boat
+label: Boat
 category: Transportation
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

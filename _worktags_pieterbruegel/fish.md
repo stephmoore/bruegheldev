@@ -1,8 +1,8 @@
 ---
 pid: fish
 title: 'Tag: Fish'
-worktag: Fish
-category: Activities
+label: Fish
+category: Animals
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '060'

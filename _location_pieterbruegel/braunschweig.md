@@ -1,8 +1,8 @@
 ---
 pid: braunschweig
 title: 'Location: Braunschweig'
-location_country: Germany
-location_city: Braunschweig
+category: Germany
+label: Braunschweig
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '05'

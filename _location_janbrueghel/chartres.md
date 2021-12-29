@@ -1,10 +1,10 @@
 ---
 pid: chartres
 title: 'Location: Chartres'
-location_country: France
-location_city: Chartres
+category: France
+label: Chartres
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '034'
+order: '029'
 permalink: "/janbrueghel/locations/chartres/"
 ---

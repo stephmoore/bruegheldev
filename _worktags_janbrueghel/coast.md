@@ -1,7 +1,7 @@
 ---
 pid: coast
 title: 'Tag: Coast'
-worktag: Coast
+label: Coast
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

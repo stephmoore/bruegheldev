@@ -1,10 +1,10 @@
 ---
 pid: chalone-sur-marne
 title: 'Location: Châlone-sur-Marne'
-location_country: France
-location_city: Châlone-sur-Marne
+category: France
+label: Châlone-sur-Marne
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '033'
+order: '028'
 permalink: "/janbrueghel/locations/chalone-sur-marne/"
 ---

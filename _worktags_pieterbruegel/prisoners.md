@@ -1,7 +1,7 @@
 ---
 pid: prisoners
 title: 'Tag: Prisoners'
-worktag: Prisoners
+label: Prisoners
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

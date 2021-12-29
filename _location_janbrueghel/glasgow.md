@@ -1,10 +1,10 @@
 ---
 pid: glasgow
 title: 'Location: Glasgow'
-location_country: Scotland
-location_city: Glasgow
+category: Scotland
+label: Glasgow
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '098'
+order: '093'
 permalink: "/janbrueghel/locations/glasgow/"
 ---

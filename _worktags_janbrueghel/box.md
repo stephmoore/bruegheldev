@@ -1,7 +1,7 @@
 ---
 pid: box
 title: 'Tag: Box'
-worktag: Box
+label: Box
 category: Containers
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,8 +1,8 @@
 ---
 pid: miniature
 title: 'Tag: Miniature'
-worktag: Miniature
-category: Activities
+label: Miniature
+category: Image types
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '112'

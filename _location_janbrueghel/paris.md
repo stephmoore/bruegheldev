@@ -1,10 +1,10 @@
 ---
 pid: paris
 title: 'Location: Paris'
-location_country: France
-location_city: Paris
+category: France
+label: Paris
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '042'
+order: '037'
 permalink: "/janbrueghel/locations/paris/"
 ---

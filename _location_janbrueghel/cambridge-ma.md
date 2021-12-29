@@ -1,10 +1,10 @@
 ---
 pid: cambridge-ma
 title: 'Location: Cambridge, MA'
-location_country: United States
-location_city: Cambridge, MA
+category: United States
+label: Cambridge, MA
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '109'
+order: '104'
 permalink: "/janbrueghel/locations/cambridge-ma/"
 ---

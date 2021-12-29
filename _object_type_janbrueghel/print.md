@@ -2,6 +2,6 @@
 layout: objectpage_janbrueghel
 pid: print
 title: Prints
-object_type: Print
+label: Print
 permalink: /janbrueghel/object-types/print/
 ---

@@ -1,10 +1,10 @@
 ---
 pid: lyon
 title: 'Location: Lyon'
-location_country: France
-location_city: Lyon
+category: France
+label: Lyon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '037'
+order: '032'
 permalink: "/janbrueghel/locations/lyon/"
 ---

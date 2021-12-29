@@ -1,7 +1,7 @@
 ---
 pid: horse
 title: 'Tag: Horse'
-worktag: Horse
+label: Horse
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

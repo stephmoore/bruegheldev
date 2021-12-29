@@ -1,7 +1,7 @@
 ---
 pid: saint
 title: 'Tag: Saint'
-worktag: Saint
+label: Saint
 category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

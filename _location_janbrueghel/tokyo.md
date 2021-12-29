@@ -1,10 +1,10 @@
 ---
 pid: tokyo
 title: 'Location: Tokyo'
-location_country: Japan
-location_city: Tokyo
+category: Japan
+label: Tokyo
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '079'
+order: '074'
 permalink: "/janbrueghel/locations/tokyo/"
 ---

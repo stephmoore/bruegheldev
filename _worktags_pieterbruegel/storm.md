@@ -1,7 +1,7 @@
 ---
 pid: storm
 title: 'Tag: Storm'
-worktag: Storm
+label: Storm
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

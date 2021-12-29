@@ -1,10 +1,10 @@
 ---
 pid: london
 title: 'Location: London'
-location_country: England
-location_city: London
+category: England
+label: London
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '022'
+order: '021'
 permalink: "/janbrueghel/locations/london/"
 ---

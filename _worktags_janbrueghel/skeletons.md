@@ -1,7 +1,7 @@
 ---
 pid: skeletons
 title: 'Tag: Skeletons'
-worktag: Skeletons
+label: Skeletons
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

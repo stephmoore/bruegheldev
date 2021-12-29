@@ -1,7 +1,7 @@
 ---
 pid: purgatorye
 title: 'Tag: Purgatorye'
-worktag: Purgatorye
+label: Purgatorye
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

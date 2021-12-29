@@ -1,10 +1,10 @@
 ---
 pid: braunschweig
 title: 'Location: Braunschweig'
-location_country: Germany
-location_city: Braunschweig
+category: Germany
+label: Braunschweig
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '052'
+order: '047'
 permalink: "/janbrueghel/locations/braunschweig/"
 ---

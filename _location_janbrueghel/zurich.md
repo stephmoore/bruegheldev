@@ -1,10 +1,10 @@
 ---
 pid: zurich
 title: 'Location: Zürich'
-location_country: Switzerland
-location_city: Zürich
+category: Switzerland
+label: Zürich
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '105'
+order: '100'
 permalink: "/janbrueghel/locations/zürich/"
 ---

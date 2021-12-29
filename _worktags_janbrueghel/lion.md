@@ -1,7 +1,7 @@
 ---
 pid: lion
 title: 'Tag: Lion'
-worktag: Lion
+label: Lion
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

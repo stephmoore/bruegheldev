@@ -1,7 +1,7 @@
 ---
 pid: catastrophe
 title: 'Tag: Catastrophe'
-worktag: Catastrophe
+label: Catastrophe
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

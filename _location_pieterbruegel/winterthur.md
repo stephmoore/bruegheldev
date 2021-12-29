@@ -1,10 +1,10 @@
 ---
 pid: winterthur
 title: 'Location: Winterthur'
-location_country: Switzerland
-location_city: Winterthur
+category: Switzerland
+label: Winterthur
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '28'
+order: '27'
 permalink: "/pieterbruegel/locations/winterthur/"
 ---

@@ -1,10 +1,10 @@
 ---
 pid: avignon
 title: 'Location: Avignon'
-location_country: France
-location_city: Avignon
+category: France
+label: Avignon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '030'
+order: '025'
 permalink: "/janbrueghel/locations/avignon/"
 ---

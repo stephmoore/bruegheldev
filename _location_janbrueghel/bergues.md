@@ -1,10 +1,10 @@
 ---
 pid: bergues
 title: 'Location: Bergues'
-location_country: France
-location_city: Bergues
+category: France
+label: Bergues
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '031'
+order: '026'
 permalink: "/janbrueghel/locations/bergues/"
 ---

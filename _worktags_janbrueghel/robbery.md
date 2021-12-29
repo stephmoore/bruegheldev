@@ -1,7 +1,7 @@
 ---
 pid: robbery
 title: 'Tag: Robbery'
-worktag: Robbery
+label: Robbery
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

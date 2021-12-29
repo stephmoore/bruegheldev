@@ -1,7 +1,7 @@
 ---
 pid: coins
 title: 'Tag: Coins'
-worktag: Coins
+label: Coins
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

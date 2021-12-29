@@ -1,7 +1,7 @@
 ---
 pid: harvesting
 title: 'Tag: Harvesting'
-worktag: Harvesting
+label: Harvesting
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

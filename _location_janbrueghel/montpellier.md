@@ -1,10 +1,10 @@
 ---
 pid: montpellier
 title: 'Location: Montpellier'
-location_country: France
-location_city: Montpellier
+category: France
+label: Montpellier
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '038'
+order: '033'
 permalink: "/janbrueghel/locations/montpellier/"
 ---

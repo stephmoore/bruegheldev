@@ -1,10 +1,10 @@
 ---
 pid: warsaw
 title: 'Location: Warsaw'
-location_country: Poland
-location_city: Warsaw
+category: Poland
+label: Warsaw
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '091'
+order: '086'
 permalink: "/janbrueghel/locations/warsaw/"
 ---

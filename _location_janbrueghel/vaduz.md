@@ -1,10 +1,10 @@
 ---
 pid: vaduz
 title: 'Location: Vaduz'
-location_country: Liechtenstein
-location_city: Vaduz
+category: Liechtenstein
+label: Vaduz
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '080'
+order: '075'
 permalink: "/janbrueghel/locations/vaduz/"
 ---

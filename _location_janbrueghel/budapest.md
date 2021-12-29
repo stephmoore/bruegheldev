@@ -1,10 +1,10 @@
 ---
 pid: budapest
 title: 'Location: Budapest'
-location_country: Hungary
-location_city: Budapest
+category: Hungary
+label: Budapest
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '071'
+order: '066'
 permalink: "/janbrueghel/locations/budapest/"
 ---

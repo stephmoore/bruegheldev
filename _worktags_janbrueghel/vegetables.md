@@ -1,7 +1,7 @@
 ---
 pid: vegetables
 title: 'Tag: Vegetables'
-worktag: Vegetables
+label: Vegetables
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

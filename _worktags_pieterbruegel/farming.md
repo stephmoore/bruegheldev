@@ -1,7 +1,7 @@
 ---
 pid: farming
 title: 'Tag: Farming'
-worktag: Farming
+label: Farming
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

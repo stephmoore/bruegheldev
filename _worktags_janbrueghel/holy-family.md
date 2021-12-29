@@ -1,7 +1,7 @@
 ---
 pid: holy-family
 title: 'Tag: Holy family'
-worktag: Holy family
+label: Holy family
 category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

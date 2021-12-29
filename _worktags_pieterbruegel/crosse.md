@@ -1,7 +1,7 @@
 ---
 pid: crosse
 title: 'Tag: Crosse'
-worktag: Crosse
+label: Crosse
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

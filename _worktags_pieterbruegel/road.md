@@ -1,7 +1,7 @@
 ---
 pid: road
 title: 'Tag: Road'
-worktag: Road
+label: Road
 category: Transportation
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

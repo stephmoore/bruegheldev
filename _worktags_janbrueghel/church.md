@@ -1,7 +1,7 @@
 ---
 pid: church
 title: 'Tag: Church'
-worktag: Church
+label: Church
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

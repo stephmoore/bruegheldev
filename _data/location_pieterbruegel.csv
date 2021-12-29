@@ -1,30 +1,29 @@
-"pid","title","location_country","location_city","collection","layout","order","permalink"
-"amsterdam","Location: Amsterdam","Netherlands","Amsterdam","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/amsterdam/"
-"antwerp","Location: Antwerp","Belgium","Antwerp","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/antwerp/"
-"banbury","Location: Banbury","England","Banbury","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/banbury/"
-"berlin","Location: Berlin","Germany","Berlin","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/berlin/"
-"besancon","Location: Besançon","France","Besançon","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/besancon/"
-"braunschweig","Location: Braunschweig","Germany","Braunschweig","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/braunschweig/"
-"brussels","Location: Brussels","Belgium","Brussels","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/brussels/"
-"chatsworth","Location: Chatsworth","England","Chatsworth","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/chatsworth/"
-"chicago","Location: Chicago, IL","United States","Chicago, IL","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/chicago/"
-"dresden","Location: Dresden","Germany","Dresden","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/dresden/"
-"florence","Location: Florence","Italy","Florence","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/florence/"
-"hamburg","Location: Hamburg","Germany","Hamburg","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/hamburg/"
-"leiden","Location: Leiden","Netherlands","Leiden","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/leiden/"
-"london","Location: London","England","London","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/london/"
-"madrid","Location: Madrid","Spain","Madrid","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/madrid/"
-"milan","Location: Milan","Italy","Milan","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/milan/"
-"munich","Location: Munich","Germany","Munich","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/munich/"
-"new-york","Location: New York, NY","United States","New York, NY","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/new-york/"
-"oslo","Location: Oslo","Norway","Oslo","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/oslo/"
-"oxford","Location: Oxford","England","Oxford","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/oxford/"
-"paris","Location: Paris","France","Paris","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/paris/"
-"prague","Location: Prague","Czech Republic","Prague","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/prague/"
-"rennes","Location: Rennes","France","Rennes","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/rennes/"
-"rome","Location: Rome","Italy","Rome","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/rome/"
-"rotterdam","Location: Rotterdam","Netherlands","Rotterdam","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/rotterdam/"
-"san-diego","Location: San Diego, CA","United States","San Diego, CA","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/san-diego/"
-"vienna","Location: Vienna","Austria","Vienna","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/vienna/"
-"washington","Location: Washington, DC","United States","Washington, DC","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/washington/"
-"winterthur","Location: Winterthur","Switzerland","Winterthur","locations_pieterbruegel","locationpage_pieterbruegel",,"/pieterbruegel/locations/winterthur/"
+pid,title,category,label,collection,layout,order,permalink
+amsterdam,Location: Amsterdam,Netherlands,Amsterdam,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/amsterdam/
+antwerp,Location: Antwerp,Belgium,Antwerp,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/antwerp/
+banbury,Location: Banbury,England,Banbury,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/banbury/
+berlin,Location: Berlin,Germany,Berlin,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/berlin/
+besancon,Location: Besançon,France,Besançon,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/besancon/
+braunschweig,Location: Braunschweig,Germany,Braunschweig,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/braunschweig/
+brussels,Location: Brussels,Belgium,Brussels,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/brussels/
+chicago-il,"Location: Chicago, IL",United States,"Chicago, IL",locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/chicago/
+detroit-mi,"Location: Detroit, MI",United States,"Detroit, MI",locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/detroit/
+dresden,Location: Dresden,Germany,Dresden,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/dresden/
+florence,Location: Florence,Italy,Florence,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/florence/
+hamburg,Location: Hamburg,Germany,Hamburg,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/hamburg/
+leiden,Location: Leiden,Netherlands,Leiden,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/leiden/
+london,Location: London,England,London,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/london/
+madrid,Location: Madrid,Spain,Madrid,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/madrid/
+milan,Location: Milan,Italy,Milan,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/milan/
+munich,Location: Munich,Germany,Munich,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/munich/
+new-york-ny,"Location: New York, NY",United States,"New York, NY",locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/new-york/
+oslo,Location: Oslo,Norway,Oslo,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/oslo/
+oxford,Location: Oxford,England,Oxford,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/oxford/
+paris,Location: Paris,France,Paris,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/paris/
+prague,Location: Prague,Czech Republic,Prague,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/prague/
+rome,Location: Rome,Italy,Rome,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/rome/
+rotterdam,Location: Rotterdam,Netherlands,Rotterdam,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/rotterdam/
+san-diego-ca,"Location: San Diego, CA",United States,"San Diego, CA",locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/san-diego/
+vienna,Location: Vienna,Austria,Vienna,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/vienna/
+washington-dc,"Location: Washington, DC",United States,"Washington, DC",locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/washington/
+winterthur,Location: Winterthur,Switzerland,Winterthur,locations_pieterbruegel,locationpage_pieterbruegel,,/pieterbruegel/locations/winterthur/

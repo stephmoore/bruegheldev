@@ -1,7 +1,7 @@
 ---
 pid: elegant-company
 title: 'Tag: Elegant Company'
-worktag: Elegant Company
+label: Elegant Company
 category: Social life
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

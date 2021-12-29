@@ -1,7 +1,7 @@
 ---
 pid: landscape
 title: 'Tag: Landscape'
-worktag: Landscape
+label: Landscape
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

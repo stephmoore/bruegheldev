@@ -1,10 +1,10 @@
 ---
 pid: gotha
 title: 'Location: Gotha'
-location_country: Germany
-location_city: Gotha
+category: Germany
+label: Gotha
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '058'
+order: '053'
 permalink: "/janbrueghel/locations/gotha/"
 ---

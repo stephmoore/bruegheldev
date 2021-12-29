@@ -1,10 +1,10 @@
 ---
 pid: rotterdam
 title: 'Location: Rotterdam'
-location_country: Netherlands
-location_city: Rotterdam
+category: Netherlands
+label: Rotterdam
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '085'
+order: '080'
 permalink: "/janbrueghel/locations/rotterdam/"
 ---

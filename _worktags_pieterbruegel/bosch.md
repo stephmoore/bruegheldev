@@ -1,7 +1,7 @@
 ---
 pid: bosch
 title: 'Tag: Bosch'
-worktag: Bosch
+label: Bosch
 category: Associated artists
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

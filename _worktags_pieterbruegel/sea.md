@@ -1,7 +1,7 @@
 ---
 pid: sea
 title: 'Tag: Sea'
-worktag: Sea
+label: Sea
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: christ
 title: 'Tag: Christ'
-worktag: Christ
+label: Christ
 category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

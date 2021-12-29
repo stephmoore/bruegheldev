@@ -1,7 +1,7 @@
 ---
 pid: road
 title: 'Tag: Road'
-worktag: Road
+label: Road
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

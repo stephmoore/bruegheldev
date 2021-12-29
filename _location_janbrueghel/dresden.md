@@ -1,10 +1,10 @@
 ---
 pid: dresden
 title: 'Location: Dresden'
-location_country: Germany
-location_city: Dresden
+category: Germany
+label: Dresden
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '056'
+order: '051'
 permalink: "/janbrueghel/locations/dresden/"
 ---

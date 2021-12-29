@@ -1,10 +1,10 @@
 ---
 pid: rotterdam
 title: 'Location: Rotterdam'
-location_country: Netherlands
-location_city: Rotterdam
+category: Netherlands
+label: Rotterdam
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '24'
+order: '23'
 permalink: "/pieterbruegel/locations/rotterdam/"
 ---

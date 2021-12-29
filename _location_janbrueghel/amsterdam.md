@@ -1,10 +1,10 @@
 ---
 pid: amsterdam
 title: 'Location: Amsterdam'
-location_country: Netherlands
-location_city: Amsterdam
+category: Netherlands
+label: Amsterdam
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '081'
+order: '076'
 permalink: "/janbrueghel/locations/amsterdam/"
 ---

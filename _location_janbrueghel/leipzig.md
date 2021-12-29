@@ -1,10 +1,10 @@
 ---
 pid: leipzig
 title: 'Location: Leipzig'
-location_country: Germany
-location_city: Leipzig
+category: Germany
+label: Leipzig
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '062'
+order: '057'
 permalink: "/janbrueghel/locations/leipzig/"
 ---

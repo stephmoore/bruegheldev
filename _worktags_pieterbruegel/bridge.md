@@ -1,7 +1,7 @@
 ---
 pid: bridge
 title: 'Tag: Bridge'
-worktag: Bridge
+label: Bridge
 category: Architecture
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: parrot
 title: 'Tag: Parrot'
-worktag: Parrot
+label: Parrot
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

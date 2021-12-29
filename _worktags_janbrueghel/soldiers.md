@@ -1,7 +1,7 @@
 ---
 pid: soldiers
 title: 'Tag: Soldiers'
-worktag: Soldiers
+label: Soldiers
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

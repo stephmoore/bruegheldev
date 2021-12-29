@@ -1,7 +1,7 @@
 ---
 pid: fire
 title: 'Tag: Fire'
-worktag: Fire
+label: Fire
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

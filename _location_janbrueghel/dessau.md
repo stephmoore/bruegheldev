@@ -1,10 +1,10 @@
 ---
 pid: dessau
 title: 'Location: Dessau'
-location_country: Germany
-location_city: Dessau
+category: Germany
+label: Dessau
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '055'
+order: '050'
 permalink: "/janbrueghel/locations/dessau/"
 ---

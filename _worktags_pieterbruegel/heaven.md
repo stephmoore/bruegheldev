@@ -1,7 +1,7 @@
 ---
 pid: heaven
 title: 'Tag: Heaven'
-worktag: Heaven
+label: Heaven
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

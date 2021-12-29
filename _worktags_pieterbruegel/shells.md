@@ -1,7 +1,7 @@
 ---
 pid: shells
 title: 'Tag: Shells'
-worktag: Shells
+label: Shells
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

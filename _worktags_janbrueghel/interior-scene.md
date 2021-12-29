@@ -1,7 +1,7 @@
 ---
 pid: interior-scene
 title: 'Tag: Interior Scene'
-worktag: Interior Scene
+label: Interior Scene
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: allegory
 title: 'Tag: Allegory'
-worktag: Allegory
+label: Allegory
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

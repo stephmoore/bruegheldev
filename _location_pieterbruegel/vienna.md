@@ -1,10 +1,10 @@
 ---
 pid: vienna
 title: 'Location: Vienna'
-location_country: Austria
-location_city: Vienna
+category: Austria
+label: Vienna
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '26'
+order: '25'
 permalink: "/pieterbruegel/locations/vienna/"
 ---

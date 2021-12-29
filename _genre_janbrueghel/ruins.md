@@ -2,7 +2,6 @@
 pid: ruins
 title: 'Genre: Ruins'
 label: Ruins
-genre: Ruins
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel
 order: '09'

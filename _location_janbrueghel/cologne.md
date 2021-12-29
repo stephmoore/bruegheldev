@@ -1,10 +1,10 @@
 ---
 pid: cologne
 title: 'Location: Cologne'
-location_country: Germany
-location_city: Cologne
+category: Germany
+label: Cologne
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '053'
+order: '048'
 permalink: "/janbrueghel/locations/cologne/"
 ---

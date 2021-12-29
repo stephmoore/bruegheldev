@@ -1,7 +1,7 @@
 ---
 pid: demons
 title: 'Tag: Demons'
-worktag: Demons
+label: Demons
 category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

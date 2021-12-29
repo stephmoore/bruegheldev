@@ -1,7 +1,7 @@
 ---
 pid: fish
 title: 'Tag: Fish'
-worktag: Fish
+label: Fish
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

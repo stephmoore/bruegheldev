@@ -1,7 +1,7 @@
 ---
 pid: antwerp
 title: 'Tag: Antwerp'
-worktag: Antwerp
+label: Antwerp
 category: Locations
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

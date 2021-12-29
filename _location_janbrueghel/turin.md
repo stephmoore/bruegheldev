@@ -1,10 +1,10 @@
 ---
 pid: turin
 title: 'Location: Turin'
-location_country: Italy
-location_city: Turin
+category: Italy
+label: Turin
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '078'
+order: '073'
 permalink: "/janbrueghel/locations/turin/"
 ---

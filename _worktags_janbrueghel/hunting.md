@@ -1,7 +1,7 @@
 ---
 pid: hunting
 title: 'Tag: Hunting'
-worktag: Hunting
+label: Hunting
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

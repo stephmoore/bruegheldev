@@ -1,7 +1,7 @@
 ---
 pid: pieter-bruegel
 title: 'Tag: Pieter Bruegel'
-worktag: Pieter Bruegel
+label: Pieter Bruegel
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

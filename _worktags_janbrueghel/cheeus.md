@@ -1,7 +1,7 @@
 ---
 pid: cheeus
 title: 'Tag: Cheeus'
-worktag: Cheeus
+label: Cheeus
 category: Collectors
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

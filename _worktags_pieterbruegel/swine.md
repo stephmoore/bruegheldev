@@ -1,7 +1,7 @@
 ---
 pid: swine
 title: 'Tag: Swine'
-worktag: Swine
+label: Swine
 category: Animals
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

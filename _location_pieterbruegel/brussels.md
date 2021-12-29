@@ -1,8 +1,8 @@
 ---
 pid: brussels
 title: 'Location: Brussels'
-location_country: Belgium
-location_city: Brussels
+category: Belgium
+label: Brussels
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '06'

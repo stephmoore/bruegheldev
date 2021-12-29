@@ -1,7 +1,7 @@
 ---
 pid: peter
 title: 'Tag: Peter'
-worktag: Peter
+label: Peter
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

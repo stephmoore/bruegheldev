@@ -1,8 +1,8 @@
 ---
 pid: antwerp
 title: 'Location: Antwerp'
-location_country: Belgium
-location_city: Antwerp
+category: Belgium
+label: Antwerp
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '01'

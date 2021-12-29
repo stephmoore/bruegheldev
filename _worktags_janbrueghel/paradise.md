@@ -1,7 +1,7 @@
 ---
 pid: paradise
 title: 'Tag: Paradise'
-worktag: Paradise
+label: Paradise
 category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

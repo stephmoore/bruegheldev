@@ -1,7 +1,7 @@
 ---
 pid: archduke-ernst
 title: 'Tag: Archduke Ernst'
-worktag: Archduke Ernst
+label: Archduke Ernst
 category: Collectors
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

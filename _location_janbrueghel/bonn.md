@@ -1,10 +1,10 @@
 ---
 pid: bonn
 title: 'Location: Bonn'
-location_country: Germany
-location_city: Bonn
+category: Germany
+label: Bonn
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '051'
+order: '046'
 permalink: "/janbrueghel/locations/bonn/"
 ---

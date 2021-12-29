@@ -1,7 +1,7 @@
 ---
 pid: apocalyptic
 title: 'Tag: Apocalyptic'
-worktag: Apocalyptic
+label: Apocalyptic
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

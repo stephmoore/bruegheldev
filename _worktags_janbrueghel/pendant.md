@@ -1,7 +1,7 @@
 ---
 pid: pendant
 title: 'Tag: Pendant'
-worktag: Pendant
+label: Pendant
 category: Image types
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,10 +1,10 @@
 ---
 pid: moscow
 title: 'Location: Moscow'
-location_country: Russia
-location_city: Moscow
+category: Russia
+label: Moscow
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '095'
+order: '090'
 permalink: "/janbrueghel/locations/moscow/"
 ---

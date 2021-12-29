@@ -1,10 +1,10 @@
 ---
 pid: nantes
 title: 'Location: Nantes'
-location_country: France
-location_city: Nantes
+category: France
+label: Nantes
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '039'
+order: '034'
 permalink: "/janbrueghel/locations/nantes/"
 ---

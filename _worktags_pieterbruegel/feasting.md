@@ -1,7 +1,7 @@
 ---
 pid: feasting
 title: 'Tag: Feasting'
-worktag: Feasting
+label: Feasting
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

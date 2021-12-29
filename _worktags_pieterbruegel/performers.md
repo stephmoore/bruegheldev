@@ -1,7 +1,7 @@
 ---
 pid: performers
 title: 'Tag: Performers'
-worktag: Performers
+label: Performers
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

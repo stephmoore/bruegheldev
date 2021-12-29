@@ -1,7 +1,7 @@
 ---
 pid: leaves
 title: 'Tag: Leaves'
-worktag: Leaves
+label: Leaves
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

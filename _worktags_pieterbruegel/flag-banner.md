@@ -1,7 +1,7 @@
 ---
 pid: flag-banner
 title: 'Tag: Flag/Banner'
-worktag: Flag/Banner
+label: Flag/Banner
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

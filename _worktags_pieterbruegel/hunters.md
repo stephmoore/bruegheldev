@@ -1,7 +1,7 @@
 ---
 pid: hunters
 title: 'Tag: Hunters'
-worktag: Hunters
+label: Hunters
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

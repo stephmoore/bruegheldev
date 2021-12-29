@@ -1,7 +1,7 @@
 ---
 pid: bleaching
 title: 'Tag: Bleaching'
-worktag: Bleaching
+label: Bleaching
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

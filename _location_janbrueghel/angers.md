@@ -1,10 +1,10 @@
 ---
 pid: angers
 title: 'Location: Angers'
-location_country: France
-location_city: Angers
+category: France
+label: Angers
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '029'
+order: '024'
 permalink: "/janbrueghel/locations/angers/"
 ---

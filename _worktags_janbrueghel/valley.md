@@ -1,7 +1,7 @@
 ---
 pid: valley
 title: 'Tag: Valley'
-worktag: Valley
+label: Valley
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

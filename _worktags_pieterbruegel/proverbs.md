@@ -1,7 +1,7 @@
 ---
 pid: proverbs
 title: 'Tag: Proverbs'
-worktag: Proverbs
+label: Proverbs
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

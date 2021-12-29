@@ -1,7 +1,7 @@
 ---
 pid: tower
 title: 'Tag: Tower'
-worktag: Tower
+label: Tower
 category: Architecture
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

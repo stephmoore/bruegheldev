@@ -1,7 +1,7 @@
 ---
 pid: friars
 title: 'Tag: Friars'
-worktag: Friars
+label: Friars
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

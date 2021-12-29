@@ -1,10 +1,10 @@
 ---
 pid: prague
 title: 'Location: Prague'
-location_country: Czech Republic
-location_city: Prague
+category: Czech Republic
+label: Prague
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '015'
+order: '014'
 permalink: "/janbrueghel/locations/prague/"
 ---

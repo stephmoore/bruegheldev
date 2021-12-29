@@ -1,10 +1,10 @@
 ---
 pid: berlin
 title: 'Location: Berlin'
-location_country: Germany
-location_city: Berlin
+category: Germany
+label: Berlin
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '050'
+order: '045'
 permalink: "/janbrueghel/locations/berlin/"
 ---

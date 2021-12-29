@@ -1,7 +1,7 @@
 ---
 pid: traveling
 title: 'Tag: Traveling'
-worktag: Traveling
+label: Traveling
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

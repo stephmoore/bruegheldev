@@ -1,7 +1,7 @@
 ---
 pid: village
 title: 'Tag: Village'
-worktag: Village
+label: Village
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

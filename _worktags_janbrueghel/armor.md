@@ -1,7 +1,7 @@
 ---
 pid: armor
 title: 'Tag: Armor'
-worktag: Armor
+label: Armor
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,10 +1,10 @@
 ---
 pid: bergen
 title: 'Location: Bergen'
-location_country: Norway
-location_city: Bergen
+category: Norway
+label: Bergen
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '088'
+order: '083'
 permalink: "/janbrueghel/locations/bergen/"
 ---

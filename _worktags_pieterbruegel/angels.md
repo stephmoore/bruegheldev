@@ -1,7 +1,7 @@
 ---
 pid: angels
 title: 'Tag: Angels'
-worktag: Angels
+label: Angels
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

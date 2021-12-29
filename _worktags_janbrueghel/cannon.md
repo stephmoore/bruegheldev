@@ -1,7 +1,7 @@
 ---
 pid: cannon
 title: 'Tag: Cannon'
-worktag: Cannon
+label: Cannon
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

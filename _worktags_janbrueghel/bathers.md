@@ -1,7 +1,7 @@
 ---
 pid: bathers
 title: 'Tag: Bathers'
-worktag: Bathers
+label: Bathers
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

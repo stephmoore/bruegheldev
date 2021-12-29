@@ -1,7 +1,7 @@
 ---
 pid: ship
 title: 'Tag: Ship'
-worktag: Ship
+label: Ship
 category: Transportation
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,10 +1,10 @@
 ---
 pid: aachen
 title: 'Location: Aachen'
-location_country: Germany
-location_city: Aachen
+category: Germany
+label: Aachen
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '047'
+order: '042'
 permalink: "/janbrueghel/locations/aachen/"
 ---

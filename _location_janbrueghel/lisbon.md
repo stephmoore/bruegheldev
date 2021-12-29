@@ -1,10 +1,10 @@
 ---
 pid: lisbon
 title: 'Location: Lisbon'
-location_country: Portugal
-location_city: Lisbon
+category: Portugal
+label: Lisbon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '092'
+order: '087'
 permalink: "/janbrueghel/locations/lisbon/"
 ---

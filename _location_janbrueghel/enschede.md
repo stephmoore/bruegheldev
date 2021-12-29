@@ -1,10 +1,10 @@
 ---
 pid: enschede
 title: 'Location: Enschede'
-location_country: Netherlands
-location_city: Enschede
+category: Netherlands
+label: Enschede
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '082'
+order: '077'
 permalink: "/janbrueghel/locations/enschede/"
 ---

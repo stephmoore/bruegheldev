@@ -1,7 +1,7 @@
 ---
 pid: habsburg
 title: 'Tag: Habsburg'
-worktag: Habsburg
+label: Habsburg
 category: Collectors
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

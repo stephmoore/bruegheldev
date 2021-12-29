@@ -1,7 +1,7 @@
 ---
 pid: archangel-michael
 title: 'Tag: Archangel Michael'
-worktag: Archangel Michael
+label: Archangel Michael
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

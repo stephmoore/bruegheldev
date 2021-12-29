@@ -1,7 +1,7 @@
 ---
 pid: encyclopedic
 title: 'Tag: Encyclopedic'
-worktag: Encyclopedic
+label: Encyclopedic
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

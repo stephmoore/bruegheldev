@@ -1,7 +1,7 @@
 ---
 pid: insects
 title: 'Tag: Insects'
-worktag: Insects
+label: Insects
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: sculpture
 title: 'Tag: Sculpture'
-worktag: Sculpture
+label: Sculpture
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

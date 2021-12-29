@@ -1,7 +1,7 @@
 ---
 pid: rottenhammer
 title: 'Tag: Rottenhammer'
-worktag: Rottenhammer
+label: Rottenhammer
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

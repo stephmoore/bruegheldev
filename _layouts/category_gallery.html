@@ -9,13 +9,13 @@ layout: page
     {% assign counter = 0 %}
     {% for item in collection %}
       {% if layout.cat == 'worktags' %}
-        {% if item[layout.cat] contains page.worktag %}
-          {% include gallery_item.html value=page.worktag item=item %}
+        {% if item[layout.cat] contains page.label %}
+          {% include gallery_item.html value=page.label item=item %}
           {% assign counter = counter | plus: 1 %}
         {% endif %}
       {% else %}
-        {% if item[layout.cat] == page[layout.cat] %}
-          {% include gallery_item.html value=layout.cat item=item %}
+        {% if item[layout.cat] == page.label %}
+          {% include gallery_item.html value=page.label item=item %}
           {% assign counter = counter | plus: 1 %}
         {% endif %}
       {% endif %}
@@ -25,6 +25,6 @@ layout: page
 
 <script>
  $( document ).ready(function() {
-  $('#result_count').append("Displaying {{ counter }} results");
+    $('#result_count').append("Displaying {{ counter }} result{% unless counter == 1 %}s{% endunless %}");
  });
 </script>

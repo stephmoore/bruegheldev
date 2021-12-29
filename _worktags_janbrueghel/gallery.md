@@ -1,7 +1,7 @@
 ---
 pid: gallery
 title: 'Tag: Gallery'
-worktag: Gallery
+label: Gallery
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: donkey
 title: 'Tag: Donkey'
-worktag: Donkey
+label: Donkey
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: sailors
 title: 'Tag: Sailors'
-worktag: Sailors
+label: Sailors
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

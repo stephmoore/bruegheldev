@@ -1,7 +1,7 @@
 ---
 pid: shepherds
 title: 'Tag: Shepherds'
-worktag: Shepherds
+label: Shepherds
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

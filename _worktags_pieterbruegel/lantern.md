@@ -1,7 +1,7 @@
 ---
 pid: lantern
 title: 'Tag: Lantern'
-worktag: Lantern
+label: Lantern
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

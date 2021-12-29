@@ -1,7 +1,7 @@
 ---
 pid: staffage
 title: 'Tag: Staffage'
-worktag: Staffage
+label: Staffage
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

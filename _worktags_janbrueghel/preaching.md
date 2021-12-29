@@ -1,7 +1,7 @@
 ---
 pid: preaching
 title: 'Tag: Preaching'
-worktag: Preaching
+label: Preaching
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

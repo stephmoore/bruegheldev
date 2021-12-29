@@ -1,7 +1,7 @@
 ---
 pid: banquet
 title: 'Tag: Banquet'
-worktag: Banquet
+label: Banquet
 category: Social life
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

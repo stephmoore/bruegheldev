@@ -1,7 +1,7 @@
 ---
 pid: francken
 title: 'Tag: Francken'
-worktag: Francken
+label: Francken
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

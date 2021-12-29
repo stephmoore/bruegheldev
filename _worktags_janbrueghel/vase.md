@@ -1,8 +1,8 @@
 ---
 pid: vase
 title: 'Tag: Vase'
-worktag: Vase
-category: Things
+label: Vase
+category: Containers
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '180'

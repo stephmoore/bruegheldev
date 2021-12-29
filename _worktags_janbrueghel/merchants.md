@@ -1,7 +1,7 @@
 ---
 pid: merchants
 title: 'Tag: Merchants'
-worktag: Merchants
+label: Merchants
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: books
 title: 'Tag: Books'
-worktag: Books
+label: Books
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

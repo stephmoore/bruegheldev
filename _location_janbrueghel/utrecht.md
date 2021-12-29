@@ -1,10 +1,10 @@
 ---
 pid: utrecht
 title: 'Location: Utrecht'
-location_country: Netherlands
-location_city: Utrecht
+category: Netherlands
+label: Utrecht
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '087'
+order: '082'
 permalink: "/janbrueghel/locations/utrecht/"
 ---

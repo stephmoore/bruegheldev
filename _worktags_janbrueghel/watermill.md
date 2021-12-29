@@ -1,7 +1,7 @@
 ---
 pid: watermill
 title: 'Tag: Watermill'
-worktag: Watermill
+label: Watermill
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

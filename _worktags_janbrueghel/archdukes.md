@@ -1,7 +1,7 @@
 ---
 pid: archdukes
 title: 'Tag: Archdukes'
-worktag: Archdukes
+label: Archdukes
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: schongauer
 title: 'Tag: Schongauer'
-worktag: Schongauer
+label: Schongauer
 category: Associated artists
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

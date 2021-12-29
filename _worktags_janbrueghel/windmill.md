@@ -1,7 +1,7 @@
 ---
 pid: windmill
 title: 'Tag: Windmill'
-worktag: Windmill
+label: Windmill
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

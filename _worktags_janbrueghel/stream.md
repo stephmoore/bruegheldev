@@ -1,7 +1,7 @@
 ---
 pid: stream
 title: 'Tag: Stream'
-worktag: Stream
+label: Stream
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

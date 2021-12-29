@@ -1,10 +1,10 @@
 ---
 pid: corsham
 title: 'Location: Corsham'
-location_country: England
-location_city: Corsham
+category: England
+label: Corsham
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '019'
+order: '018'
 permalink: "/janbrueghel/locations/corsham/"
 ---

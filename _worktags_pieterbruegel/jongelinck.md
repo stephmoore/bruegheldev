@@ -1,7 +1,7 @@
 ---
 pid: jongelinck
 title: 'Tag: Jongelinck'
-worktag: Jongelinck
+label: Jongelinck
 category: Collectors
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

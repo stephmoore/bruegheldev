@@ -1,7 +1,7 @@
 ---
 pid: coach
 title: 'Tag: Coach'
-worktag: Coach
+label: Coach
 category: Transportation
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

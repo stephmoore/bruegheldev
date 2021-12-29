@@ -1,8 +1,8 @@
 ---
 pid: basket
 title: 'Tag: Basket'
-worktag: Basket
-category: Things
+label: Basket
+category: Containers
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '011'

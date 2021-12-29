@@ -1,7 +1,7 @@
 ---
 pid: witches
 title: 'Tag: Witches'
-worktag: Witches
+label: Witches
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

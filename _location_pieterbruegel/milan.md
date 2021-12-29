@@ -1,8 +1,8 @@
 ---
 pid: milan
 title: 'Location: Milan'
-location_country: Italy
-location_city: Milan
+category: Italy
+label: Milan
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '15'

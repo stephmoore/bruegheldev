@@ -1,7 +1,7 @@
 ---
 pid: temple
 title: 'Tag: Temple'
-worktag: Temple
+label: Temple
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

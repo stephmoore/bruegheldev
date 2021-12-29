@@ -1,7 +1,7 @@
 ---
 pid: momper
 title: 'Tag: Momper'
-worktag: Momper
+label: Momper
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

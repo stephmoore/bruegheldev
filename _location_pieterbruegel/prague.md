@@ -1,8 +1,8 @@
 ---
 pid: prague
 title: 'Location: Prague'
-location_country: Czech Republic
-location_city: Prague
+category: Czech Republic
+label: Prague
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '21'

@@ -1,8 +1,8 @@
 ---
 pid: florence
 title: 'Location: Florence'
-location_country: Italy
-location_city: Florence
+category: Italy
+label: Florence
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '10'

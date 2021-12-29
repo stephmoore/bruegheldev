@@ -1,7 +1,7 @@
 ---
 pid: fruit
 title: 'Tag: Fruit'
-worktag: Fruit
+label: Fruit
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

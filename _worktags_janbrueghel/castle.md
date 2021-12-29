@@ -1,7 +1,7 @@
 ---
 pid: castle
 title: 'Tag: Castle'
-worktag: Castle
+label: Castle
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

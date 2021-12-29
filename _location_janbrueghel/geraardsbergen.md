@@ -1,10 +1,10 @@
 ---
 pid: geraardsbergen
 title: 'Location: Geraardsbergen'
-location_country: Belgium
-location_city: Geraardsbergen
+category: Belgium
+label: Geraardsbergen
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '007'
+order: '006'
 permalink: "/janbrueghel/locations/geraardsbergen/"
 ---

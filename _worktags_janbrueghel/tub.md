@@ -1,7 +1,7 @@
 ---
 pid: tub
 title: 'Tag: Tub'
-worktag: Tub
+label: Tub
 category: Containers
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

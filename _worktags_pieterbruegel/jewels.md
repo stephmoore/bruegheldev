@@ -1,7 +1,7 @@
 ---
 pid: jewels
 title: 'Tag: Jewels'
-worktag: Jewels
+label: Jewels
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

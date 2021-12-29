@@ -1,10 +1,10 @@
 ---
 pid: frankfurt
 title: 'Location: Frankfurt'
-location_country: Germany
-location_city: Frankfurt
+category: Germany
+label: Frankfurt
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '057'
+order: '052'
 permalink: "/janbrueghel/locations/frankfurt/"
 ---

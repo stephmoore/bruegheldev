@@ -1,7 +1,7 @@
 ---
 pid: de-backer
 title: 'Tag: De Backer'
-worktag: De Backer
+label: De Backer
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

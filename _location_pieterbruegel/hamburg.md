@@ -1,8 +1,8 @@
 ---
 pid: hamburg
 title: 'Location: Hamburg'
-location_country: Germany
-location_city: Hamburg
+category: Germany
+label: Hamburg
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '11'

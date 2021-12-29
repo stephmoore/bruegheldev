@@ -1,8 +1,8 @@
 ---
 pid: besancon
 title: 'Location: Besançon'
-location_country: France
-location_city: Besançon
+category: France
+label: Besançon
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '04'

@@ -1,7 +1,7 @@
 ---
 pid: kermis
 title: 'Tag: Kermis'
-worktag: Kermis
+label: Kermis
 category: Social life
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

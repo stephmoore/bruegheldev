@@ -1,10 +1,10 @@
 ---
 pid: pau
 title: 'Location: Pau'
-location_country: France
-location_city: Pau
+category: France
+label: Pau
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '043'
+order: '038'
 permalink: "/janbrueghel/locations/pau/"
 ---

@@ -1,7 +1,7 @@
 ---
 pid: fishermen
 title: 'Tag: Fishermen'
-worktag: Fishermen
+label: Fishermen
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

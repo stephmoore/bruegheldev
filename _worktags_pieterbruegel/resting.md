@@ -1,7 +1,7 @@
 ---
 pid: resting
 title: 'Tag: Resting'
-worktag: Resting
+label: Resting
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

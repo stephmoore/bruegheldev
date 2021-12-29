@@ -1,7 +1,7 @@
 ---
 pid: food
 title: 'Tag: Food'
-worktag: Food
+label: Food
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

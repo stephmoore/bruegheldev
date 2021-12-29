@@ -1,7 +1,7 @@
 ---
 pid: telescope
 title: 'Tag: Telescope'
-worktag: Telescope
+label: Telescope
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

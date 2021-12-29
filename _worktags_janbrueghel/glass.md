@@ -1,8 +1,8 @@
 ---
 pid: glass
 title: 'Tag: Glass'
-worktag: Glass
-category: Things
+label: Glass
+category: Containers
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel
 order: '077'

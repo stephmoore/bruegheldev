@@ -2,6 +2,6 @@
 pid: print
 layout: objectpage_pieterbruegel
 title: Prints
-object_type: Print
+label: Print
 permalink: /pieterbruegel/object-types/print/
 ---

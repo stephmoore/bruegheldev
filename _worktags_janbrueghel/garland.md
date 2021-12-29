@@ -1,7 +1,7 @@
 ---
 pid: garland
 title: 'Tag: Garland'
-worktag: Garland
+label: Garland
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

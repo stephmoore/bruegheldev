@@ -1,10 +1,10 @@
 ---
 pid: geneva
 title: 'Location: Geneva'
-location_country: Switzerland
-location_city: Geneva
+category: Switzerland
+label: Geneva
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '103'
+order: '098'
 permalink: "/janbrueghel/locations/geneva/"
 ---

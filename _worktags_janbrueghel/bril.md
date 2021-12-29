@@ -1,7 +1,7 @@
 ---
 pid: bril
 title: 'Tag: Bril'
-worktag: Bril
+label: Bril
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

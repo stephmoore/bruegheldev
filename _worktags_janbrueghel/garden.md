@@ -1,7 +1,7 @@
 ---
 pid: garden
 title: 'Tag: Garden'
-worktag: Garden
+label: Garden
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

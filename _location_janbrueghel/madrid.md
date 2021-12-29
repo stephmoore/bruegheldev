@@ -1,10 +1,10 @@
 ---
 pid: madrid
 title: 'Location: Madrid'
-location_country: Spain
-location_city: Madrid
+category: Spain
+label: Madrid
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '100'
+order: '095'
 permalink: "/janbrueghel/locations/madrid/"
 ---

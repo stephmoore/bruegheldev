@@ -1,7 +1,7 @@
 ---
 pid: field
 title: 'Tag: Field'
-worktag: Field
+label: Field
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

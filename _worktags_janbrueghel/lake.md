@@ -1,7 +1,7 @@
 ---
 pid: lake
 title: 'Tag: Lake'
-worktag: Lake
+label: Lake
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

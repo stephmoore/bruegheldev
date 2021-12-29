@@ -1,7 +1,7 @@
 ---
 pid: inn
 title: 'Tag: Inn'
-worktag: Inn
+label: Inn
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

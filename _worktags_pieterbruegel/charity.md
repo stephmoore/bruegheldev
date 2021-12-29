@@ -1,7 +1,7 @@
 ---
 pid: charity
 title: 'Tag: Charity'
-worktag: Charity
+label: Charity
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

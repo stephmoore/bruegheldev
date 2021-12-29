@@ -1,7 +1,7 @@
 ---
 pid: tools
 title: 'Tag: Tools'
-worktag: Tools
+label: Tools
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

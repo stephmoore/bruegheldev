@@ -1,7 +1,7 @@
 ---
 pid: globe
 title: 'Tag: Globe'
-worktag: Globe
+label: Globe
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

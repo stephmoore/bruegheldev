@@ -1,8 +1,8 @@
 ---
 pid: madrid
 title: 'Location: Madrid'
-location_country: Spain
-location_city: Madrid
+category: Spain
+label: Madrid
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '14'

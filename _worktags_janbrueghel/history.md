@@ -1,7 +1,7 @@
 ---
 pid: history
 title: 'Tag: History'
-worktag: History
+label: History
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

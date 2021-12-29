@@ -1,7 +1,7 @@
 ---
 pid: cattle
 title: 'Tag: Cattle'
-worktag: Cattle
+label: Cattle
 category: Animals
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

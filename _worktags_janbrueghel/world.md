@@ -1,7 +1,7 @@
 ---
 pid: world
 title: 'Tag: World'
-worktag: World
+label: World
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: hellmouthe
 title: 'Tag: Hellmouthe'
-worktag: Hellmouthe
+label: Hellmouthe
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: barn
 title: 'Tag: Barn'
-worktag: Barn
+label: Barn
 category: Architecture
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

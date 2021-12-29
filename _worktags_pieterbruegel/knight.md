@@ -1,7 +1,7 @@
 ---
 pid: knight
 title: 'Tag: Knight'
-worktag: Knight
+label: Knight
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

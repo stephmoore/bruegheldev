@@ -1,10 +1,10 @@
 ---
 pid: kromeriz
 title: 'Location: Kroměříž'
-location_country: Czech Republic
-location_city: Kroměříž
+category: Czech Republic
+label: Kroměříž
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '014'
+order: '013'
 permalink: "/janbrueghel/locations/kromeriz/"
 ---

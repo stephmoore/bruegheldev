@@ -1,7 +1,7 @@
 ---
 pid: cart
 title: 'Tag: Cart'
-worktag: Cart
+label: Cart
 category: Transportation
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

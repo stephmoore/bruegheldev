@@ -1,10 +1,10 @@
 ---
 pid: riggisberg
 title: 'Location: Riggisberg'
-location_country: Switzerland
-location_city: Riggisberg
+category: Switzerland
+label: Riggisberg
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '104'
+order: '099'
 permalink: "/janbrueghel/locations/riggisberg/"
 ---

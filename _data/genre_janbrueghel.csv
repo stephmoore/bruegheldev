@@ -1,17 +1,17 @@
-pid,title,label,genre,collection,layout,order,permalink
-allegory,Genre: Allegory,Allegory,Allegory,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/allegory/
-classical-history,Genre: Classical History,Classical History,Classical History,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/classical-history/
-classical-mythology,Genre: Classical Mythology,Classical Mythology,Classical Mythology,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/classical-mythology/
-flower-still-life-and-nature-study,Genre: Flower Still-Life and Nature Study,Flower Still-Life and Nature Study,Flower Still-Life and Nature Study,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/flower-still-life-and-nature-study/
-gallery-interior,Genre: Gallery Interior,Gallery Interior,Gallery Interior,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/gallery-interior/
-garland,Genre: Garland,Garland,Garland,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/garland/
-landscape,Genre: Landscape,Landscape,Landscape,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/landscape/
-portrait,Genre: Portrait,Portrait,Portrait,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/portrait/
-religious,Genre: Religious,Religious,Religious,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/religious/
-ruins,Genre: Ruins,Ruins,Ruins,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/ruins/
-seascape,Genre: Seascape,Seascape,Seascape,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/seascape/
-staffage-in-church-interior,Genre: Staffage in Church Interior,Staffage in Church Interior,Staffage in Church Interior,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/staffage-in-church-interior/
-staffage-in-landscape,Genre: Staffage in Landscape,Staffage in Landscape,Staffage in Landscape,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/staffage-in-landscape/
-study,Genre: Study,Study,Study,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/study/
-urban-common-and-peasant-life,"Genre: Urban, Common and Peasant Life","Urban, Common and Peasant Life","Urban, Common and Peasant Life",genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/urban-common-and-peasant-life/
-village-town-and-cityscape,"Genre: Village, Town and Cityscape","Village, Town and Cityscape","Village, Town and Cityscape",genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/village-town-and-cityscape/
+pid,title,label,collection,layout,order,permalink
+allegory,Genre: Allegory,Allegory,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/allegory/
+classical-history,Genre: Classical History,Classical History,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/classical-history/
+classical-mythology,Genre: Classical Mythology,Classical Mythology,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/classical-mythology/
+flower-still-life-and-nature-study,Genre: Flower Still-Life and Nature Study,Flower Still-Life and Nature Study,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/flower-still-life-and-nature-study/
+gallery-interior,Genre: Gallery Interior,Gallery Interior,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/gallery-interior/
+garland,Genre: Garland,Garland,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/garland/
+landscape,Genre: Landscape,Landscape,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/landscape/
+portrait,Genre: Portrait,Portrait,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/portrait/
+religious,Genre: Religious,Religious,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/religious/
+ruins,Genre: Ruins,Ruins,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/ruins/
+seascape,Genre: Seascape,Seascape,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/seascape/
+staffage-in-church-interior,Genre: Staffage in Church Interior,Staffage in Church Interior,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/staffage-in-church-interior/
+staffage-in-landscape,Genre: Staffage in Landscape,Staffage in Landscape,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/staffage-in-landscape/
+study,Genre: Study,Study,genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/study/
+urban-common-and-peasant-life,"Genre: Urban, Common and Peasant Life","Urban, Common and Peasant Life",genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/urban-common-and-peasant-life/
+village-town-and-cityscape,"Genre: Village, Town and Cityscape","Village, Town and Cityscape",genres_janbrueghel,genrepage_janbrueghel,,/janbrueghel/genres/village-town-and-cityscape/

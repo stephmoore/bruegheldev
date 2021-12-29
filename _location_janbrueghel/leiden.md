@@ -1,10 +1,10 @@
 ---
 pid: leiden
 title: 'Location: Leiden'
-location_country: Netherlands
-location_city: Leiden
+category: Netherlands
+label: Leiden
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '084'
+order: '079'
 permalink: "/janbrueghel/locations/leiden/"
 ---

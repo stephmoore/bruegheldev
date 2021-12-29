@@ -1,7 +1,7 @@
 ---
 pid: bethlehem
 title: 'Tag: Bethlehem'
-worktag: Bethlehem
+label: Bethlehem
 category: Locations
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: elements
 title: 'Tag: Elements'
-worktag: Elements
+label: Elements
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

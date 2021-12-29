@@ -1,10 +1,10 @@
 ---
 pid: montreal
 title: 'Location: Montreal'
-location_country: Canada
-location_city: Montreal
+category: Canada
+label: Montreal
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '010'
+order: '009'
 permalink: "/janbrueghel/locations/montreal/"
 ---

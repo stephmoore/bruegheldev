@@ -1,7 +1,7 @@
 ---
 pid: basket
 title: 'Tag: Basket'
-worktag: Basket
+label: Basket
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

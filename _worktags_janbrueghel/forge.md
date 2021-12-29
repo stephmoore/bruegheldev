@@ -1,7 +1,7 @@
 ---
 pid: forge
 title: 'Tag: Forge'
-worktag: Forge
+label: Forge
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

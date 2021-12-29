@@ -1,7 +1,7 @@
 ---
 pid: balance
 title: 'Tag: Balance'
-worktag: Balance
+label: Balance
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: non-westerners
 title: 'Tag: Non-Westerners'
-worktag: Non-Westerners
+label: Non-Westerners
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

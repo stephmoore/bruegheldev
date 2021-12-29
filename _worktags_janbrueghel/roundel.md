@@ -1,7 +1,7 @@
 ---
 pid: roundel
 title: 'Tag: Roundel'
-worktag: Roundel
+label: Roundel
 category: Image types
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

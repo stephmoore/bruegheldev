@@ -1,8 +1,8 @@
 ---
 pid: london
 title: 'Location: London'
-location_country: England
-location_city: London
+category: England
+label: London
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '13'

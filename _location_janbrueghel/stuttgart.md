@@ -1,10 +1,10 @@
 ---
 pid: stuttgart
 title: 'Location: Stuttgart'
-location_country: Germany
-location_city: Stuttgart
+category: Germany
+label: Stuttgart
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '068'
+order: '063'
 permalink: "/janbrueghel/locations/stuttgart/"
 ---

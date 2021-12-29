@@ -1,10 +1,10 @@
 ---
 pid: kassel
 title: 'Location: Kassel'
-location_country: Germany
-location_city: Kassel
+category: Germany
+label: Kassel
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '061'
+order: '056'
 permalink: "/janbrueghel/locations/kassel/"
 ---

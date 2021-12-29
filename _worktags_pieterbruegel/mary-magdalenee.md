@@ -1,7 +1,7 @@
 ---
 pid: mary-magdalenee
 title: 'Tag: Mary Magdalenee'
-worktag: Mary Magdalenee
+label: Mary Magdalenee
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,7 +1,7 @@
 ---
 pid: ruins
 title: 'Tag: Ruins'
-worktag: Ruins
+label: Ruins
 category: Architecture
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

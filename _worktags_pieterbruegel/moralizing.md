@@ -1,7 +1,7 @@
 ---
 pid: moralizing
 title: 'Tag: Moralizing'
-worktag: Moralizing
+label: Moralizing
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

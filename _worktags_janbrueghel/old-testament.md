@@ -1,7 +1,7 @@
 ---
 pid: old-testament
 title: 'Tag: Old Testament'
-worktag: Old Testament
+label: Old Testament
 category: Religious
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

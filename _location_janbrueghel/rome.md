@@ -1,10 +1,10 @@
 ---
 pid: rome
 title: 'Location: Rome'
-location_country: Italy
-location_city: Rome
+category: Italy
+label: Rome
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '077'
+order: '072'
 permalink: "/janbrueghel/locations/rome/"
 ---

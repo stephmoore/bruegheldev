@@ -2,6 +2,6 @@
 layout: objectpage_janbrueghel
 pid: painting
 title: Paintings
-object_type: Painting
+label: Painting
 permalink: /janbrueghel/object-types/painting/
 ---

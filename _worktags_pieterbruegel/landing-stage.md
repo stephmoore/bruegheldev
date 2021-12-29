@@ -1,7 +1,7 @@
 ---
 pid: landing-stage
 title: 'Tag: Landing stage'
-worktag: Landing stage
+label: Landing stage
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

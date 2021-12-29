@@ -1,8 +1,8 @@
 ---
 pid: oslo
 title: 'Location: Oslo'
-location_country: Norway
-location_city: Oslo
+category: Norway
+label: Oslo
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '18'

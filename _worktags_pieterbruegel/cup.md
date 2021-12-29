@@ -1,7 +1,7 @@
 ---
 pid: cup
 title: 'Tag: Cup'
-worktag: Cup
+label: Cup
 category: Things
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

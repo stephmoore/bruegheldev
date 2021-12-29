@@ -1,7 +1,7 @@
 ---
 pid: whale
 title: 'Tag: Whale'
-worktag: Whale
+label: Whale
 category: Animals
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

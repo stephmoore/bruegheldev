@@ -1,10 +1,10 @@
 ---
 pid: hamburg
 title: 'Location: Hamburg'
-location_country: Germany
-location_city: Hamburg
+category: Germany
+label: Hamburg
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '059'
+order: '054'
 permalink: "/janbrueghel/locations/hamburg/"
 ---

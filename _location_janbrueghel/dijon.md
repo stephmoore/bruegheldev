@@ -1,10 +1,10 @@
 ---
 pid: dijon
 title: 'Location: Dijon'
-location_country: France
-location_city: Dijon
+category: France
+label: Dijon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '035'
+order: '030'
 permalink: "/janbrueghel/locations/dijon/"
 ---

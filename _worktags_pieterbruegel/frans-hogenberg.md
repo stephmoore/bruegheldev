@@ -1,7 +1,7 @@
 ---
 pid: frans-hogenberg
 title: 'Tag: Frans Hogenberg'
-worktag: Frans Hogenberg
+label: Frans Hogenberg
 category: Associated artists
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

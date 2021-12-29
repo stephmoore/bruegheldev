@@ -1,7 +1,7 @@
 ---
 pid: de-clerck
 title: 'Tag: De Clerck'
-worktag: De Clerck
+label: De Clerck
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

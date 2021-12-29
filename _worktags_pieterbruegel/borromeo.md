@@ -1,7 +1,7 @@
 ---
 pid: borromeo
 title: 'Tag: Borromeo'
-worktag: Borromeo
+label: Borromeo
 category: Collectors
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

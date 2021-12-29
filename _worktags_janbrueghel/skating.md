@@ -1,7 +1,7 @@
 ---
 pid: skating
 title: 'Tag: Skating'
-worktag: Skating
+label: Skating
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,7 +1,7 @@
 ---
 pid: spinning
 title: 'Tag: Spinning'
-worktag: Spinning
+label: Spinning
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

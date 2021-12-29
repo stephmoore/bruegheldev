@@ -1,7 +1,7 @@
 ---
 pid: bowl
 title: 'Tag: Bowl'
-worktag: Bowl
+label: Bowl
 category: Containers
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

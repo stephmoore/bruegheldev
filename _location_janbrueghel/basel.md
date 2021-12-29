@@ -1,10 +1,10 @@
 ---
 pid: basel
 title: 'Location: Basel'
-location_country: Switzerland
-location_city: Basel
+category: Switzerland
+label: Basel
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '102'
+order: '097'
 permalink: "/janbrueghel/locations/basel/"
 ---

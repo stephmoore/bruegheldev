@@ -1,7 +1,7 @@
 ---
 pid: winter
 title: 'Tag: Winter'
-worktag: Winter
+label: Winter
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

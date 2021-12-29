@@ -1,7 +1,7 @@
 ---
 pid: peasants
 title: 'Tag: Peasants'
-worktag: Peasants
+label: Peasants
 category: Persons/figures
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

@@ -1,10 +1,10 @@
 ---
 pid: florence
 title: 'Location: Florence'
-location_country: Italy
-location_city: Florence
+category: Italy
+label: Florence
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '073'
+order: '068'
 permalink: "/janbrueghel/locations/florence/"
 ---

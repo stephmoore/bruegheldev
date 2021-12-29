@@ -1,7 +1,7 @@
 ---
 pid: birds
 title: 'Tag: Birds'
-worktag: Birds
+label: Birds
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

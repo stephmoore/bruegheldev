@@ -1,10 +1,10 @@
 ---
 pid: besancon
 title: 'Location: Besançon'
-location_country: France
-location_city: Besançon
+category: France
+label: Besançon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '032'
+order: '027'
 permalink: "/janbrueghel/locations/besançon/"
 ---

@@ -1,7 +1,7 @@
 ---
 pid: chaos
 title: 'Tag: Chaos'
-worktag: Chaos
+label: Chaos
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -1,10 +1,10 @@
 ---
 pid: rome
 title: 'Location: Rome'
-location_country: Italy
-location_city: Rome
+category: Italy
+label: Rome
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
-order: '23'
+order: '22'
 permalink: "/pieterbruegel/locations/rome/"
 ---

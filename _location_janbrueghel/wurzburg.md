@@ -1,10 +1,10 @@
 ---
 pid: wurzburg
 title: 'Location: Würzburg'
-location_country: Germany
-location_city: Würzburg
+category: Germany
+label: Würzburg
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '070'
+order: '065'
 permalink: "/janbrueghel/locations/wurzburg/"
 ---

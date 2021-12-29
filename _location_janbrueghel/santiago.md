@@ -1,10 +1,10 @@
 ---
 pid: santiago
 title: 'Location: Santiago'
-location_country: Chile
-location_city: Santiago
+category: Chile
+label: Santiago
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '013'
+order: '012'
 permalink: "/janbrueghel/locations/santiago/"
 ---

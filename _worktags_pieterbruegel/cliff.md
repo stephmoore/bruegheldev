@@ -1,7 +1,7 @@
 ---
 pid: cliff
 title: 'Tag: Cliff'
-worktag: Cliff
+label: Cliff
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

@@ -2,7 +2,6 @@
 pid: landscape
 title: 'Genre: Landscape'
 label: Landscape
-genre: Landscape
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel
 order: '06'

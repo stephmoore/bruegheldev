@@ -1,8 +1,8 @@
 ---
 pid: oxford
 title: 'Location: Oxford'
-location_country: England
-location_city: Oxford
+category: England
+label: Oxford
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '19'

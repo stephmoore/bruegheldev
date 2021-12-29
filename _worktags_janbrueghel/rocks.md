@@ -1,7 +1,7 @@
 ---
 pid: rocks
 title: 'Tag: Rocks'
-worktag: Rocks
+label: Rocks
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

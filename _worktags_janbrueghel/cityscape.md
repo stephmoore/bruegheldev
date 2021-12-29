@@ -1,7 +1,7 @@
 ---
 pid: cityscape
 title: 'Tag: Cityscape'
-worktag: Cityscape
+label: Cityscape
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

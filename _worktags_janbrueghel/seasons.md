@@ -1,7 +1,7 @@
 ---
 pid: seasons
 title: 'Tag: Seasons'
-worktag: Seasons
+label: Seasons
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

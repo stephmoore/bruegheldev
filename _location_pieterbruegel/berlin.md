@@ -1,8 +1,8 @@
 ---
 pid: berlin
 title: 'Location: Berlin'
-location_country: Germany
-location_city: Berlin
+category: Germany
+label: Berlin
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '03'

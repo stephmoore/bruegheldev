@@ -1,7 +1,7 @@
 ---
 pid: harbor
 title: 'Tag: Harbor'
-worktag: Harbor
+label: Harbor
 category: Landscape features
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

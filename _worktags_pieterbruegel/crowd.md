@@ -1,7 +1,7 @@
 ---
 pid: crowd
 title: 'Tag: Crowd'
-worktag: Crowd
+label: Crowd
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

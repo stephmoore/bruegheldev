@@ -1,7 +1,7 @@
 ---
 pid: fools
 title: 'Tag: Fools'
-worktag: Fools
+label: Fools
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

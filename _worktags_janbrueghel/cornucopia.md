@@ -1,7 +1,7 @@
 ---
 pid: cornucopia
 title: 'Tag: Cornucopia'
-worktag: Cornucopia
+label: Cornucopia
 category: Things
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

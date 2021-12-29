@@ -1,7 +1,7 @@
 ---
 pid: market
 title: 'Tag: Market'
-worktag: Market
+label: Market
 category: Activities
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

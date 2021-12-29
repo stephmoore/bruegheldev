@@ -1,10 +1,10 @@
 ---
 pid: milan
 title: 'Location: Milan'
-location_country: Italy
-location_city: Milan
+category: Italy
+label: Milan
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '074'
+order: '069'
 permalink: "/janbrueghel/locations/milan/"
 ---

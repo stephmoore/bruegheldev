@@ -1,10 +1,10 @@
 ---
 pid: dublin
 title: 'Location: Dublin'
-location_country: Ireland
-location_city: Dublin
+category: Ireland
+label: Dublin
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '072'
+order: '067'
 permalink: "/janbrueghel/locations/dublin/"
 ---

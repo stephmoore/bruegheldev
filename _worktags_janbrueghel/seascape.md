@@ -1,7 +1,7 @@
 ---
 pid: seascape
 title: 'Tag: Seascape'
-worktag: Seascape
+label: Seascape
 category: Secondary genres
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

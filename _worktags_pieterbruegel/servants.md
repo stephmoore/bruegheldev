@@ -1,7 +1,7 @@
 ---
 pid: servants
 title: 'Tag: Servants'
-worktag: Servants
+label: Servants
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

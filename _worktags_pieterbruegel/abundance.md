@@ -1,7 +1,7 @@
 ---
 pid: abundance
 title: 'Tag: Abundance'
-worktag: Abundance
+label: Abundance
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

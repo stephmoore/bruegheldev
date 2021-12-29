@@ -1,8 +1,8 @@
 ---
 pid: peacock
 title: 'Tag: Peacock'
-worktag: Peacock
-category: Activities
+label: Peacock
+category: Animals
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel
 order: '115'

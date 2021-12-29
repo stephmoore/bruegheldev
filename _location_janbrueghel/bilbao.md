@@ -1,10 +1,10 @@
 ---
 pid: bilbao
 title: 'Location: Bilbao'
-location_country: Spain
-location_city: Bilbao
+category: Spain
+label: Bilbao
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '099'
+order: '094'
 permalink: "/janbrueghel/locations/bilbao/"
 ---

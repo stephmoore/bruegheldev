@@ -1,7 +1,7 @@
 ---
 pid: battle
 title: 'Tag: Battle'
-worktag: Battle
+label: Battle
 category: Activities
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

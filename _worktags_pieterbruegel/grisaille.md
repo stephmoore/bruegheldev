@@ -1,7 +1,7 @@
 ---
 pid: grisaille
 title: 'Tag: Grisaille'
-worktag: Grisaille
+label: Grisaille
 category: Image types
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

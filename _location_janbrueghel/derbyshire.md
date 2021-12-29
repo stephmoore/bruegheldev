@@ -1,10 +1,10 @@
 ---
 pid: derbyshire
 title: 'Location: Derbyshire'
-location_country: England
-location_city: Derbyshire
+category: England
+label: Derbyshire
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '020'
+order: '019'
 permalink: "/janbrueghel/locations/derbyshire/"
 ---

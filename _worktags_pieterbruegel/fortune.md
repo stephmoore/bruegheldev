@@ -1,7 +1,7 @@
 ---
 pid: fortune
 title: 'Tag: Fortune'
-worktag: Fortune
+label: Fortune
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

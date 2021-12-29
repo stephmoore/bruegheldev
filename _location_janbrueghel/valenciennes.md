@@ -1,10 +1,10 @@
 ---
 pid: valenciennes
 title: 'Location: Valenciennes'
-location_country: France
-location_city: Valenciennes
+category: France
+label: Valenciennes
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '046'
+order: '041'
 permalink: "/janbrueghel/locations/valenciennes/"
 ---

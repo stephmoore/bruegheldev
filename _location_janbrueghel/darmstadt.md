@@ -1,10 +1,10 @@
 ---
 pid: darmstadt
 title: 'Location: Darmstadt'
-location_country: Germany
-location_city: Darmstadt
+category: Germany
+label: Darmstadt
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '054'
+order: '049'
 permalink: "/janbrueghel/locations/darmstadt/"
 ---

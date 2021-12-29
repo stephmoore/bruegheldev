@@ -1,8 +1,8 @@
 ---
 pid: paris
 title: 'Location: Paris'
-location_country: France
-location_city: Paris
+category: France
+label: Paris
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '20'

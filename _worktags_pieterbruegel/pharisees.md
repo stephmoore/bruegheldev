@@ -1,7 +1,7 @@
 ---
 pid: pharisees
 title: 'Tag: Pharisees'
-worktag: Pharisees
+label: Pharisees
 category: Religious
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

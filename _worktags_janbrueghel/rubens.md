@@ -1,7 +1,7 @@
 ---
 pid: rubens
 title: 'Tag: Rubens'
-worktag: Rubens
+label: Rubens
 category: Associated artists
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

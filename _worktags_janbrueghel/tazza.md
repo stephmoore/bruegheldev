@@ -1,7 +1,7 @@
 ---
 pid: tazza
 title: 'Tag: Tazza'
-worktag: Tazza
+label: Tazza
 category: Containers
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

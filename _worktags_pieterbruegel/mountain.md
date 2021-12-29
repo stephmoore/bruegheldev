@@ -1,7 +1,7 @@
 ---
 pid: mountain
 title: 'Tag: Mountain'
-worktag: Mountain
+label: Mountain
 category: Landscape features
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

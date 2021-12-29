@@ -1,10 +1,10 @@
 ---
 pid: ottawa
 title: 'Location: Ottawa'
-location_country: Canada
-location_city: Ottawa
+category: Canada
+label: Ottawa
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '011'
+order: '010'
 permalink: "/janbrueghel/locations/ottawa/"
 ---

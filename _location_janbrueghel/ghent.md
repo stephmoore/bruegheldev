@@ -1,10 +1,10 @@
 ---
 pid: ghent
 title: 'Location: Ghent'
-location_country: Belgium
-location_city: Ghent
+category: Belgium
+label: Ghent
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '008'
+order: '007'
 permalink: "/janbrueghel/locations/ghent/"
 ---

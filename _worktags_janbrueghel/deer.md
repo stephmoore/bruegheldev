@@ -1,7 +1,7 @@
 ---
 pid: deer
 title: 'Tag: Deer'
-worktag: Deer
+label: Deer
 category: Animals
 collection: worktags_janbrueghel
 layout: tagpage_janbrueghel

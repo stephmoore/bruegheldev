@@ -1,8 +1,8 @@
 ---
 pid: dresden
 title: 'Location: Dresden'
-location_country: Germany
-location_city: Dresden
+category: Germany
+label: Dresden
 collection: location_pieterbruegel
 layout: locationpage_pieterbruegel
 order: '09'

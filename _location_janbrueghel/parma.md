@@ -1,10 +1,10 @@
 ---
 pid: parma
 title: 'Location: Parma'
-location_country: Italy
-location_city: Parma
+category: Italy
+label: Parma
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '076'
+order: '071'
 permalink: "/janbrueghel/locations/parma/"
 ---

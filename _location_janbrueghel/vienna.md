@@ -1,8 +1,8 @@
 ---
 pid: vienna
 title: 'Location: Vienna'
-location_country: Austria
-location_city: Vienna
+category: Austria
+label: Vienna
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
 order: '003'

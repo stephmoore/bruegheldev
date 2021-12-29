@@ -1,10 +1,10 @@
 ---
 pid: edinburgh
 title: 'Location: Edinburgh'
-location_country: Scotland
-location_city: Edinburgh
+category: Scotland
+label: Edinburgh
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '097'
+order: '092'
 permalink: "/janbrueghel/locations/edinburgh/"
 ---

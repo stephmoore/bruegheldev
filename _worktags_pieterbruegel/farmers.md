@@ -1,7 +1,7 @@
 ---
 pid: farmers
 title: 'Tag: Farmers'
-worktag: Farmers
+label: Farmers
 category: Persons/figures
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

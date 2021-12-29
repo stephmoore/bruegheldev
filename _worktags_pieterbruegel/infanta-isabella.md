@@ -1,7 +1,7 @@
 ---
 pid: infanta-isabella
 title: 'Tag: Infanta Isabella'
-worktag: Infanta Isabella
+label: Infanta Isabella
 category: Collectors
 collection: worktags_pieterbruegel
 layout: tagpage_pieterbruegel

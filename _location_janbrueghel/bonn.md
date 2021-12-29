@@ -5,6 +5,6 @@ category: Germany
 label: Bonn
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '046'
+order: '038'
 permalink: "/janbrueghel/locations/bonn/"
 ---

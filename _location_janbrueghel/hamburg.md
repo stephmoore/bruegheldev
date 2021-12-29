@@ -5,6 +5,6 @@ category: Germany
 label: Hamburg
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '054'
+order: '046'
 permalink: "/janbrueghel/locations/hamburg/"
 ---

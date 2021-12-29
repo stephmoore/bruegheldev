@@ -5,6 +5,6 @@ category: Japan
 label: Tokyo
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '074'
+order: '063'
 permalink: "/janbrueghel/locations/tokyo/"
 ---

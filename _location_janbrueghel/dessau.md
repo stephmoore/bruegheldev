@@ -5,6 +5,6 @@ category: Germany
 label: Dessau
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '050'
+order: '042'
 permalink: "/janbrueghel/locations/dessau/"
 ---

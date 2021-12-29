@@ -5,6 +5,6 @@ category: Italy
 label: Florence
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '068'
+order: '058'
 permalink: "/janbrueghel/locations/florence/"
 ---

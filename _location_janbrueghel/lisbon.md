@@ -5,6 +5,6 @@ category: Portugal
 label: Lisbon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '087'
+order: '074'
 permalink: "/janbrueghel/locations/lisbon/"
 ---

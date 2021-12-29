@@ -5,6 +5,6 @@ category: United States
 label: Columbia, SC
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '107'
+order: '094'
 permalink: "/janbrueghel/locations/columbia/"
 ---

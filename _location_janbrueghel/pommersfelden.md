@@ -5,6 +5,6 @@ category: Germany
 label: Pommersfelden
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '060'
+order: '052'
 permalink: "/janbrueghel/locations/pommersfelden/"
 ---

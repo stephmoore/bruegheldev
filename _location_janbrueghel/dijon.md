@@ -5,6 +5,6 @@ category: France
 label: Dijon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '030'
+order: '027'
 permalink: "/janbrueghel/locations/dijon/"
 ---

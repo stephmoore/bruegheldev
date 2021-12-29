@@ -5,6 +5,6 @@ category: Italy
 label: Milan
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '069'
+order: '059'
 permalink: "/janbrueghel/locations/milan/"
 ---

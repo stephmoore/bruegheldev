@@ -5,6 +5,6 @@ category: Germany
 label: Cologne
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '048'
+order: '040'
 permalink: "/janbrueghel/locations/cologne/"
 ---

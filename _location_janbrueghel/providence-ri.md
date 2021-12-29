@@ -5,6 +5,6 @@ category: United States
 label: Providence, RI
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '123'
+order: '109'
 permalink: "/janbrueghel/locations/providence/"
 ---

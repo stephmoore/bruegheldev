@@ -5,6 +5,6 @@ category: United States
 label: St. Louis, MO
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '128'
+order: '113'
 permalink: "/janbrueghel/locations/st-louis/"
 ---

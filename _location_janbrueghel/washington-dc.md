@@ -5,6 +5,6 @@ category: United States
 label: Washington, DC
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '130'
+order: '115'
 permalink: "/janbrueghel/locations/washington/"
 ---

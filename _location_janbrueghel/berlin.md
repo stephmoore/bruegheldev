@@ -5,6 +5,6 @@ category: Germany
 label: Berlin
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '045'
+order: '037'
 permalink: "/janbrueghel/locations/berlin/"
 ---

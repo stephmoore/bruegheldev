@@ -5,6 +5,6 @@ category: United States
 label: Louisville, KY
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '115'
+order: '102'
 permalink: "/janbrueghel/locations/louisville/"
 ---

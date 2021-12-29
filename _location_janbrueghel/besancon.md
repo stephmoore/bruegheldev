@@ -5,6 +5,6 @@ category: France
 label: Besançon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '027'
+order: '025'
 permalink: "/janbrueghel/locations/besançon/"
 ---

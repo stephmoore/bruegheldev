@@ -5,6 +5,6 @@ category: United States
 label: Toledo, OH
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '129'
+order: '114'
 permalink: "/janbrueghel/locations/toledo/"
 ---

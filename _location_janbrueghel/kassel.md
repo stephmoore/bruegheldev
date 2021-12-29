@@ -5,6 +5,6 @@ category: Germany
 label: Kassel
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '056'
+order: '048'
 permalink: "/janbrueghel/locations/kassel/"
 ---

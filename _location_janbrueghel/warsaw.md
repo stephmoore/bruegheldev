@@ -5,6 +5,6 @@ category: Poland
 label: Warsaw
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '086'
+order: '073'
 permalink: "/janbrueghel/locations/warsaw/"
 ---

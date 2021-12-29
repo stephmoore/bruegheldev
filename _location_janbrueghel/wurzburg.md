@@ -5,6 +5,6 @@ category: Germany
 label: Würzburg
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '065'
+order: '056'
 permalink: "/janbrueghel/locations/wurzburg/"
 ---

@@ -5,6 +5,6 @@ category: France
 label: Paris
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '037'
+order: '033'
 permalink: "/janbrueghel/locations/paris/"
 ---

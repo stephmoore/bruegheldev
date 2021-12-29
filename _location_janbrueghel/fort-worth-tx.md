@@ -5,6 +5,6 @@ category: United States
 label: Fort Worth, TX
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '110'
+order: '097'
 permalink: "/janbrueghel/locations/fort-worth/"
 ---

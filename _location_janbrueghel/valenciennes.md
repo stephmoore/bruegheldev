@@ -5,6 +5,6 @@ category: France
 label: Valenciennes
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '041'
+order: '035'
 permalink: "/janbrueghel/locations/valenciennes/"
 ---

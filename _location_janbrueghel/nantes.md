@@ -5,6 +5,6 @@ category: France
 label: Nantes
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '034'
+order: '031'
 permalink: "/janbrueghel/locations/nantes/"
 ---

@@ -5,6 +5,6 @@ category: Germany
 label: Potsdam
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '061'
+order: '053'
 permalink: "/janbrueghel/locations/potsdam/"
 ---

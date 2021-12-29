@@ -5,6 +5,6 @@ category: Switzerland
 label: Zürich
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '100'
+order: '087'
 permalink: "/janbrueghel/locations/zürich/"
 ---

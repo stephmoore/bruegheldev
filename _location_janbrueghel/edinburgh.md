@@ -5,6 +5,6 @@ category: Scotland
 label: Edinburgh
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '092'
+order: '079'
 permalink: "/janbrueghel/locations/edinburgh/"
 ---

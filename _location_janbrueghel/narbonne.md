@@ -5,6 +5,6 @@ category: France
 label: Narbonne
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '035'
+order: '032'
 permalink: "/janbrueghel/locations/narbonne/"
 ---

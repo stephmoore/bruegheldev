@@ -5,6 +5,6 @@ category: Netherlands
 label: Haarlem
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '078'
+order: '066'
 permalink: "/janbrueghel/locations/haarlem/"
 ---

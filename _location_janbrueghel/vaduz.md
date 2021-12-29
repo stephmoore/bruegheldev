@@ -5,6 +5,6 @@ category: Liechtenstein
 label: Vaduz
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '075'
+order: '064'
 permalink: "/janbrueghel/locations/vaduz/"
 ---

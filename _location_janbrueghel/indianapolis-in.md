@@ -5,6 +5,6 @@ category: United States
 label: Indianapolis, IN
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '113'
+order: '100'
 permalink: "/janbrueghel/locations/indianapolis/"
 ---

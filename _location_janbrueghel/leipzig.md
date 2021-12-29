@@ -5,6 +5,6 @@ category: Germany
 label: Leipzig
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '057'
+order: '049'
 permalink: "/janbrueghel/locations/leipzig/"
 ---

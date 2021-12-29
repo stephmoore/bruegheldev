@@ -5,6 +5,6 @@ category: United States
 label: Atlanta, GA
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '101'
+order: '088'
 permalink: "/janbrueghel/locations/atlanta/"
 ---

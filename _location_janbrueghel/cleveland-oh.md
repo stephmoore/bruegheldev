@@ -5,6 +5,6 @@ category: United States
 label: Cleveland, OH
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '106'
+order: '093'
 permalink: "/janbrueghel/locations/cleveland/"
 ---

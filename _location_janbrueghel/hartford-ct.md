@@ -5,6 +5,6 @@ category: United States
 label: Hartford, CT
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '111'
+order: '098'
 permalink: "/janbrueghel/locations/hartford/"
 ---

@@ -5,6 +5,6 @@ category: France
 label: Lyon
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '032'
+order: '029'
 permalink: "/janbrueghel/locations/lyon/"
 ---

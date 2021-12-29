@@ -5,6 +5,6 @@ category: Scotland
 label: Glasgow
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '093'
+order: '080'
 permalink: "/janbrueghel/locations/glasgow/"
 ---

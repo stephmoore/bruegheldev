@@ -5,6 +5,6 @@ category: Romania
 label: Bucharest
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '088'
+order: '075'
 permalink: "/janbrueghel/locations/bucharest/"
 ---

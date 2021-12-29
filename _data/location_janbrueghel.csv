@@ -24,26 +24,18 @@ london,Location: London,England,London,locations_janbrueghel,locationpage_janbru
 manchester,Location: Manchester,England,Manchester,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/manchester/
 oxford,Location: Oxford,England,Oxford,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/oxford/
 angers,Location: Angers,France,Angers,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/angers/
-avignon,Location: Avignon,France,Avignon,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/avignon/
-bergues,Location: Bergues,France,Bergues,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/bergues/
 besancon,Location: Besançon,France,Besançon,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/besançon/
 chalone-sur-marne,Location: Châlone-sur-Marne,France,Châlone-sur-Marne,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/chalone-sur-marne/
-chartres,Location: Chartres,France,Chartres,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/chartres/
 dijon,Location: Dijon,France,Dijon,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/dijon/
 lille,Location: Lille,France,Lille,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/lille/
 lyon,Location: Lyon,France,Lyon,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/lyon/
 montpellier,Location: Montpellier,France,Montpellier,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/montpellier/
 nantes,Location: Nantes,France,Nantes,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/nantes/
 narbonne,Location: Narbonne,France,Narbonne,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/narbonne/
-nimes,Location: Nîmes,France,Nîmes,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/nimes/
 paris,Location: Paris,France,Paris,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/paris/
-pau,Location: Pau,France,Pau,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/pau/
-quimper,Location: Quimper,France,Quimper,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/quimper/
 sermentizon,Location: Sermentizon,France,Sermentizon,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/sermentizon/
 valenciennes,Location: Valenciennes,France,Valenciennes,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/valenciennes/
-aachen,Location: Aachen,Germany,Aachen,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/aachen/
 aschaffenburg,Location: Aschaffenburg,Germany,Aschaffenburg,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/aschaffenburg/
-bamberg,Location: Bamberg,Germany,Bamberg,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/bamberg/
 berlin,Location: Berlin,Germany,Berlin,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/berlin/
 bonn,Location: Bonn,Germany,Bonn,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/bonn/
 braunschweig,Location: Braunschweig,Germany,Braunschweig,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/braunschweig/
@@ -62,26 +54,21 @@ munich,Location: Munich,Germany,Munich,locations_janbrueghel,locationpage_janbru
 pommersfelden,Location: Pommersfelden,Germany,Pommersfelden,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/pommersfelden/
 potsdam,Location: Potsdam,Germany,Potsdam,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/potsdam/
 schwerin,Location: Schwerin,Germany,Schwerin,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/schwerin/
-stuttgart,Location: Stuttgart,Germany,Stuttgart,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/stuttgart/
 wuppertal,Location: Wuppertal,Germany,Wuppertal,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/wuppertal/
 wurzburg,Location: Würzburg,Germany,Würzburg,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/wurzburg/
 budapest,Location: Budapest,Hungary,Budapest,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/budapest/
-dublin,Location: Dublin,Ireland,Dublin,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/dublin/
 florence,Location: Florence,Italy,Florence,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/florence/
 milan,Location: Milan,Italy,Milan,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/milan/
-naples,Location: Naples,Italy,Naples,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/naples/
 parma,Location: Parma,Italy,Parma,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/parma/
 rome,Location: Rome,Italy,Rome,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/rome/
 turin,Location: Turin,Italy,Turin,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/turin/
 tokyo,Location: Tokyo,Japan,Tokyo,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/tokyo/
 vaduz,Location: Vaduz,Liechtenstein,Vaduz,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/vaduz/
 amsterdam,Location: Amsterdam,Netherlands,Amsterdam,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/amsterdam/
-enschede,Location: Enschede,Netherlands,Enschede,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/enschede/
 haarlem,Location: Haarlem,Netherlands,Haarlem,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/haarlem/
 leiden,Location: Leiden,Netherlands,Leiden,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/leiden/
 rotterdam,Location: Rotterdam,Netherlands,Rotterdam,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/rotterdam/
 the-hague,Location: The Hague,Netherlands,The Hague,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/the-hague/
-utrecht,Location: Utrecht,Netherlands,Utrecht,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/utrecht/
 bergen,Location: Bergen,Norway,Bergen,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/bergen/
 oslo,Location: Oslo,Norway,Oslo,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/oslo/
 trondheim,Location: Trondheim,Norway,Trondheim,locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/trondheim/
@@ -120,13 +107,11 @@ new-haven-ct,"Location: New Haven, CT",United States,"New Haven, CT",locations_j
 new-york-ny,"Location: New York, NY",United States,"New York, NY",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/new-york/
 northampton-ma,"Location: Northampton, MA",United States,"Northampton, MA",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/northampton/
 oberlin-oh,"Location: Oberlin, OH",United States,"Oberlin, OH",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/oberlin/
-philadelphia-pa,"Location: Philadelphia, PA",United States,"Philadelphia, PA",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/philadelphia/
 poughkeepsie-ny,"Location: Poughkeepsie, NY",United States,"Poughkeepsie, NY",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/poughkeepsie/
 providence-ri,"Location: Providence, RI",United States,"Providence, RI",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/providence/
 raleigh-nc,"Location: Raleigh, NC",United States,"Raleigh, NC",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/raleigh/
 richmond-va,"Location: Richmond, VA",United States,"Richmond, VA",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/richmond/
 san-francisco-ca,"Location: San Francisco, CA",United States,"San Francisco, CA",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/san-francisco/
-sarasota-fl,"Location: Sarasota, FL",United States,"Sarasota, FL",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/sarasota/
 st-louis-mo,"Location: St. Louis, MO",United States,"St. Louis, MO",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/st-louis/
 toledo-oh,"Location: Toledo, OH",United States,"Toledo, OH",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/toledo/
 washington-dc,"Location: Washington, DC",United States,"Washington, DC",locations_janbrueghel,locationpage_janbrueghel,,/janbrueghel/locations/washington/

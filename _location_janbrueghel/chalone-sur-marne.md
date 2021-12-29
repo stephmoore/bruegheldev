@@ -5,6 +5,6 @@ category: France
 label: Châlone-sur-Marne
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '028'
+order: '026'
 permalink: "/janbrueghel/locations/chalone-sur-marne/"
 ---

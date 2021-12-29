@@ -5,6 +5,6 @@ category: Hungary
 label: Budapest
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '066'
+order: '057'
 permalink: "/janbrueghel/locations/budapest/"
 ---

@@ -5,6 +5,6 @@ category: United States
 label: New Haven, CT
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '117'
+order: '104'
 permalink: "/janbrueghel/locations/new-haven/"
 ---

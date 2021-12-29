@@ -5,6 +5,6 @@ category: Germany
 label: Munich
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '059'
+order: '051'
 permalink: "/janbrueghel/locations/munich/"
 ---

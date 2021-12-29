@@ -5,6 +5,6 @@ category: Norway
 label: Trondheim
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '085'
+order: '072'
 permalink: "/janbrueghel/locations/trondheim/"
 ---

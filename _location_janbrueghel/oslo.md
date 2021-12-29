@@ -5,6 +5,6 @@ category: Norway
 label: Oslo
 collection: location_janbrueghel
 layout: locationpage_janbrueghel
-order: '084'
+order: '071'
 permalink: "/janbrueghel/locations/oslo/"
 ---

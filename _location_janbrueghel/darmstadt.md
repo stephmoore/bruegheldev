@@ -1,6 +1,6 @@
 ---
 pid: darmstadt
-title: Darmstadt
+title: 'Location: Darmstadt'
 location_country: Germany
 location_city: Darmstadt
 collection: location_janbrueghel

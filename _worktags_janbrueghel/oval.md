@@ -1,6 +1,6 @@
 ---
 pid: oval
-title: Oval
+title: 'Tag: Oval'
 worktag: Oval
 category: Image types
 collection: worktags_janbrueghel

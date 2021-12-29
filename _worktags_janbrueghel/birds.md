@@ -1,6 +1,6 @@
 ---
 pid: birds
-title: Birds
+title: 'Tag: Birds'
 worktag: Birds
 category: Animals
 collection: worktags_janbrueghel

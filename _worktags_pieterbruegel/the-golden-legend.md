@@ -1,6 +1,6 @@
 ---
 pid: the-golden-legend
-title: The Golden Legend
+title: 'Tag: The Golden Legend'
 worktag: The Golden Legend
 category: Religious
 collection: worktags_pieterbruegel

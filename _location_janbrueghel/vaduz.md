@@ -1,6 +1,6 @@
 ---
 pid: vaduz
-title: Vaduz
+title: 'Location: Vaduz'
 location_country: Liechtenstein
 location_city: Vaduz
 collection: location_janbrueghel

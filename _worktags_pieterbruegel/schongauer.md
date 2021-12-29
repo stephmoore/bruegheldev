@@ -1,6 +1,6 @@
 ---
 pid: schongauer
-title: Schongauer
+title: 'Tag: Schongauer'
 worktag: Schongauer
 category: Associated artists
 collection: worktags_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: atlanta
-title: Atlanta, GA
+title: 'Location: Atlanta, GA'
 location_country: United States
 location_city: Atlanta, GA
 collection: location_janbrueghel

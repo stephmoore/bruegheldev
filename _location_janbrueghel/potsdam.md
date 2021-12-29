@@ -1,6 +1,6 @@
 ---
 pid: potsdam
-title: Potsdam
+title: 'Location: Potsdam'
 location_country: Germany
 location_city: Potsdam
 collection: location_janbrueghel

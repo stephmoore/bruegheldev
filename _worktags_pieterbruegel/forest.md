@@ -1,6 +1,6 @@
 ---
 pid: forest
-title: Forest
+title: 'Tag: Forest'
 worktag: Forest
 category: Landscape features
 collection: worktags_pieterbruegel

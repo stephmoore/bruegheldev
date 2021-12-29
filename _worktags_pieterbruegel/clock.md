@@ -1,6 +1,6 @@
 ---
 pid: clock
-title: Clock
+title: 'Tag: Clock'
 worktag: Clock
 category: Things
 collection: worktags_pieterbruegel

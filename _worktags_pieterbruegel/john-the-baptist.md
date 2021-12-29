@@ -1,6 +1,6 @@
 ---
 pid: john-the-baptist
-title: John the Baptist
+title: 'Tag: John the Baptist'
 worktag: John the Baptist
 category: Religious
 collection: worktags_pieterbruegel

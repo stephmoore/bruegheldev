@@ -1,6 +1,6 @@
 ---
 pid: gypsies
-title: Gypsies
+title: 'Tag: Gypsies'
 worktag: Gypsies
 category: Persons/figures
 collection: worktags_janbrueghel

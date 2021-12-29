@@ -1,6 +1,6 @@
 ---
 pid: bonn
-title: Bonn
+title: 'Location: Bonn'
 location_country: Germany
 location_city: Bonn
 collection: location_janbrueghel

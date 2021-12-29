@@ -1,6 +1,6 @@
 ---
 pid: biblical
-title: Biblical
+title: 'Tag: Biblical'
 worktag: Biblical
 category: Religious
 collection: worktags_pieterbruegel

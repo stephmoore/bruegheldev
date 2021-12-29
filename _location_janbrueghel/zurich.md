@@ -1,6 +1,6 @@
 ---
 pid: zurich
-title: Zürich
+title: 'Location: Zürich'
 location_country: Switzerland
 location_city: Zürich
 collection: location_janbrueghel

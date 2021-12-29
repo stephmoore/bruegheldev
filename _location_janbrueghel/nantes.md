@@ -1,6 +1,6 @@
 ---
 pid: nantes
-title: Nantes
+title: 'Location: Nantes'
 location_country: France
 location_city: Nantes
 collection: location_janbrueghel

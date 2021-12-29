@@ -1,6 +1,6 @@
 ---
 pid: labor
-title: Labor
+title: 'Tag: Labor'
 worktag: Labor
 category: Social life
 collection: worktags_janbrueghel

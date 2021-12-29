@@ -1,6 +1,6 @@
 ---
 pid: games
-title: Games
+title: 'Tag: Games'
 worktag: Games
 category: Activities
 collection: worktags_pieterbruegel

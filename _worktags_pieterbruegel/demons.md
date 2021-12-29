@@ -1,6 +1,6 @@
 ---
 pid: demons
-title: Demons
+title: 'Tag: Demons'
 worktag: Demons
 category: Religious
 collection: worktags_pieterbruegel

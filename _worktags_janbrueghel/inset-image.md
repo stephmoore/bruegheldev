@@ -1,6 +1,6 @@
 ---
 pid: inset-image
-title: Inset image
+title: 'Tag: Inset image'
 worktag: Inset image
 category: Things
 collection: worktags_janbrueghel

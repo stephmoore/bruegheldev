@@ -1,6 +1,6 @@
 ---
 pid: parma
-title: Parma
+title: 'Location: Parma'
 location_country: Italy
 location_city: Parma
 collection: location_janbrueghel

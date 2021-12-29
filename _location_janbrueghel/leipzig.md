@@ -1,6 +1,6 @@
 ---
 pid: leipzig
-title: Leipzig
+title: 'Location: Leipzig'
 location_country: Germany
 location_city: Leipzig
 collection: location_janbrueghel

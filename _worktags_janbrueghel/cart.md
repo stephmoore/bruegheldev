@@ -1,6 +1,6 @@
 ---
 pid: cart
-title: Cart
+title: 'Tag: Cart'
 worktag: Cart
 category: Transportation
 collection: worktags_janbrueghel

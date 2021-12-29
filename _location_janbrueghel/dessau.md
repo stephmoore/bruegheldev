@@ -1,6 +1,6 @@
 ---
 pid: dessau
-title: Dessau
+title: 'Location: Dessau'
 location_country: Germany
 location_city: Dessau
 collection: location_janbrueghel

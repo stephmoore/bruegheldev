@@ -1,7 +1,7 @@
 ---
 pid: portrait
+title: 'Genre: Portrait'
 label: Portrait
-title: Portrait
 genre: Portrait
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

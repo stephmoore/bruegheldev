@@ -1,6 +1,6 @@
 ---
 pid: ruins
-title: Ruins
+title: 'Tag: Ruins'
 worktag: Ruins
 category: Architecture
 collection: worktags_pieterbruegel

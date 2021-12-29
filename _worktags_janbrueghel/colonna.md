@@ -1,6 +1,6 @@
 ---
 pid: colonna
-title: Colonna
+title: 'Tag: Colonna'
 worktag: Colonna
 category: Collectors
 collection: worktags_janbrueghel

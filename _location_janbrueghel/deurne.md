@@ -1,6 +1,6 @@
 ---
 pid: deurne
-title: Deurne
+title: 'Location: Deurne'
 location_country: Belgium
 location_city: Deurne
 collection: location_janbrueghel

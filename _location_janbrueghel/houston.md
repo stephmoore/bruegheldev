@@ -1,6 +1,6 @@
 ---
 pid: houston
-title: Houston, TX
+title: 'Location: Houston, TX'
 location_country: United States
 location_city: Houston, TX
 collection: location_janbrueghel

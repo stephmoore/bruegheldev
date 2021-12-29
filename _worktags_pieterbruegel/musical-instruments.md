@@ -1,6 +1,6 @@
 ---
 pid: musical-instruments
-title: Musical instruments
+title: 'Tag: Musical instruments'
 worktag: Musical instruments
 category: Things
 collection: worktags_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: ladders
-title: Ladders
+title: 'Tag: Ladders'
 worktag: Ladders
 category: Things
 collection: worktags_pieterbruegel

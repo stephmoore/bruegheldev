@@ -1,6 +1,6 @@
 ---
 pid: deer
-title: Deer
+title: 'Tag: Deer'
 worktag: Deer
 category: Animals
 collection: worktags_janbrueghel

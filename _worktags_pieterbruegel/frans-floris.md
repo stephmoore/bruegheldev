@@ -1,6 +1,6 @@
 ---
 pid: frans-floris
-title: Frans Floris
+title: 'Tag: Frans Floris'
 worktag: Frans Floris
 category: Associated artists
 collection: worktags_pieterbruegel

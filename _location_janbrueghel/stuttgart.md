@@ -1,6 +1,6 @@
 ---
 pid: stuttgart
-title: Stuttgart
+title: 'Location: Stuttgart'
 location_country: Germany
 location_city: Stuttgart
 collection: location_janbrueghel

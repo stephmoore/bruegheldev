@@ -1,8 +1,7 @@
 ---
 pid: village-town-and-cityscape
-title: Village, Town and Cityscape
+title: 'Genre: Village, Town and Cityscape'
 label: Village, Town and Cityscape
-genre: Village, Town and Cityscape
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '10'

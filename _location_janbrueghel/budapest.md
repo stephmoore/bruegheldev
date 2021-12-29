@@ -1,6 +1,6 @@
 ---
 pid: budapest
-title: Budapest
+title: 'Location: Budapest'
 location_country: Hungary
 location_city: Budapest
 collection: location_janbrueghel

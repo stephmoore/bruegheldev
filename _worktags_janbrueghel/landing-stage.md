@@ -1,6 +1,6 @@
 ---
 pid: landing-stage
-title: Landing stage
+title: 'Tag: Landing stage'
 worktag: Landing stage
 category: Landscape features
 collection: worktags_janbrueghel

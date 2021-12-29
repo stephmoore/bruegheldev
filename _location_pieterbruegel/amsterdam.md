@@ -1,6 +1,6 @@
 ---
 pid: amsterdam
-title: Amsterdam
+title: 'Location: Amsterdam'
 location_country: Netherlands
 location_city: Amsterdam
 collection: location_pieterbruegel

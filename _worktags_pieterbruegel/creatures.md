@@ -1,6 +1,6 @@
 ---
 pid: creatures
-title: Creatures
+title: 'Tag: Creatures'
 worktag: Creatures
 category: Animals
 collection: worktags_pieterbruegel

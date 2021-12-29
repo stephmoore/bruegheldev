@@ -1,6 +1,6 @@
 ---
 pid: proverbs
-title: Proverbs
+title: 'Tag: Proverbs'
 worktag: Proverbs
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

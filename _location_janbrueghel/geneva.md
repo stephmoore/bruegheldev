@@ -1,6 +1,6 @@
 ---
 pid: geneva
-title: Geneva
+title: 'Location: Geneva'
 location_country: Switzerland
 location_city: Geneva
 collection: location_janbrueghel

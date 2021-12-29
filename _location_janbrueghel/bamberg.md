@@ -1,6 +1,6 @@
 ---
 pid: bamberg
-title: Bamberg
+title: 'Location: Bamberg'
 location_country: Germany
 location_city: Bamberg
 collection: location_janbrueghel

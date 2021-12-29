@@ -1,6 +1,6 @@
 ---
 pid: jewels
-title: Jewels
+title: 'Tag: Jewels'
 worktag: Jewels
 category: Things
 collection: worktags_pieterbruegel

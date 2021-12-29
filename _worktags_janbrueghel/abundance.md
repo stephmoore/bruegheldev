@@ -1,6 +1,6 @@
 ---
 pid: abundance
-title: Abundance
+title: 'Tag: Abundance'
 worktag: Abundance
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: lyon
-title: Lyon
+title: 'Location: Lyon'
 location_country: France
 location_city: Lyon
 collection: location_janbrueghel

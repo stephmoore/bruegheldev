@@ -1,6 +1,6 @@
 ---
 pid: battle
-title: Battle
+title: 'Tag: Battle'
 worktag: Battle
 category: Activities
 collection: worktags_pieterbruegel

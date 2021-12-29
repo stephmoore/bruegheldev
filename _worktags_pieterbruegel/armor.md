@@ -1,6 +1,6 @@
 ---
 pid: armor
-title: Armor
+title: 'Tag: Armor'
 worktag: Armor
 category: Things
 collection: worktags_pieterbruegel

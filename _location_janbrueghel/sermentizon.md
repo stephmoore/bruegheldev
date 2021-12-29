@@ -1,6 +1,6 @@
 ---
 pid: sermentizon
-title: Sermentizon
+title: 'Location: Sermentizon'
 location_country: France
 location_city: Sermentizon
 collection: location_janbrueghel

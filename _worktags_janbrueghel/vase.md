@@ -1,6 +1,6 @@
 ---
 pid: vase
-title: Vase
+title: 'Tag: Vase'
 worktag: Vase
 category: Things
 collection: worktags_janbrueghel

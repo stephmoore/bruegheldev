@@ -1,6 +1,6 @@
 ---
 pid: putti
-title: Putti
+title: 'Tag: Putti'
 worktag: Putti
 category: Persons/figures
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: the-hague
-title: The Hague
+title: 'Location: The Hague'
 location_country: Netherlands
 location_city: The Hague
 collection: location_janbrueghel

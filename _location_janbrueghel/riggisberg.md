@@ -1,6 +1,6 @@
 ---
 pid: riggisberg
-title: Riggisberg
+title: 'Location: Riggisberg'
 location_country: Switzerland
 location_city: Riggisberg
 collection: location_janbrueghel

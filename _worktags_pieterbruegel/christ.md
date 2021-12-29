@@ -1,6 +1,6 @@
 ---
 pid: christ
-title: Christ
+title: 'Tag: Christ'
 worktag: Christ
 category: Religious
 collection: worktags_pieterbruegel

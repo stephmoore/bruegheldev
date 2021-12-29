@@ -1,6 +1,6 @@
 ---
 pid: beggars
-title: Beggars
+title: 'Tag: Beggars'
 worktag: Beggars
 category: Persons/figures
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: northampton
-title: Northampton, MA
+title: 'Location: Northampton, MA'
 location_country: United States
 location_city: Northampton, MA
 collection: location_janbrueghel

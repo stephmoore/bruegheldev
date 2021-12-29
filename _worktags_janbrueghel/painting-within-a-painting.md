@@ -1,6 +1,6 @@
 ---
 pid: painting-within-a-painting
-title: Painting Within A Painting
+title: 'Tag: Painting Within A Painting'
 worktag: Painting Within A Painting
 category: Image types
 collection: worktags_janbrueghel

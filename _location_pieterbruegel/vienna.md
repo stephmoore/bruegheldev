@@ -1,6 +1,6 @@
 ---
 pid: vienna
-title: Vienna
+title: 'Location: Vienna'
 location_country: Austria
 location_city: Vienna
 collection: location_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: milan
-title: Milan
+title: 'Location: Milan'
 location_country: Italy
 location_city: Milan
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: durer
-title: Durer
+title: 'Tag: Durer'
 worktag: Durer
 category: Associated artists
 collection: worktags_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: obelisk
-title: Obelisk
+title: 'Tag: Obelisk'
 worktag: Obelisk
 category: Architecture
 collection: worktags_janbrueghel

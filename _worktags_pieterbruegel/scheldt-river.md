@@ -1,6 +1,6 @@
 ---
 pid: scheldt-river
-title: Scheldt River
+title: 'Tag: Scheldt River'
 worktag: Scheldt River
 category: Locations
 collection: worktags_pieterbruegel

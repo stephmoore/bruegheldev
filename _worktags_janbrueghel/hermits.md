@@ -1,6 +1,6 @@
 ---
 pid: hermits
-title: Hermits
+title: 'Tag: Hermits'
 worktag: Hermits
 category: Persons/figures
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: indianapolis
-title: Indianapolis, IN
+title: 'Location: Indianapolis, IN'
 location_country: United States
 location_city: Indianapolis, IN
 collection: location_janbrueghel

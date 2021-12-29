@@ -1,6 +1,6 @@
 ---
 pid: baltimore
-title: Baltimore, MD
+title: 'Location: Baltimore, MD'
 location_country: United States
 location_city: Baltimore, MD
 collection: location_janbrueghel

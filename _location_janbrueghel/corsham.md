@@ -1,6 +1,6 @@
 ---
 pid: corsham
-title: Corsham
+title: 'Location: Corsham'
 location_country: England
 location_city: Corsham
 collection: location_janbrueghel

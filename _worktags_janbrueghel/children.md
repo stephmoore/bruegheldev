@@ -1,6 +1,6 @@
 ---
 pid: children
-title: Children
+title: 'Tag: Children'
 worktag: Children
 category: Persons/figures
 collection: worktags_janbrueghel

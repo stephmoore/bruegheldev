@@ -1,6 +1,6 @@
 ---
 pid: river
-title: River
+title: 'Tag: River'
 worktag: River
 category: Landscape features
 collection: worktags_pieterbruegel

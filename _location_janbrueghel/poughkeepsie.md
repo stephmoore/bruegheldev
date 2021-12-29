@@ -1,6 +1,6 @@
 ---
 pid: poughkeepsie
-title: Poughkeepsie, NY
+title: 'Location: Poughkeepsie, NY'
 location_country: United States
 location_city: Poughkeepsie, NY
 collection: location_janbrueghel

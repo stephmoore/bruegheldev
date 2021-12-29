@@ -1,6 +1,6 @@
 ---
 pid: encyclopedic
-title: Encyclopedic
+title: 'Tag: Encyclopedic'
 worktag: Encyclopedic
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

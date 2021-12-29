@@ -1,6 +1,6 @@
 ---
 pid: banbury
-title: Banbury
+title: 'Location: Banbury'
 location_country: England
 location_city: Banbury
 collection: location_pieterbruegel

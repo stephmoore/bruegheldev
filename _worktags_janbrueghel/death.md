@@ -1,6 +1,6 @@
 ---
 pid: death
-title: Death
+title: 'Tag: Death'
 worktag: Death
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

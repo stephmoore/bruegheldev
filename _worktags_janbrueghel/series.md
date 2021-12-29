@@ -1,6 +1,6 @@
 ---
 pid: series
-title: Series
+title: 'Tag: Series'
 worktag: Series
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

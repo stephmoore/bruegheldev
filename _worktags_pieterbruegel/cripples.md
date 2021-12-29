@@ -1,6 +1,6 @@
 ---
 pid: cripples
-title: Cripples
+title: 'Tag: Cripples'
 worktag: Cripples
 category: Persons/figures
 collection: worktags_pieterbruegel

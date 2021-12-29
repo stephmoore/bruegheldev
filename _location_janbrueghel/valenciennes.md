@@ -1,6 +1,6 @@
 ---
 pid: valenciennes
-title: Valenciennes
+title: 'Location: Valenciennes'
 location_country: France
 location_city: Valenciennes
 collection: location_janbrueghel

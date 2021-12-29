@@ -1,6 +1,6 @@
 ---
 pid: gotha
-title: Gotha
+title: 'Location: Gotha'
 location_country: Germany
 location_city: Gotha
 collection: location_janbrueghel

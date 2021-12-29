@@ -1,6 +1,6 @@
 ---
 pid: copenhagen
-title: Copenhagen
+title: 'Location: Copenhagen'
 location_country: Denmark
 location_city: Copenhagen
 collection: location_janbrueghel

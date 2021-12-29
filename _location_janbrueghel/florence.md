@@ -1,6 +1,6 @@
 ---
 pid: florence
-title: Florence
+title: 'Location: Florence'
 location_country: Italy
 location_city: Florence
 collection: location_janbrueghel

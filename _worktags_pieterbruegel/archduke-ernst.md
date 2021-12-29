@@ -1,6 +1,6 @@
 ---
 pid: archduke-ernst
-title: Archduke Ernst
+title: 'Tag: Archduke Ernst'
 worktag: Archduke Ernst
 category: Collectors
 collection: worktags_pieterbruegel

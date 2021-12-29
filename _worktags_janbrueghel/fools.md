@@ -1,6 +1,6 @@
 ---
 pid: fools
-title: Fools
+title: 'Tag: Fools'
 worktag: Fools
 category: Persons/figures
 collection: worktags_janbrueghel

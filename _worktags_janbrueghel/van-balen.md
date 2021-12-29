@@ -1,6 +1,6 @@
 ---
 pid: van-balen
-title: Van Balen
+title: 'Tag: Van Balen'
 worktag: Van Balen
 category: Associated artists
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: saint
-title: Saint
+title: 'Tag: Saint'
 worktag: Saint
 category: Religious
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: cosmology
-title: Cosmology
+title: 'Tag: Cosmology'
 worktag: Cosmology
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

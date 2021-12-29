@@ -1,6 +1,6 @@
 ---
 pid: cambridge-ma
-title: Cambridge, MA
+title: 'Location: Cambridge, MA'
 location_country: United States
 location_city: Cambridge, MA
 collection: location_janbrueghel

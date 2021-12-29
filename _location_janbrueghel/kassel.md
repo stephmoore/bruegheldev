@@ -1,6 +1,6 @@
 ---
 pid: kassel
-title: Kassel
+title: 'Location: Kassel'
 location_country: Germany
 location_city: Kassel
 collection: location_janbrueghel

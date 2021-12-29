@@ -1,8 +1,7 @@
 ---
 pid: allegory
-title: Allegory
+title: 'Genre: Allegory'
 label: Allegory
-genre: Allegory
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '00'

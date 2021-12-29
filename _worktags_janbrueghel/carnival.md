@@ -1,6 +1,6 @@
 ---
 pid: carnival
-title: Carnival
+title: 'Tag: Carnival'
 worktag: Carnival
 category: Social life
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: festival
-title: Festival
+title: 'Tag: Festival'
 worktag: Festival
 category: Social life
 collection: worktags_janbrueghel

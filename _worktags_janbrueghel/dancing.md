@@ -1,6 +1,6 @@
 ---
 pid: dancing
-title: Dancing
+title: 'Tag: Dancing'
 worktag: Dancing
 category: Activities
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: history
-title: History
+title: 'Tag: History'
 worktag: History
 category: Secondary genres
 collection: worktags_janbrueghel

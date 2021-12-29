@@ -1,6 +1,6 @@
 ---
 pid: ship
-title: Ship
+title: 'Tag: Ship'
 worktag: Ship
 category: Transportation
 collection: worktags_pieterbruegel

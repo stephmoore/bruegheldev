@@ -1,6 +1,6 @@
 ---
 pid: eating-drinking
-title: Eating/Drinking
+title: 'Tag: Eating/Drinking'
 worktag: Eating/Drinking
 category: Activities
 collection: worktags_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: geraardsbergen
-title: Geraardsbergen
+title: 'Location: Geraardsbergen'
 location_country: Belgium
 location_city: Geraardsbergen
 collection: location_janbrueghel

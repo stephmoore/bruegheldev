@@ -1,6 +1,6 @@
 ---
 pid: fish
-title: Fish
+title: 'Tag: Fish'
 worktag: Fish
 category: Activities
 collection: worktags_pieterbruegel

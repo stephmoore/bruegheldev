@@ -1,6 +1,6 @@
 ---
 pid: nude
-title: Nude
+title: 'Tag: Nude'
 worktag: Nude
 category: Persons/figures
 collection: worktags_pieterbruegel

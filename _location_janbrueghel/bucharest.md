@@ -1,6 +1,6 @@
 ---
 pid: bucharest
-title: Bucharest
+title: 'Location: Bucharest'
 location_country: Romania
 location_city: Bucharest
 collection: location_janbrueghel

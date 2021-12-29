@@ -1,6 +1,6 @@
 ---
 pid: warsaw
-title: Warsaw
+title: 'Location: Warsaw'
 location_country: Poland
 location_city: Warsaw
 collection: location_janbrueghel

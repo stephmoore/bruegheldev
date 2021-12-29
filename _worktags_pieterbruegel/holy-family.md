@@ -1,6 +1,6 @@
 ---
 pid: holy-family
-title: Holy family
+title: 'Tag: Holy family'
 worktag: Holy family
 category: Religious
 collection: worktags_pieterbruegel

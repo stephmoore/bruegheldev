@@ -1,6 +1,6 @@
 ---
 pid: spring
-title: Spring
+title: 'Tag: Spring'
 worktag: Spring
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: house
-title: House
+title: 'Tag: House'
 worktag: House
 category: Architecture
 collection: worktags_pieterbruegel

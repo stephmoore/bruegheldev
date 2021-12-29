@@ -1,6 +1,6 @@
 ---
 pid: volcano
-title: Volcano
+title: 'Tag: Volcano'
 worktag: Volcano
 category: Landscape features
 collection: worktags_janbrueghel

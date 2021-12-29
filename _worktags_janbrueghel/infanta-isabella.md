@@ -1,6 +1,6 @@
 ---
 pid: infanta-isabella
-title: Infanta Isabella
+title: 'Tag: Infanta Isabella'
 worktag: Infanta Isabella
 category: Collectors
 collection: worktags_janbrueghel

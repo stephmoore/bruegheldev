@@ -1,6 +1,6 @@
 ---
 pid: apostles
-title: Apostles
+title: 'Tag: Apostles'
 worktag: Apostles
 category: Religious
 collection: worktags_pieterbruegel

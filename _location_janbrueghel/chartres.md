@@ -1,6 +1,6 @@
 ---
 pid: chartres
-title: Chartres
+title: 'Location: Chartres'
 location_country: France
 location_city: Chartres
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: austin
-title: Austin, TX
+title: 'Location: Austin, TX'
 location_country: United States
 location_city: Austin, TX
 collection: location_janbrueghel

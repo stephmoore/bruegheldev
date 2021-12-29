@@ -1,6 +1,6 @@
 ---
 pid: wedding
-title: Wedding
+title: 'Tag: Wedding'
 worktag: Wedding
 category: Activities
 collection: worktags_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: cleveland
-title: Cleveland, OH
+title: 'Location: Cleveland, OH'
 location_country: United States
 location_city: Cleveland, OH
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: temple
-title: Temple
+title: 'Tag: Temple'
 worktag: Temple
 category: Architecture
 collection: worktags_janbrueghel

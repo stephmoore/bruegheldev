@@ -1,8 +1,7 @@
 ---
 pid: urban-common-and-peasant-life
-title: Urban, Common and Peasant Life
+title: 'Genre: Urban, Common and Peasant Life'
 label: Urban, Common and Peasant Life
-genre: Urban, Common and Peasant Life
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '09'

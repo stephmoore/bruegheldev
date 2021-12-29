@@ -1,6 +1,6 @@
 ---
 pid: book-of-revelation
-title: Book of Revelation
+title: 'Tag: Book of Revelation'
 worktag: Book of Revelation
 category: Religious
 collection: worktags_pieterbruegel

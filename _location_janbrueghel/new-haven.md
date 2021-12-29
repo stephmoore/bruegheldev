@@ -1,6 +1,6 @@
 ---
 pid: new-haven
-title: New Haven, CT
+title: 'Location: New Haven, CT'
 location_country: United States
 location_city: New Haven, CT
 collection: location_janbrueghel

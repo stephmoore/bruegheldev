@@ -1,6 +1,6 @@
 ---
 pid: detroit
-title: Detroit, MI
+title: 'Location: Detroit, MI'
 location_country: United States
 location_city: Detroit, MI
 collection: location_janbrueghel

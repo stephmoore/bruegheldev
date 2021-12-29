@@ -1,6 +1,6 @@
 ---
 pid: farmers
-title: Farmers
+title: 'Tag: Farmers'
 worktag: Farmers
 category: Persons/figures
 collection: worktags_pieterbruegel

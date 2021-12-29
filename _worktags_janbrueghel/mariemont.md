@@ -1,6 +1,6 @@
 ---
 pid: mariemont
-title: Mariemont
+title: 'Tag: Mariemont'
 worktag: Mariemont
 category: Locations
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: traveling
-title: Traveling
+title: 'Tag: Traveling'
 worktag: Traveling
 category: Activities
 collection: worktags_janbrueghel

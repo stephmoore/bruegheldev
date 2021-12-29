@@ -1,6 +1,6 @@
 ---
 pid: sibiu
-title: Sibiu
+title: 'Location: Sibiu'
 location_country: Romania
 location_city: Sibiu
 collection: location_janbrueghel

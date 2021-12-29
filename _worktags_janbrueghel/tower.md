@@ -1,6 +1,6 @@
 ---
 pid: tower
-title: Tower
+title: 'Tag: Tower'
 worktag: Tower
 category: Architecture
 collection: worktags_janbrueghel

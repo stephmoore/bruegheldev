@@ -1,6 +1,6 @@
 ---
 pid: vrancx
-title: Vrancx
+title: 'Tag: Vrancx'
 worktag: Vrancx
 category: Associated artists
 collection: worktags_janbrueghel

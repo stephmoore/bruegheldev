@@ -1,6 +1,6 @@
 ---
 pid: plymouth
-title: Plymouth
+title: 'Location: Plymouth'
 location_country: England
 location_city: Plymouth
 collection: location_janbrueghel

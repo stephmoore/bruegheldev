@@ -1,6 +1,6 @@
 ---
 pid: philadelphia
-title: Philadelphia, PA
+title: 'Location: Philadelphia, PA'
 location_country: United States
 location_city: Philadelphia, PA
 collection: location_janbrueghel

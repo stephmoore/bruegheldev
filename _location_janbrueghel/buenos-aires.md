@@ -1,6 +1,6 @@
 ---
 pid: buenos-aires
-title: Buenos Aires
+title: 'Location: Buenos Aires'
 location_country: Argentina
 location_city: Buenos Aires
 collection: location_janbrueghel

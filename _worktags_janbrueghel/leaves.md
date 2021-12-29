@@ -1,6 +1,6 @@
 ---
 pid: leaves
-title: Leaves
+title: 'Tag: Leaves'
 worktag: Leaves
 category: Things
 collection: worktags_janbrueghel

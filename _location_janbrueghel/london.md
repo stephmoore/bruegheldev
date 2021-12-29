@@ -1,6 +1,6 @@
 ---
 pid: london
-title: London
+title: 'Location: London'
 location_country: England
 location_city: London
 collection: location_janbrueghel

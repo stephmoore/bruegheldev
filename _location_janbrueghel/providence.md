@@ -1,6 +1,6 @@
 ---
 pid: providence
-title: Providence, RI
+title: 'Location: Providence, RI'
 location_country: United States
 location_city: Providence, RI
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: borromeo
-title: Borromeo
+title: 'Tag: Borromeo'
 worktag: Borromeo
 category: Collectors
 collection: worktags_janbrueghel

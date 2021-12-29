@@ -1,6 +1,6 @@
 ---
 pid: oslo
-title: Oslo
+title: 'Location: Oslo'
 location_country: Norway
 location_city: Oslo
 collection: location_pieterbruegel

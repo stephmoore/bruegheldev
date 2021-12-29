@@ -1,6 +1,6 @@
 ---
 pid: dijon
-title: Dijon
+title: 'Location: Dijon'
 location_country: France
 location_city: Dijon
 collection: location_janbrueghel

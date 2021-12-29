@@ -1,6 +1,6 @@
 ---
 pid: san-diego
-title: San Diego, CA
+title: 'Location: San Diego, CA'
 location_country: United States
 location_city: San Diego, CA
 collection: location_pieterbruegel

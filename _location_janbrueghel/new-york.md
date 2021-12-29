@@ -1,6 +1,6 @@
 ---
 pid: new-york
-title: New York, NY
+title: 'Location: New York, NY'
 location_country: United States
 location_city: New York, NY
 collection: location_janbrueghel

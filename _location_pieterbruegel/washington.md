@@ -1,6 +1,6 @@
 ---
 pid: washington
-title: Washington, DC
+title: 'Location: Washington, DC'
 location_country: United States
 location_city: Washington, DC
 collection: location_pieterbruegel

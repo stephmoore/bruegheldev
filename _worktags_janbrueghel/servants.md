@@ -1,6 +1,6 @@
 ---
 pid: servants
-title: Servants
+title: 'Tag: Servants'
 worktag: Servants
 category: Persons/figures
 collection: worktags_janbrueghel

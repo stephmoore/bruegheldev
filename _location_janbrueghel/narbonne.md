@@ -1,6 +1,6 @@
 ---
 pid: narbonne
-title: Narbonne
+title: 'Location: Narbonne'
 location_country: France
 location_city: Narbonne
 collection: location_janbrueghel

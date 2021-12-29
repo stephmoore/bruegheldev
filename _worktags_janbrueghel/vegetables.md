@@ -1,6 +1,6 @@
 ---
 pid: vegetables
-title: Vegetables
+title: 'Tag: Vegetables'
 worktag: Vegetables
 category: Things
 collection: worktags_janbrueghel

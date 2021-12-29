@@ -1,6 +1,6 @@
 ---
 pid: lisbon
-title: Lisbon
+title: 'Location: Lisbon'
 location_country: Portugal
 location_city: Lisbon
 collection: location_janbrueghel

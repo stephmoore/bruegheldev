@@ -1,6 +1,6 @@
 ---
 pid: mountain
-title: Mountain
+title: 'Tag: Mountain'
 worktag: Mountain
 category: Landscape features
 collection: worktags_pieterbruegel

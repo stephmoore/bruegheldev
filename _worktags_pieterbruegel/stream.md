@@ -1,6 +1,6 @@
 ---
 pid: stream
-title: Stream
+title: 'Tag: Stream'
 worktag: Stream
 category: Landscape features
 collection: worktags_pieterbruegel

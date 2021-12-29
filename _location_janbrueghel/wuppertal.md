@@ -1,6 +1,6 @@
 ---
 pid: wuppertal
-title: Wuppertal
+title: 'Location: Wuppertal'
 location_country: Germany
 location_city: Wuppertal
 collection: location_janbrueghel

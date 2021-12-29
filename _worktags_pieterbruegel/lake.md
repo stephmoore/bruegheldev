@@ -1,6 +1,6 @@
 ---
 pid: lake
-title: Lake
+title: 'Tag: Lake'
 worktag: Lake
 category: Landscape features
 collection: worktags_pieterbruegel

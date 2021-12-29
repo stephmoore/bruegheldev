@@ -1,6 +1,6 @@
 ---
 pid: bleaching
-title: Bleaching
+title: 'Tag: Bleaching'
 worktag: Bleaching
 category: Activities
 collection: worktags_janbrueghel

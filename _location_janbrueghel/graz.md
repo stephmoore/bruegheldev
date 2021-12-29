@@ -1,6 +1,6 @@
 ---
 pid: graz
-title: Graz
+title: 'Location: Graz'
 location_country: Austria
 location_city: Graz
 collection: location_janbrueghel

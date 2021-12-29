@@ -1,6 +1,6 @@
 ---
 pid: wurzburg
-title: Würzburg
+title: 'Location: Würzburg'
 location_country: Germany
 location_city: Würzburg
 collection: location_janbrueghel

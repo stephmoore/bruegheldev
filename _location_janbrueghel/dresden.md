@@ -1,6 +1,6 @@
 ---
 pid: dresden
-title: Dresden
+title: 'Location: Dresden'
 location_country: Germany
 location_city: Dresden
 collection: location_janbrueghel

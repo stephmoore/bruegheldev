@@ -1,6 +1,6 @@
 ---
 pid: wiltshire
-title: Wiltshire
+title: 'Location: Wiltshire'
 location_country: England
 location_city: Wiltshire
 collection: location_janbrueghel

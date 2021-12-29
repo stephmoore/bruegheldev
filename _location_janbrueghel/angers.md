@@ -1,6 +1,6 @@
 ---
 pid: angers
-title: Angers
+title: 'Location: Angers'
 location_country: France
 location_city: Angers
 collection: location_janbrueghel

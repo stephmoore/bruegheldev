@@ -1,6 +1,6 @@
 ---
 pid: bilbao
-title: Bilbao
+title: 'Location: Bilbao'
 location_country: Spain
 location_city: Bilbao
 collection: location_janbrueghel

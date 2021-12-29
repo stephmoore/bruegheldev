@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 ---
 {% assign collection = site[layout.collection] | sort: "label" %}
 
-<h2 class="page-title">{{ page[layout.cat] }}</h2>
 <div id="result_count"></div>
 <div class="container-fluid d-flex flex-column flex-md-row align-items-start">
   <div id="wax-gallery-object-type" class="col-12 d-flex flex-wrap">
@@ -26,6 +25,6 @@ layout: default
 
 <script>
  $( document ).ready(function() {
-  $('#result_count').append("Results: {{ counter }}");
+  $('#result_count').append("Displaying {{ counter }} results");
  });
 </script>

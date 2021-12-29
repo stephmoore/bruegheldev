@@ -1,6 +1,6 @@
 ---
 pid: holy-roman-emperor-rudolf-ii
-title: Holy Roman Emperor Rudolf II
+title: 'Tag: Holy Roman Emperor Rudolf II'
 worktag: Holy Roman Emperor Rudolf II
 category: Collectors
 collection: worktags_pieterbruegel

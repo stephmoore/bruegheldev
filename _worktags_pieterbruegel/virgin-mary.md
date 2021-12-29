@@ -1,6 +1,6 @@
 ---
 pid: virgin-mary
-title: Virgin Mary
+title: 'Tag: Virgin Mary'
 worktag: Virgin Mary
 category: Religious
 collection: worktags_pieterbruegel

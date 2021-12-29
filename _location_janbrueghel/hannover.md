@@ -1,6 +1,6 @@
 ---
 pid: hannover
-title: Hannover
+title: 'Location: Hannover'
 location_country: Germany
 location_city: Hannover
 collection: location_janbrueghel

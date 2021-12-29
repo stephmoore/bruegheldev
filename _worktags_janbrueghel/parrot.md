@@ -1,6 +1,6 @@
 ---
 pid: parrot
-title: Parrot
+title: 'Tag: Parrot'
 worktag: Parrot
 category: Animals
 collection: worktags_janbrueghel

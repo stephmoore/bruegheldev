@@ -1,6 +1,6 @@
 ---
 pid: swine
-title: Swine
+title: 'Tag: Swine'
 worktag: Swine
 category: Animals
 collection: worktags_janbrueghel

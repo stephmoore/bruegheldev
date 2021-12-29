@@ -1,6 +1,6 @@
 ---
 pid: edinburgh
-title: Edinburgh
+title: 'Location: Edinburgh'
 location_country: Scotland
 location_city: Edinburgh
 collection: location_janbrueghel

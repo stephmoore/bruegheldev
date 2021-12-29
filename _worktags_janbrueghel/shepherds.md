@@ -1,6 +1,6 @@
 ---
 pid: shepherds
-title: Shepherds
+title: 'Tag: Shepherds'
 worktag: Shepherds
 category: Persons/figures
 collection: worktags_janbrueghel

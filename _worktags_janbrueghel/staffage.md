@@ -1,6 +1,6 @@
 ---
 pid: staffage
-title: Staffage
+title: 'Tag: Staffage'
 worktag: Staffage
 category: Landscape features
 collection: worktags_janbrueghel

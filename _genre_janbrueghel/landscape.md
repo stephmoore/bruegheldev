@@ -1,7 +1,7 @@
 ---
 pid: landscape
+title: 'Genre: Landscape'
 label: Landscape
-title: Landscape
 genre: Landscape
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

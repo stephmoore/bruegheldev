@@ -1,6 +1,6 @@
 ---
 pid: box
-title: Box
+title: 'Tag: Box'
 worktag: Box
 category: Containers
 collection: worktags_janbrueghel

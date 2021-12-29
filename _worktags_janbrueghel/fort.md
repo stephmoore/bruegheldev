@@ -1,6 +1,6 @@
 ---
 pid: fort
-title: Fort
+title: 'Tag: Fort'
 worktag: Fort
 category: Architecture
 collection: worktags_janbrueghel

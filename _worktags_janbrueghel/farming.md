@@ -1,6 +1,6 @@
 ---
 pid: farming
-title: Farming
+title: 'Tag: Farming'
 worktag: Farming
 category: Activities
 collection: worktags_janbrueghel

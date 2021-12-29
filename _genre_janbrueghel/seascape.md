@@ -1,7 +1,7 @@
 ---
 pid: seascape
+title: 'Genre: Seascape'
 label: Seascape
-title: Seascape
 genre: Seascape
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: barn
-title: Barn
+title: 'Tag: Barn'
 worktag: Barn
 category: Architecture
 collection: worktags_pieterbruegel

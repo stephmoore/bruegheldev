@@ -1,6 +1,6 @@
 ---
 pid: fruit
-title: Fruit
+title: 'Tag: Fruit'
 worktag: Fruit
 category: Things
 collection: worktags_janbrueghel

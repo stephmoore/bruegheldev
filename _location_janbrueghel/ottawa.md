@@ -1,6 +1,6 @@
 ---
 pid: ottawa
-title: Ottawa
+title: 'Location: Ottawa'
 location_country: Canada
 location_city: Ottawa
 collection: location_janbrueghel

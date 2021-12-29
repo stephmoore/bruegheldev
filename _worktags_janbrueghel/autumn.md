@@ -1,6 +1,6 @@
 ---
 pid: autumn
-title: Autumn
+title: 'Tag: Autumn'
 worktag: Autumn
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

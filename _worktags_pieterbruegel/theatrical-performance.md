@@ -1,6 +1,6 @@
 ---
 pid: theatrical-performance
-title: Theatrical Performance
+title: 'Tag: Theatrical Performance'
 worktag: Theatrical Performance
 category: Activities
 collection: worktags_pieterbruegel

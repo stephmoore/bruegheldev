@@ -1,6 +1,6 @@
 ---
 pid: elements
-title: Elements
+title: 'Tag: Elements'
 worktag: Elements
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

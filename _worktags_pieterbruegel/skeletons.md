@@ -1,6 +1,6 @@
 ---
 pid: skeletons
-title: Skeletons
+title: 'Tag: Skeletons'
 worktag: Skeletons
 category: Persons/figures
 collection: worktags_pieterbruegel

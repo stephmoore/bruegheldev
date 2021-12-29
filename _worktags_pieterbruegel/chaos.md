@@ -1,6 +1,6 @@
 ---
 pid: chaos
-title: Chaos
+title: 'Tag: Chaos'
 worktag: Chaos
 category: Activities
 collection: worktags_pieterbruegel

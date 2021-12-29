@@ -1,6 +1,6 @@
 ---
 pid: cologne
-title: Cologne
+title: 'Location: Cologne'
 location_country: Germany
 location_city: Cologne
 collection: location_janbrueghel

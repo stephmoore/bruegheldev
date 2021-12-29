@@ -1,6 +1,6 @@
 ---
 pid: weaponry
-title: Weaponry
+title: 'Tag: Weaponry'
 worktag: Weaponry
 category: Things
 collection: worktags_pieterbruegel

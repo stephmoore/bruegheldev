@@ -1,6 +1,6 @@
 ---
 pid: berlin
-title: Berlin
+title: 'Location: Berlin'
 location_country: Germany
 location_city: Berlin
 collection: location_pieterbruegel

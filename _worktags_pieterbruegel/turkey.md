@@ -1,6 +1,6 @@
 ---
 pid: turkey
-title: Turkey
+title: 'Tag: Turkey'
 worktag: Turkey
 category: Animals
 collection: worktags_pieterbruegel

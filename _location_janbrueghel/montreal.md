@@ -1,6 +1,6 @@
 ---
 pid: montreal
-title: Montreal
+title: 'Location: Montreal'
 location_country: Canada
 location_city: Montreal
 collection: location_janbrueghel

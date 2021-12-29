@@ -1,6 +1,6 @@
 ---
 pid: horse
-title: Horse
+title: 'Tag: Horse'
 worktag: Horse
 category: Animals
 collection: worktags_pieterbruegel

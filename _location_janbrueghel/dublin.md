@@ -1,6 +1,6 @@
 ---
 pid: dublin
-title: Dublin
+title: 'Location: Dublin'
 location_country: Ireland
 location_city: Dublin
 collection: location_janbrueghel

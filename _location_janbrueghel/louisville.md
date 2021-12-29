@@ -1,6 +1,6 @@
 ---
 pid: louisville
-title: Louisville, KY
+title: 'Location: Louisville, KY'
 location_country: United States
 location_city: Louisville, KY
 collection: location_janbrueghel

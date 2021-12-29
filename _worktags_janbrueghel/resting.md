@@ -1,6 +1,6 @@
 ---
 pid: resting
-title: Resting
+title: 'Tag: Resting'
 worktag: Resting
 category: Activities
 collection: worktags_janbrueghel

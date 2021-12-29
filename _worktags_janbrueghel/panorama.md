@@ -1,6 +1,6 @@
 ---
 pid: panorama
-title: Panorama
+title: 'Tag: Panorama'
 worktag: Panorama
 category: Landscape features
 collection: worktags_janbrueghel

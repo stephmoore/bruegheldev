@@ -1,6 +1,6 @@
 ---
 pid: lille
-title: Lille
+title: 'Location: Lille'
 location_country: France
 location_city: Lille
 collection: location_janbrueghel

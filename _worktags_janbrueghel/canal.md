@@ -1,6 +1,6 @@
 ---
 pid: canal
-title: Canal
+title: 'Tag: Canal'
 worktag: Canal
 category: Landscape features
 collection: worktags_janbrueghel

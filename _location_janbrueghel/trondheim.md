@@ -1,6 +1,6 @@
 ---
 pid: trondheim
-title: Trondheim
+title: 'Location: Trondheim'
 location_country: Norway
 location_city: Trondheim
 collection: location_janbrueghel

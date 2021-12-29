@@ -1,6 +1,6 @@
 ---
 pid: basel
-title: Basel
+title: 'Location: Basel'
 location_country: Switzerland
 location_city: Basel
 collection: location_janbrueghel

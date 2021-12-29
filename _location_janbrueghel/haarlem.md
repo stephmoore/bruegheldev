@@ -1,6 +1,6 @@
 ---
 pid: haarlem
-title: Haarlem
+title: 'Location: Haarlem'
 location_country: Netherlands
 location_city: Haarlem
 collection: location_janbrueghel

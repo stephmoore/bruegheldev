@@ -1,6 +1,6 @@
 ---
 pid: wharf
-title: Wharf
+title: 'Tag: Wharf'
 worktag: Wharf
 category: Architecture
 collection: worktags_janbrueghel

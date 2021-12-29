@@ -1,6 +1,6 @@
 ---
 pid: toronto
-title: Toronto
+title: 'Location: Toronto'
 location_country: Canada
 location_city: Toronto
 collection: location_janbrueghel

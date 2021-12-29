@@ -1,6 +1,6 @@
 ---
 pid: garden
-title: Garden
+title: 'Tag: Garden'
 worktag: Garden
 category: Landscape features
 collection: worktags_janbrueghel

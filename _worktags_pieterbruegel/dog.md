@@ -1,6 +1,6 @@
 ---
 pid: dog
-title: Dog
+title: 'Tag: Dog'
 worktag: Dog
 category: Animals
 collection: worktags_pieterbruegel

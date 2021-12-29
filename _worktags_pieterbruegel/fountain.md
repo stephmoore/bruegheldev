@@ -1,6 +1,6 @@
 ---
 pid: fountain
-title: Fountain
+title: 'Tag: Fountain'
 worktag: Fountain
 category: Landscape features
 collection: worktags_pieterbruegel

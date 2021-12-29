@@ -1,6 +1,6 @@
 ---
 pid: manchester
-title: Manchester
+title: 'Location: Manchester'
 location_country: England
 location_city: Manchester
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: aachen
-title: Aachen
+title: 'Location: Aachen'
 location_country: Germany
 location_city: Aachen
 collection: location_janbrueghel

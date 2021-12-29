@@ -1,6 +1,6 @@
 ---
 pid: leeds
-title: Leeds
+title: 'Location: Leeds'
 location_country: England
 location_city: Leeds
 collection: location_janbrueghel

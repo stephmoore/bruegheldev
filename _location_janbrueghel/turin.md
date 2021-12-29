@@ -1,6 +1,6 @@
 ---
 pid: turin
-title: Turin
+title: 'Location: Turin'
 location_country: Italy
 location_city: Turin
 collection: location_janbrueghel

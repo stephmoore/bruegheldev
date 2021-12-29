@@ -1,6 +1,6 @@
 ---
 pid: windsor
-title: Windsor
+title: 'Location: Windsor'
 location_country: England
 location_city: Windsor
 collection: location_janbrueghel

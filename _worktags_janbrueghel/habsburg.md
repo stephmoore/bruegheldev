@@ -1,6 +1,6 @@
 ---
 pid: habsburg
-title: Habsburg
+title: 'Tag: Habsburg'
 worktag: Habsburg
 category: Collectors
 collection: worktags_janbrueghel

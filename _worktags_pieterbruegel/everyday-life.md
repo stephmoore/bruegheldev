@@ -1,6 +1,6 @@
 ---
 pid: everyday-life
-title: Everyday life
+title: 'Tag: Everyday life'
 worktag: Everyday life
 category: Activities
 collection: worktags_pieterbruegel

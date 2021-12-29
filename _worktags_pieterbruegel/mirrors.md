@@ -1,6 +1,6 @@
 ---
 pid: mirrors
-title: Mirrors
+title: 'Tag: Mirrors'
 worktag: Mirrors
 category: Things
 collection: worktags_pieterbruegel

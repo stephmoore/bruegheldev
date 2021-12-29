@@ -1,6 +1,6 @@
 ---
 pid: naples
-title: Naples
+title: 'Location: Naples'
 location_country: Italy
 location_city: Naples
 collection: location_janbrueghel

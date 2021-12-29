@@ -1,6 +1,6 @@
 ---
 pid: st-petersburg
-title: St. Petersburg
+title: 'Location: St. Petersburg'
 location_country: Russia
 location_city: St. Petersburg
 collection: location_janbrueghel

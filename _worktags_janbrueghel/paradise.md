@@ -1,6 +1,6 @@
 ---
 pid: paradise
-title: Paradise
+title: 'Tag: Paradise'
 worktag: Paradise
 category: Religious
 collection: worktags_janbrueghel

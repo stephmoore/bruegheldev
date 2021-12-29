@@ -1,8 +1,7 @@
 ---
 pid: study
-title: Study
+title: 'Genre: Study'
 label: Study
-genre: Study
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '08'

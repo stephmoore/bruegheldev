@@ -1,6 +1,6 @@
 ---
 pid: rooster
-title: Rooster
+title: 'Tag: Rooster'
 worktag: Rooster
 category: Animals
 collection: worktags_pieterbruegel

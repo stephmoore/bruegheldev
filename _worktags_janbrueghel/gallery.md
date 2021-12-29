@@ -1,6 +1,6 @@
 ---
 pid: gallery
-title: Gallery
+title: 'Tag: Gallery'
 worktag: Gallery
 category: Secondary genres
 collection: worktags_janbrueghel

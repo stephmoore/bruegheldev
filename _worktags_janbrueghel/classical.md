@@ -1,6 +1,6 @@
 ---
 pid: classical
-title: Classical
+title: 'Tag: Classical'
 worktag: Classical
 category: Secondary genres
 collection: worktags_janbrueghel

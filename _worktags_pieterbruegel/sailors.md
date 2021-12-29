@@ -1,6 +1,6 @@
 ---
 pid: sailors
-title: Sailors
+title: 'Tag: Sailors'
 worktag: Sailors
 category: Persons/figures
 collection: worktags_pieterbruegel

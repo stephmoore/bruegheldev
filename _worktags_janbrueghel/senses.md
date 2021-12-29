@@ -1,6 +1,6 @@
 ---
 pid: senses
-title: Senses
+title: 'Tag: Senses'
 worktag: Senses
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

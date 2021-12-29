@@ -1,6 +1,6 @@
 ---
 pid: madrid
-title: Madrid
+title: 'Location: Madrid'
 location_country: Spain
 location_city: Madrid
 collection: location_janbrueghel

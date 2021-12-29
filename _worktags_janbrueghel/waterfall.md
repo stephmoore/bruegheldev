@@ -1,6 +1,6 @@
 ---
 pid: waterfall
-title: Waterfall
+title: 'Tag: Waterfall'
 worktag: Waterfall
 category: Landscape features
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: st-louis
-title: St. Louis, MO
+title: 'Location: St. Louis, MO'
 location_country: United States
 location_city: St. Louis, MO
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: stockholm
-title: Stockholm
+title: 'Location: Stockholm'
 location_country: Sweden
 location_city: Stockholm
 collection: location_janbrueghel

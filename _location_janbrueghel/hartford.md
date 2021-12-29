@@ -1,6 +1,6 @@
 ---
 pid: hartford
-title: Hartford, CT
+title: 'Location: Hartford, CT'
 location_country: United States
 location_city: Hartford, CT
 collection: location_janbrueghel

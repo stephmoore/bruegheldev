@@ -1,6 +1,6 @@
 ---
 pid: shells
-title: Shells
+title: 'Tag: Shells'
 worktag: Shells
 category: Things
 collection: worktags_janbrueghel

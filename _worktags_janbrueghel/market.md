@@ -1,6 +1,6 @@
 ---
 pid: market
-title: Market
+title: 'Tag: Market'
 worktag: Market
 category: Activities
 collection: worktags_janbrueghel

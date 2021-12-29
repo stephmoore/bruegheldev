@@ -1,6 +1,6 @@
 ---
 pid: munich
-title: Munich
+title: 'Location: Munich'
 location_country: Germany
 location_city: Munich
 collection: location_janbrueghel

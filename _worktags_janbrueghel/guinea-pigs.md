@@ -1,6 +1,6 @@
 ---
 pid: guinea-pigs
-title: Guinea Pigs
+title: 'Tag: Guinea Pigs'
 worktag: Guinea Pigs
 category: Animals
 collection: worktags_janbrueghel

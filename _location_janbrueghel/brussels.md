@@ -1,6 +1,6 @@
 ---
 pid: brussels
-title: Brussels
+title: 'Location: Brussels'
 location_country: Belgium
 location_city: Brussels
 collection: location_janbrueghel

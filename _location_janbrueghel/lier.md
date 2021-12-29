@@ -1,6 +1,6 @@
 ---
 pid: lier
-title: Lier
+title: 'Location: Lier'
 location_country: Belgium
 location_city: Lier
 collection: location_janbrueghel

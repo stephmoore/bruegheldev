@@ -1,6 +1,6 @@
 ---
 pid: cambridge
-title: Cambridge
+title: 'Location: Cambridge'
 location_country: England
 location_city: Cambridge
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: moneybox
-title: Moneybox
+title: 'Tag: Moneybox'
 worktag: Moneybox
 category: Things
 collection: worktags_pieterbruegel

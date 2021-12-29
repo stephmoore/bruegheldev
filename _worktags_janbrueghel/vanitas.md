@@ -1,6 +1,6 @@
 ---
 pid: vanitas
-title: Vanitas
+title: 'Tag: Vanitas'
 worktag: Vanitas
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

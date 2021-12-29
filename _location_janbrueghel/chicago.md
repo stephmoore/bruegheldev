@@ -1,6 +1,6 @@
 ---
 pid: chicago
-title: Chicago, IL
+title: 'Location: Chicago, IL'
 location_country: United States
 location_city: Chicago, IL
 collection: location_janbrueghel

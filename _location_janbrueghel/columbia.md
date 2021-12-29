@@ -1,6 +1,6 @@
 ---
 pid: columbia
-title: Columbia, SC
+title: 'Location: Columbia, SC'
 location_country: United States
 location_city: Columbia, SC
 collection: location_janbrueghel

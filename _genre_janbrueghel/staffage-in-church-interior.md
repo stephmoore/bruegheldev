@@ -1,7 +1,7 @@
 ---
 pid: staffage-in-church-interior
+title: 'Genre: Staffage in Church Interior'
 label: Staffage in Church Interior
-title: Staffage in Church Interior
 genre: Staffage in Church Interior
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

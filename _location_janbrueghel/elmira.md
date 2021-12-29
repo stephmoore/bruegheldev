@@ -1,6 +1,6 @@
 ---
 pid: elmira
-title: Elmira, NY
+title: 'Location: Elmira, NY'
 location_country: United States
 location_city: Elmira, NY
 collection: location_janbrueghel

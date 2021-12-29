@@ -1,6 +1,6 @@
 ---
 pid: jan-brueghel-the-younger
-title: Jan Brueghel the Younger
+title: 'Tag: Jan Brueghel the Younger'
 worktag: Jan Brueghel the Younger
 category: Associated artists
 collection: worktags_janbrueghel

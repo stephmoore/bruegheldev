@@ -1,6 +1,6 @@
 ---
 pid: inn
-title: Inn
+title: 'Tag: Inn'
 worktag: Inn
 category: Architecture
 collection: worktags_pieterbruegel

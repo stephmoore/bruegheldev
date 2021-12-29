@@ -1,6 +1,6 @@
 ---
 pid: vatican-city
-title: Vatican City
+title: 'Location: Vatican City'
 location_country:
 location_city: Vatican City
 collection: location_janbrueghel

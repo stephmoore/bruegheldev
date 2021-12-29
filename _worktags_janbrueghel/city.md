@@ -1,6 +1,6 @@
 ---
 pid: city
-title: City
+title: 'Tag: City'
 worktag: City
 category: Architecture
 collection: worktags_janbrueghel

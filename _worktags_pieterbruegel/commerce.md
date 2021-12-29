@@ -1,6 +1,6 @@
 ---
 pid: commerce
-title: Commerce
+title: 'Tag: Commerce'
 worktag: Commerce
 category: Activities
 collection: worktags_pieterbruegel

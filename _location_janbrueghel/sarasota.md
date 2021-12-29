@@ -1,6 +1,6 @@
 ---
 pid: sarasota
-title: Sarasota, FL
+title: 'Location: Sarasota, FL'
 location_country: United States
 location_city: Sarasota, FL
 collection: location_janbrueghel

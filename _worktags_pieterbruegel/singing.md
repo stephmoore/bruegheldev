@@ -1,6 +1,6 @@
 ---
 pid: singing
-title: Singing
+title: 'Tag: Singing'
 worktag: Singing
 category: Activities
 collection: worktags_pieterbruegel

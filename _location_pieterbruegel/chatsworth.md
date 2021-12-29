@@ -1,6 +1,6 @@
 ---
 pid: chatsworth
-title: Chatsworth
+title: 'Location: Chatsworth'
 location_country: England
 location_city: Chatsworth
 collection: location_pieterbruegel

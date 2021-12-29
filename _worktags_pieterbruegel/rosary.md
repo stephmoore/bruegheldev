@@ -1,6 +1,6 @@
 ---
 pid: rosary
-title: Rosary
+title: 'Tag: Rosary'
 worktag: Rosary
 category: Things
 collection: worktags_pieterbruegel

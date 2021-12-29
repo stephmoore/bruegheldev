@@ -1,6 +1,6 @@
 ---
 pid: coins
-title: Coins
+title: 'Tag: Coins'
 worktag: Coins
 category: Things
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: heaven
-title: Heaven
+title: 'Tag: Heaven'
 worktag: Heaven
 category: Religious
 collection: worktags_janbrueghel

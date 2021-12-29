@@ -1,6 +1,6 @@
 ---
 pid: storm
-title: Storm
+title: 'Tag: Storm'
 worktag: Storm
 category: Landscape features
 collection: worktags_janbrueghel

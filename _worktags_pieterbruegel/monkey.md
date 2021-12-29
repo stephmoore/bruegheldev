@@ -1,6 +1,6 @@
 ---
 pid: monkey
-title: Monkey
+title: 'Tag: Monkey'
 worktag: Monkey
 category: Animals
 collection: worktags_pieterbruegel

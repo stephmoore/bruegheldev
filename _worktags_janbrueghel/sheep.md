@@ -1,6 +1,6 @@
 ---
 pid: sheep
-title: Sheep
+title: 'Tag: Sheep'
 worktag: Sheep
 category: Animals
 collection: worktags_janbrueghel

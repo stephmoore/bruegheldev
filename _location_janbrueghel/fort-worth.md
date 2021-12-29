@@ -1,6 +1,6 @@
 ---
 pid: fort-worth
-title: Fort Worth, TX
+title: 'Location: Fort Worth, TX'
 location_country: United States
 location_city: Fort Worth, TX
 collection: location_janbrueghel

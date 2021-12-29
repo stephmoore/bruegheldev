@@ -1,6 +1,6 @@
 ---
 pid: schwerin
-title: Schwerin
+title: 'Location: Schwerin'
 location_country: Germany
 location_city: Schwerin
 collection: location_janbrueghel

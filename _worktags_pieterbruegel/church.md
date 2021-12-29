@@ -1,6 +1,6 @@
 ---
 pid: church
-title: Church
+title: 'Tag: Church'
 worktag: Church
 category: Architecture
 collection: worktags_pieterbruegel

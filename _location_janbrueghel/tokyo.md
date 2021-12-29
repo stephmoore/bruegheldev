@@ -1,6 +1,6 @@
 ---
 pid: tokyo
-title: Tokyo
+title: 'Location: Tokyo'
 location_country: Japan
 location_city: Tokyo
 collection: location_janbrueghel

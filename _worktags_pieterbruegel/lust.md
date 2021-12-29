@@ -1,6 +1,6 @@
 ---
 pid: lust
-title: Lust
+title: 'Tag: Lust'
 worktag: Lust
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel

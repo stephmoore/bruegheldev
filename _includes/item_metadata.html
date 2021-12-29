@@ -130,7 +130,7 @@
           {% assign person_stripped = person | strip %}
           {% assign bio = site.biographies | where: "label", person_stripped %}
           {% if bio[0] != nil %}
-            {% assign bio_url = "/biographies/" | append: bio[0].pid %}
+            {% assign bio_url = bio[0].permalink %}
             {%- capture bio_entry -%}
               <a href="{{ bio_url | absolute_url }}">{{ bio[0].label }}</a>
             {%- endcapture -%}

@@ -1,6 +1,6 @@
 ---
 pid: tronie
-title: Tronie
+title: 'Tag: Tronie'
 worktag: Tronie
 category: Persons/figures
 collection: worktags_pieterbruegel

@@ -1,6 +1,6 @@
 ---
 pid: bergen
-title: Bergen
+title: 'Location: Bergen'
 location_country: Norway
 location_city: Bergen
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: montpellier
-title: Montpellier
+title: 'Location: Montpellier'
 location_country: France
 location_city: Montpellier
 collection: location_janbrueghel

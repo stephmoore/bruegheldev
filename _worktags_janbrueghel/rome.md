@@ -1,6 +1,6 @@
 ---
 pid: rome
-title: Rome
+title: 'Tag: Rome'
 worktag: Rome
 category: Locations
 collection: worktags_janbrueghel

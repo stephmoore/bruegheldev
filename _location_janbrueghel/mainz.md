@@ -1,6 +1,6 @@
 ---
 pid: mainz
-title: Mainz
+title: 'Location: Mainz'
 location_country: Germany
 location_city: Mainz
 collection: location_janbrueghel

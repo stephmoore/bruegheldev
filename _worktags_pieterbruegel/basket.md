@@ -1,6 +1,6 @@
 ---
 pid: basket
-title: Basket
+title: 'Tag: Basket'
 worktag: Basket
 category: Things
 collection: worktags_pieterbruegel

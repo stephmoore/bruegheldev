@@ -1,6 +1,6 @@
 ---
 pid: carriage
-title: Carriage
+title: 'Tag: Carriage'
 worktag: Carriage
 category: Transportation
 collection: worktags_janbrueghel

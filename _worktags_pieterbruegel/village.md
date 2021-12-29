@@ -1,6 +1,6 @@
 ---
 pid: village
-title: Village
+title: 'Tag: Village'
 worktag: Village
 category: Architecture
 collection: worktags_pieterbruegel

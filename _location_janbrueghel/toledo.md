@@ -1,6 +1,6 @@
 ---
 pid: toledo
-title: Toledo, OH
+title: 'Location: Toledo, OH'
 location_country: United States
 location_city: Toledo, OH
 collection: location_janbrueghel

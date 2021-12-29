@@ -1,7 +1,7 @@
 ---
 pid: study
+title: 'Genre: Study'
 label: Study
-title: Study
 genre: Study
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

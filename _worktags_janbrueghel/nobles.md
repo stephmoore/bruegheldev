@@ -1,6 +1,6 @@
 ---
 pid: nobles
-title: Nobles
+title: 'Tag: Nobles'
 worktag: Nobles
 category: Persons/figures
 collection: worktags_janbrueghel

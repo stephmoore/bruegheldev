@@ -1,6 +1,6 @@
 ---
 pid: oxford
-title: Oxford
+title: 'Location: Oxford'
 location_country: England
 location_city: Oxford
 collection: location_janbrueghel

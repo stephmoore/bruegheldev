@@ -1,6 +1,6 @@
 ---
 pid: rocks
-title: Rocks
+title: 'Tag: Rocks'
 worktag: Rocks
 category: Landscape features
 collection: worktags_janbrueghel

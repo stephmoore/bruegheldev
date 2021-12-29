@@ -1,6 +1,6 @@
 ---
 pid: eggs
-title: Eggs
+title: 'Tag: Eggs'
 worktag: Eggs
 category: Things
 collection: worktags_pieterbruegel

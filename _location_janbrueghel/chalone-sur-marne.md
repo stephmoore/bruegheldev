@@ -1,6 +1,6 @@
 ---
 pid: chalone-sur-marne
-title: Châlone-sur-Marne
+title: 'Location: Châlone-sur-Marne'
 location_country: France
 location_city: Châlone-sur-Marne
 collection: location_janbrueghel

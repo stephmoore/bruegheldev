@@ -1,6 +1,6 @@
 ---
 pid: salzburg
-title: Salzburg
+title: 'Location: Salzburg'
 location_country: Austria
 location_city: Salzburg
 collection: location_janbrueghel

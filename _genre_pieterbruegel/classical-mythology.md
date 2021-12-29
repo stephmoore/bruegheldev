@@ -1,8 +1,7 @@
 ---
 pid: classical-mythology
-title: Classical Mythology
+title: 'Genre: Classical Mythology'
 label: Classical Mythology
-genre: Classical Mythology
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '02'

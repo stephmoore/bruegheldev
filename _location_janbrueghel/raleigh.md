@@ -1,6 +1,6 @@
 ---
 pid: raleigh
-title: Raleigh, NC
+title: 'Location: Raleigh, NC'
 location_country: United States
 location_city: Raleigh, NC
 collection: location_janbrueghel

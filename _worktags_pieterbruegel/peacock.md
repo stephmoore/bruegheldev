@@ -1,6 +1,6 @@
 ---
 pid: peacock
-title: Peacock
+title: 'Tag: Peacock'
 worktag: Peacock
 category: Activities
 collection: worktags_pieterbruegel

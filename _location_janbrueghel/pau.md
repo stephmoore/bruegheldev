@@ -1,6 +1,6 @@
 ---
 pid: pau
-title: Pau
+title: 'Location: Pau'
 location_country: France
 location_city: Pau
 collection: location_janbrueghel

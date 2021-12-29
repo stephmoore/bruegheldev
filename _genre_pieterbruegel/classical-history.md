@@ -1,8 +1,7 @@
 ---
 pid: classical-history
-title: Classical History
+title: 'Genre: Classical History'
 label: Classical History
-genre: Classical History
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '01'

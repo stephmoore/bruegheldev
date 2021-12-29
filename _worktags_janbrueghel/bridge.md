@@ -1,6 +1,6 @@
 ---
 pid: bridge
-title: Bridge
+title: 'Tag: Bridge'
 worktag: Bridge
 category: Architecture
 collection: worktags_janbrueghel

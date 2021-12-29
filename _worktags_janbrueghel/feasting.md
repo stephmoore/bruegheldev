@@ -1,6 +1,6 @@
 ---
 pid: feasting
-title: Feasting
+title: 'Tag: Feasting'
 worktag: Feasting
 category: Activities
 collection: worktags_janbrueghel

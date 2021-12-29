@@ -1,8 +1,7 @@
 ---
 pid: landscape
-title: Landscape
+title: 'Genre: Landscape'
 label: Landscape
-genre: Landscape
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '03'

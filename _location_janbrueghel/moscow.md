@@ -1,6 +1,6 @@
 ---
 pid: moscow
-title: Moscow
+title: 'Location: Moscow'
 location_country: Russia
 location_city: Moscow
 collection: location_janbrueghel

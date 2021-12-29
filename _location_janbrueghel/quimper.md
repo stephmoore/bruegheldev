@@ -1,6 +1,6 @@
 ---
 pid: quimper
-title: Quimper
+title: 'Location: Quimper'
 location_country: France
 location_city: Quimper
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: ortelius
-title: Ortelius
+title: 'Tag: Ortelius'
 worktag: Ortelius
 category: Collectors
 collection: worktags_pieterbruegel

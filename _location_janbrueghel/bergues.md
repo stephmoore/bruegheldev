@@ -1,6 +1,6 @@
 ---
 pid: bergues
-title: Bergues
+title: 'Location: Bergues'
 location_country: France
 location_city: Bergues
 collection: location_janbrueghel

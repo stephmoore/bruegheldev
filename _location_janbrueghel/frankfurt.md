@@ -1,6 +1,6 @@
 ---
 pid: frankfurt
-title: Frankfurt
+title: 'Location: Frankfurt'
 location_country: Germany
 location_city: Frankfurt
 collection: location_janbrueghel

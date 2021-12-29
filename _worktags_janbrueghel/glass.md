@@ -1,6 +1,6 @@
 ---
 pid: glass
-title: Glass
+title: 'Tag: Glass'
 worktag: Glass
 category: Things
 collection: worktags_janbrueghel

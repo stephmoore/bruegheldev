@@ -1,6 +1,6 @@
 ---
 pid: kromeriz
-title: Kroměříž
+title: 'Location: Kroměříž'
 location_country: Czech Republic
 location_city: Kroměříž
 collection: location_janbrueghel

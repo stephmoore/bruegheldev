@@ -1,6 +1,6 @@
 ---
 pid: rennes
-title: Rennes
+title: 'Location: Rennes'
 location_country: France
 location_city: Rennes
 collection: location_pieterbruegel

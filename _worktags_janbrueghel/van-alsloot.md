@@ -1,6 +1,6 @@
 ---
 pid: van-alsloot
-title: Van Alsloot
+title: 'Tag: Van Alsloot'
 worktag: Van Alsloot
 category: Associated artists
 collection: worktags_janbrueghel

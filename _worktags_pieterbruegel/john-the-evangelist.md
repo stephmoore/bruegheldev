@@ -1,6 +1,6 @@
 ---
 pid: john-the-evangelist
-title: John the Evangelist
+title: 'Tag: John the Evangelist'
 worktag: John the Evangelist
 category: Religious
 collection: worktags_pieterbruegel

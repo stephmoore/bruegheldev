@@ -1,6 +1,6 @@
 ---
 pid: seasons
-title: Seasons
+title: 'Tag: Seasons'
 worktag: Seasons
 category: Allegory/Proverbs and Allegory
 collection: worktags_pieterbruegel

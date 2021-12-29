@@ -1,7 +1,7 @@
 ---
 pid: garland
+title: 'Genre: Garland'
 label: Garland
-title: Garland
 genre: Garland
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

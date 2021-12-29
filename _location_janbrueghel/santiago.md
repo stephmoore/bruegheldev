@@ -1,6 +1,6 @@
 ---
 pid: santiago
-title: Santiago
+title: 'Location: Santiago'
 location_country: Chile
 location_city: Santiago
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: bathers
-title: Bathers
+title: 'Tag: Bathers'
 worktag: Bathers
 category: Persons/figures
 collection: worktags_janbrueghel

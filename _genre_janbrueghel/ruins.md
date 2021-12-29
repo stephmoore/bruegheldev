@@ -1,7 +1,7 @@
 ---
 pid: ruins
+title: 'Genre: Ruins'
 label: Ruins
-title: Ruins
 genre: Ruins
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

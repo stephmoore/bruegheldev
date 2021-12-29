@@ -1,6 +1,6 @@
 ---
 pid: derbyshire
-title: Derbyshire
+title: 'Location: Derbyshire'
 location_country: England
 location_city: Derbyshire
 collection: location_janbrueghel

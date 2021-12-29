@@ -1,6 +1,6 @@
 ---
 pid: miniature
-title: Miniature
+title: 'Tag: Miniature'
 worktag: Miniature
 category: Activities
 collection: worktags_janbrueghel

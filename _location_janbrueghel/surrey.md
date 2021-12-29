@@ -1,6 +1,6 @@
 ---
 pid: surrey
-title: Surrey
+title: 'Location: Surrey'
 location_country: England
 location_city: Surrey
 collection: location_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: pond
-title: Pond
+title: 'Tag: Pond'
 worktag: Pond
 category: Landscape features
 collection: worktags_janbrueghel

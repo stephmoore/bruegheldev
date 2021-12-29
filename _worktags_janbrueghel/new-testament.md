@@ -1,6 +1,6 @@
 ---
 pid: new-testament
-title: New Testament
+title: 'Tag: New Testament'
 worktag: New Testament
 category: Religious
 collection: worktags_janbrueghel

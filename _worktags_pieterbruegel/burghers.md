@@ -1,6 +1,6 @@
 ---
 pid: burghers
-title: Burghers
+title: 'Tag: Burghers'
 worktag: Burghers
 category: Persons/figures
 collection: worktags_pieterbruegel

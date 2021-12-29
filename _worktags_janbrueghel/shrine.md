@@ -1,6 +1,6 @@
 ---
 pid: shrine
-title: Shrine
+title: 'Tag: Shrine'
 worktag: Shrine
 category: Architecture
 collection: worktags_janbrueghel

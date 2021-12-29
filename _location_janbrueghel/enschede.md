@@ -1,6 +1,6 @@
 ---
 pid: enschede
-title: Enschede
+title: 'Location: Enschede'
 location_country: Netherlands
 location_city: Enschede
 collection: location_janbrueghel

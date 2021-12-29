@@ -1,6 +1,6 @@
 ---
 pid: ghent
-title: Ghent
+title: 'Location: Ghent'
 location_country: Belgium
 location_city: Ghent
 collection: location_janbrueghel

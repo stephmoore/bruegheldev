@@ -1,6 +1,6 @@
 ---
 pid: banquet
-title: Banquet
+title: 'Tag: Banquet'
 worktag: Banquet
 category: Social life
 collection: worktags_janbrueghel

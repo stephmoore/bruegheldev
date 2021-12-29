@@ -1,6 +1,6 @@
 ---
 pid: cornucopia
-title: Cornucopia
+title: 'Tag: Cornucopia'
 worktag: Cornucopia
 category: Things
 collection: worktags_janbrueghel

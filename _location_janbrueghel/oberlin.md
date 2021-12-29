@@ -1,6 +1,6 @@
 ---
 pid: oberlin
-title: Oberlin, OH
+title: 'Location: Oberlin, OH'
 location_country: United States
 location_city: Oberlin, OH
 collection: location_janbrueghel

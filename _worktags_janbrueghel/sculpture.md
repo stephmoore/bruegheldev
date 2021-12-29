@@ -1,6 +1,6 @@
 ---
 pid: sculpture
-title: Sculpture
+title: 'Tag: Sculpture'
 worktag: Sculpture
 category: Things
 collection: worktags_janbrueghel

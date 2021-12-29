@@ -1,6 +1,6 @@
 ---
 pid: leiden
-title: Leiden
+title: 'Location: Leiden'
 location_country: Netherlands
 location_city: Leiden
 collection: location_janbrueghel

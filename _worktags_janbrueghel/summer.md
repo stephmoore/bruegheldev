@@ -1,6 +1,6 @@
 ---
 pid: summer
-title: Summer
+title: 'Tag: Summer'
 worktag: Summer
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

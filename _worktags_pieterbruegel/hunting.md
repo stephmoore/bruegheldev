@@ -1,6 +1,6 @@
 ---
 pid: hunting
-title: Hunting
+title: 'Tag: Hunting'
 worktag: Hunting
 category: Activities
 collection: worktags_pieterbruegel

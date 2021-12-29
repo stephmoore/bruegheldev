@@ -1,6 +1,6 @@
 ---
 pid: wagon
-title: Wagon
+title: 'Tag: Wagon'
 worktag: Wagon
 category: Transportation
 collection: worktags_pieterbruegel

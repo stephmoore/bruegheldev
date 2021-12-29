@@ -1,6 +1,6 @@
 ---
 pid: priests
-title: Priests
+title: 'Tag: Priests'
 worktag: Priests
 category: Persons/figures
 collection: worktags_pieterbruegel

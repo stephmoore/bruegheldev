@@ -1,6 +1,6 @@
 ---
 pid: winter
-title: Winter
+title: 'Tag: Winter'
 worktag: Winter
 category: Allegory/Proverbs and Allegory
 collection: worktags_janbrueghel

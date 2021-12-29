@@ -1,6 +1,6 @@
 ---
 pid: peasants
-title: Peasants
+title: 'Tag: Peasants'
 worktag: Peasants
 category: Persons/figures
 collection: worktags_pieterbruegel

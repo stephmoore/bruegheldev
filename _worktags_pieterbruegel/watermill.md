@@ -1,6 +1,6 @@
 ---
 pid: watermill
-title: Watermill
+title: 'Tag: Watermill'
 worktag: Watermill
 category: Architecture
 collection: worktags_pieterbruegel

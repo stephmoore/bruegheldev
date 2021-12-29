@@ -1,6 +1,6 @@
 ---
 pid: books
-title: Books
+title: 'Tag: Books'
 worktag: Books
 category: Things
 collection: worktags_pieterbruegel

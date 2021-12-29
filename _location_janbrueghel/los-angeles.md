@@ -1,6 +1,6 @@
 ---
 pid: los-angeles
-title: Los Angeles, CA
+title: 'Location: Los Angeles, CA'
 location_country: United States
 location_city: Los Angeles, CA
 collection: location_janbrueghel

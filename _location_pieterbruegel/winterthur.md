@@ -1,6 +1,6 @@
 ---
 pid: winterthur
-title: Winterthur
+title: 'Location: Winterthur'
 location_country: Switzerland
 location_city: Winterthur
 collection: location_pieterbruegel

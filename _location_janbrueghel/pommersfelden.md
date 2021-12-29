@@ -1,6 +1,6 @@
 ---
 pid: pommersfelden
-title: Pommersfelden
+title: 'Location: Pommersfelden'
 location_country: Germany
 location_city: Pommersfelden
 collection: location_janbrueghel

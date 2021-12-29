@@ -1,6 +1,6 @@
 ---
 pid: san-francisco
-title: San Francisco, CA
+title: 'Location: San Francisco, CA'
 location_country: United States
 location_city: San Francisco, CA
 collection: location_janbrueghel

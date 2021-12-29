@@ -1,6 +1,6 @@
 ---
 pid: snyders
-title: Snyders
+title: 'Tag: Snyders'
 worktag: Snyders
 category: Associated artists
 collection: worktags_janbrueghel

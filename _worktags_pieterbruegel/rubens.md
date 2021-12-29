@@ -1,6 +1,6 @@
 ---
 pid: rubens
-title: Rubens
+title: 'Tag: Rubens'
 worktag: Rubens
 category: Associated artists
 collection: worktags_pieterbruegel

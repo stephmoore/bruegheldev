@@ -1,8 +1,7 @@
 ---
 pid: religious
-title: Religious
+title: 'Genre: Religious'
 label: Religious
-genre: Religious
 collection: genre_pieterbruegel
 layout: genrepage_pieterbruegel
 order: '06'

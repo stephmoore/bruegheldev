@@ -1,7 +1,7 @@
 ---
 pid: flower-still-life-and-nature-study
+title: 'Genre: Flower Still-Life and Nature Study'
 label: Flower Still-Life and Nature Study
-title: Flower Still-Life and Nature Study
 genre: Flower Still-Life and Nature Study
 collection: genre_janbrueghel
 layout: genrepage_janbrueghel

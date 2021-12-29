@@ -1,6 +1,6 @@
 ---
 pid: nimes
-title: Nîmes
+title: 'Location: Nîmes'
 location_country: France
 location_city: Nîmes
 collection: location_janbrueghel

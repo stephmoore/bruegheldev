@@ -1,6 +1,6 @@
 ---
 pid: cup
-title: Cup
+title: 'Tag: Cup'
 worktag: Cup
 category: Things
 collection: worktags_pieterbruegel

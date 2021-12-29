@@ -1,6 +1,6 @@
 ---
 pid: van-steenwyck
-title: Van Steenwyck
+title: 'Tag: Van Steenwyck'
 worktag: Van Steenwyck
 category: Associated artists
 collection: worktags_janbrueghel

@@ -1,6 +1,6 @@
 ---
 pid: chickens
-title: Chickens
+title: 'Tag: Chickens'
 worktag: Chickens
 category: Animals
 collection: worktags_janbrueghel

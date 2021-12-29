@@ -1,6 +1,6 @@
 ---
 pid: flowers
-title: Flowers
+title: 'Tag: Flowers'
 worktag: Flowers
 category: Things
 collection: worktags_janbrueghel

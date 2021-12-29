@@ -1,6 +1,6 @@
 ---
 pid: hamburg
-title: Hamburg
+title: 'Location: Hamburg'
 location_country: Germany
 location_city: Hamburg
 collection: location_janbrueghel

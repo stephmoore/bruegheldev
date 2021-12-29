@@ -1,6 +1,6 @@
 ---
 pid: avignon
-title: Avignon
+title: 'Location: Avignon'
 location_country: France
 location_city: Avignon
 collection: location_janbrueghel

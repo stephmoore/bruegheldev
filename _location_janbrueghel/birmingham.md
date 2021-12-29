@@ -1,6 +1,6 @@
 ---
 pid: birmingham
-title: Birmingham
+title: 'Location: Birmingham'
 location_country: England
 location_city: Birmingham
 collection: location_janbrueghel

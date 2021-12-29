@@ -1,6 +1,6 @@
 ---
 pid: household-items
-title: Household items
+title: 'Tag: Household items'
 worktag: Household items
 category: Things
 collection: worktags_pieterbruegel

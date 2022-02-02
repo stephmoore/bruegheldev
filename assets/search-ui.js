@@ -100,7 +100,7 @@ function startSearchUI(fields, indexFile, url) {
     if (location.search) {
       var arg = decodeURIComponent(location.search);
       var searchRaw = arg.replace("?search=", "");
-      var search = searchRaw.replace("+", " ");
+      var search = searchRaw.replace(/\+/g, " ");
       $('input#search').val(search) // Is this how you assign in jquery?
       run_search(search);
     }

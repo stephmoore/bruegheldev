@@ -68,27 +68,32 @@ function displayResult(item, fields, url) {
 
 function startSearchUI(fields, indexFile, url) {
   $.getJSON(indexFile, function(store) {
+    elasticlunr.tokenizer.seperator = /[\s\-()]+/;
     var index  = new elasticlunr.Index;
-
     index.saveDocument(false);
     index.setRef('lunr_id');
-
-    for (i in fields) { index.addField(fields[i]); }
-    for (i in store)  { index.addDoc(store[i]); }
-
+    // for (i in fields) { index.addField(fields[i]); }
+    // for (i in store)  { index.addDoc(store[i]); }
+    index.addField("data");
+    for (i in store) {
+      index.addDoc({
+        lunr_id: store[i].lunr_id,
+        data: Object.entries(store[i])
+                .filter(([field, value]) => fields.includes(field))
+                .reduce((data, [field, value]) => data.concat(value), [])
+                .join(" ")
+      })
+    }
     function run_search(terms) {
       var results_div = $('#results');
       var query       = terms
-      var results     = index.search(query, { boolean: 'AND', expand: true });
-
+      var results     = index.search(query, { bool: 'AND', expand: true });
       results_div.empty();
       results_div.append(`<p class="results-info">Displaying ${results.length} results</p>`);
-
       for (var r in results) {
         var ref    = results[r].ref;
         var item   = store[ref];
         var result = displayResult(item, fields, url);
-
         results_div.append(result);
       }
     }
@@ -105,3 +110,4 @@ function startSearchUI(fields, indexFile, url) {
     });
   });
 }
+$('input#search').off();

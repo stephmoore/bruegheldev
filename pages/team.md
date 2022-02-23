@@ -4,17 +4,17 @@ title: Who We Are
 permalink: '/team/'
 ---
 
--  Elizabeth Alice Honig, Professor, University of California, Berkeley: art historian, editor, organizer
-- Stephanie Moore, UCB: Drupal site developer
-- Quinn Dombrowski: Drupal adviser
+- Elizabeth Alice Honig, Professor, University of Maryland: art historian, editor, organizer
+- Quinn Dombrowski: Site developer
+- Stephanie Moore: Site developer
+
+#### Former team members
 - Ashley Chen: Pieter Bruegel assistant, Jan Brueghel and Momper collaborations, site manager
 - Ximena Valdarrago: biographer, mapping, site manager
 - Saffron Sener: biographer, mapping
 - Jingyi Xu: mapping
 - Zak Handler: mapping
 - William Tan: technical assistant
-
-#### Former team members
 - Nina Amenta, Professor, University of California, Davis: computer science
 - Katherine Steiner, University of San Francisco: site designer
 - Julie Turgeon, Yale University: site manager, image researcher
@@ -55,7 +55,6 @@ permalink: '/team/'
 - Anya Shulman: Pieter Bruegel drawings and prints
 
 #### Advisers
-
 - Louisa Wood Ruby, Frick Art Reference Library: drawings
 - Mark Meadow, University of California, Santa Barbara: Pieter Bruegel the Elder
 - Bert Watteuw, Rubenianum

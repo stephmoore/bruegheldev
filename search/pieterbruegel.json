@@ -959,7 +959,7 @@ layout: none
     "label": "The Death of the Virgin (Banbury)",
     "object_type": "Painting",
     "genre": "Religious",
-    "worktags": "Death|Durer|Rubens|Schongauer|Ortelius|John the Evangelist|Peter|The Golden Legend|Virgin Mary",
+    "worktags": "Death|Dürer|Rubens|Schongauer|Ortelius|John the Evangelist|Peter|The Golden Legend|Virgin Mary",
     "height_cm": "36",
     "width_cm": "55",
     "diameter_cm": null,
@@ -3329,7 +3329,7 @@ layout: none
     "bibliography": null,
     "exhibition_history": "Master Drawings from the Woodner Collection, Malibu u. a. O (????) 1983-85, nr. 46, Woodner Collection, Master Drawings, New York, The Metropolitan Museum of Art 1990, nr. 84, The Touch of the Artist, Washington, National Gallery of Art, nr. 55",
     "copies_and_variants": null,
-    "thumbnail": "/img/derivatives/simple/10102/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/10102/thumbnail.jpg",
     "collection": "pieterbruegel",
     "permalink": "/pieterbruegel/the-bagpipe-player",
     "lunr_id": 97
@@ -3873,7 +3873,7 @@ layout: none
     "bibliography": "Van Bastelaer 1908, I|H. III (Bruegel) 1|H. IV (Cock) 150|Feinblatt 1961, 1|Klein 1963, 9|Vienna 1967-68, 33|Lebeer 1969, 62|Fehl 1970|De Pauw-De Veen 1970, 154|Domaszewska 1971, 1|Lari 1973, 1|Riggs 1977, 25|Vallese 1979, 14|White 1979|Tokyo 1989, 62|Gilchrist 1992, I|Hamburg 2001, 62|Orenstein and Sellink 2001, 82|Sullivan 2003",
     "exhibition_history": null,
     "copies_and_variants": null,
-    "thumbnail": "/img/derivatives/simple/10119/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/10119/thumbnail.jpg",
     "collection": "pieterbruegel",
     "permalink": "/pieterbruegel/the-rabbit-hunt",
     "lunr_id": 113
@@ -5131,7 +5131,7 @@ layout: none
     "bibliography": "Nagler Monogrammist vol. IV, 1771|Van Bastelaer 1908, 193|H. III (Bruegel) 193|H. IV (Cock) 258|H. IX (Van der Heyden), 59|Feinblatt1961, 70|Klein 1963, 37|Vienna 1967-68, 62|Lebeer 1969, 28|De Pauw-De Veen 1970, 114|Lari 1973, 157|Riggs 1977, 47|Vallese 1979, 47|Marijnissen 1988, pp. 110-11|Tokyo 1989, 28|Gilchrist 1992, 193|GdZ, VI. 19 (2221)|Hamburg 2001, 28|Orenstein and Sellink 2001, 73 Plate in the inventory of the widow of Hieronymus Cock, Volcxken Diericx, 1601: }\"Een coperen plaete van eenen Keysnyer van Bruegel\" (Duverger 1984, p. 29).",
     "exhibition_history": null,
     "copies_and_variants": null,
-    "thumbnail": "/img/derivatives/simple/10156/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/10156/thumbnail.jpg",
     "collection": "pieterbruegel",
     "permalink": "/pieterbruegel/the-stone-operation-or-the-witch-of-mallegem",
     "lunr_id": 150
